@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  2 DEC 2017 17:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  3 DEC 2017 12:35
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -67,18 +67,16 @@ Package scrreprt Info: You've used standard option `11pt'.
 (scrreprt)             If you'd like to set the option with \KOMAoptions,
 (scrreprt)             you'd have to use `fontsize=11pt' there
 (scrreprt)             instead of `11pt', too.
-Package scrreprt Info: You've used standard option `12pt'.
+Package scrreprt Info: You've used standard option `11pt'.
 (scrreprt)             This is correct!
-(scrreprt)             Internally I'm using `fontsize=12pt'.
+(scrreprt)             Internally I'm using `fontsize=11pt'.
 (scrreprt)             If you'd like to set the option with \KOMAoptions,
-(scrreprt)             you'd have to use `fontsize=12pt' there
-(scrreprt)             instead of `12pt', too.
-Class scrreprt Info: File `size12.clo' used to setup font sizes on input line 2
-293.
+(scrreprt)             you'd have to use `fontsize=11pt' there
+(scrreprt)             instead of `11pt', too.
+Class scrreprt Info: File `tubsa411pt.clo' used to setup font sizes on input li
+ne 2293.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-)
+("C:\Program Files (x86)\tubslatex\tex/latex\tubs\tubsa411pt.clo")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
 Package: typearea 2017/09/07 v3.24 KOMA-Script package (type area)
 \ta@bcor=\skip42
@@ -96,21 +94,21 @@ Package typearea Info: You've used standard option `a4paper'.
 
 DIV calculation for typearea with good linewidth.
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 9
+(typearea)             DIV  = 8
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 398.33862pt
+(typearea)              \textwidth      = 373.44246pt
 (typearea)              DIV departure   = 0%
-(typearea)              \evensidemargin = 27.31467pt
-(typearea)              \oddsidemargin  = 27.31467pt
+(typearea)              \evensidemargin = 39.76274pt
+(typearea)              \oddsidemargin  = 39.76274pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 577.5pt
-(typearea)              \topmargin      = -18.25089pt
-(typearea)              \headheight     = 18.125pt
-(typearea)              \headsep        = 21.75pt
-(typearea)              \topskip        = 12.0pt
-(typearea)              \footskip       = 50.75pt
-(typearea)              \baselineskip   = 14.5pt
+(typearea)              \textheight     = 534.5998pt
+(typearea)              \topmargin      = -8.9891pt
+(typearea)              \headheight     = 19.24998pt
+(typearea)              \headsep        = 23.09999pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 53.89996pt
+(typearea)              \baselineskip   = 15.4pt
 (typearea)              on input line 1686.
 )
 \c@part=\count82
@@ -888,25 +886,31 @@ File: ly1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) (Projektarbeit.aux)
+))
+
+LaTeX Warning: Unused global option(s):
+    [author=small].
+
+(Projektarbeit.aux)
 \openout1 = `Projektarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Try loading font information for LY1+NexusProSerif on input
- line 5.
+ line 12.
+
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusproserif.fd"
 File: LY1NexusProSerif.fd Fontshop NexusProSerif font definitions
 )
@@ -985,12 +989,12 @@ G,.JBIG2,.JB2,.eps]
 * \topmargin=-38.1267pt
 * \headheight=68.28664pt
 * \headsep=34.14328pt
-* \topskip=12.0pt
-* \footskip=50.75pt
-* \marginparwidth=66.38977pt
+* \topskip=11.0pt
+* \footskip=53.89996pt
+* \marginparwidth=74.68849pt
 * \marginparsep=12.8401pt
 * \columnsep=14.22636pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1003,88 +1007,133 @@ G,.JBIG2,.JB2,.eps]
 \AtBeginShipoutBox=\box35
 ABD: EveryShipout initializing macros
 \big@size=\dimen134
-LaTeX Font Info:    Try loading font information for LY1+NexusProSans on input 
-line 6.
 
+Selected title style 'plain'
+LaTeX Font Info:    Try loading font information for LY1+NexusProSans on input 
+line 13.
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusprosans.fd"
 File: LY1NexusProSans.fd Fontshop NexusProSans font definitions
 )
-LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <12> not availab
-le
-(Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 6.
-LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <24.88> not avai
+LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <10.95> not avai
 lable
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 6.
-
-(Projektarbeit.toc
+ne 13.
+LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <45> not availab
+le
+(Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
+ne 13.
+LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <36> not availab
+le
+(Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
+ne 13.
 LaTeX Font Info:    Try loading font information for LY1+NexusProSans-lnum on i
-nput line 2.
+nput line 13.
 
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusprosans-lnum.fd"
 File: LY1NexusProSans-lnum.fd Fontshop NexusProSans-lnum font definitions
 )
-LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <12> not av
-ailable
+LaTeX Font Info:    Calculating math sizes for size <27> on input line 13.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 13.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 13.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 13.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 13.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 13.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+<TUBraunschweig_4C.pdf, id=1, 199.1691pt x 73.97737pt>
+File: TUBraunschweig_4C.pdf Graphic file (type pdf)
+
+<use TUBraunschweig_4C.pdf>
+Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 13.
+(pdftex.def)             Requested size: 199.16928pt x 73.98167pt.
+\tmp@logoheight=\dimen135
+LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <14> not availab
+le
+(Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
+ne 13.
+
+<Bilder/ifw-logo.jpg, id=2, 351.3125pt x 74.2775pt>
+File: Bilder/ifw-logo.jpg Graphic file (type jpg)
+ <use Bilder/ifw-logo.jpg>
+Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 13.
+(pdftex.def)             Requested size: 231.89912pt x 49.03009pt.
+File: TUBraunschweig_4C.pdf Graphic file (type pdf)
+
+<use TUBraunschweig_4C.pdf>
+Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 13.
+(pdftex.def)             Requested size: 199.16928pt x 73.98167pt.
+\tmp@logoheight=\dimen136
+File: Bilder/ifw-logo.jpg Graphic file (type jpg)
+ <use Bilder/ifw-logo.jpg>
+Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 13.
+(pdftex.def)             Requested size: 231.89912pt x 49.03009pt.
+ [1
+
+
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Program Files (x86)/tu
+bslatex/tex/latex/tubs/logos/TUBraunschweig_4C.pdf> <./Bilder/ifw-logo.jpg>] (P
+rojektarbeit.toc
+LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <10.95> not
+ available
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
 ut line 2.
 )
 \tf@toc=\write3
 \openout3 = `Projektarbeit.toc'.
 
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 7.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 7.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 7.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 7.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 7.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [1
-
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-chapter 1.
-LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <24.88> not
- available
-(Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 7.
 [2
+
+]
+chapter 1.
+LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <36> not av
+ailable
+(Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
+ut line 16.
+[3
 
 ] (Projektarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 8904 strings out of 493323
- 143398 string characters out of 3139045
- 325781 words of memory out of 3000000
- 12255 multiletter control sequences out of 15000+200000
- 43630 words of font info for 43 fonts, out of 3000000 for 9000
+ 8960 strings out of 493323
+ 144419 string characters out of 3139045
+ 325918 words of memory out of 3000000
+ 12305 multiletter control sequences out of 15000+200000
+ 76076 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,12n,104p,8881b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,13n,104p,8881b,866s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontsh
 op/a_molob5.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_cb
 f6z5.enc}<C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Bold.
-pfb><C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerifPro-Regular.p
-fb>
-Output written on Projektarbeit.pdf (2 pages, 24296 bytes).
+pfb><C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Regular.pf
+b><C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerifPro-Regular.pfb
+>
+Output written on Projektarbeit.pdf (3 pages, 89729 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -16,10 +16,30 @@
 \tableofcontents
 \chapter{Titanwerkstoffe}
 \section{Gefügemerkmale}
-Wie andere Metalle liegt Titan in verschiedenen Gefügezuständen beziehungsweise Phasenzuständen vor. Der Zustand ist von der Temperatur und den vorliegenden Legierungselementen abhängig. Bei reinem Titan liegt unterhalb von 882°C Grad ein hexagonal dichtest gepackstes Gefüge vor \cite{Luetjering2007}. Diese Phase wird als Alphaphase ($\alpha$-Phase) bezeichnet. Oberhalb von 882°C liegt das Gefüge in einer kubisch raumzentrierten Anordnung vor ($\beta$-Phase). Die Umwandlungstemperatur ist für jede Titanlegierung unterschiedlich und ist von den Legierungselementen abhängig. Sie wird als Betatransustemperatur bezeichnet. 
+Wie andere Metalle liegt Titan in verschiedenen Gefügezuständen beziehungsweise Phasenzuständen vor. Der Zustand ist von der Temperatur und den vorliegenden Legierungselementen abhängig. Bei reinem Titan liegt unterhalb von 882°C Grad ein hexagonal dichtest gepackte Kristallstruktur vor. Diese Phase wird als Alphaphase ($\alpha$-Phase) bezeichnet. Oberhalb von 882°C liegt die Kristallstruktur in einer kubisch raumzentrierten Anordnung vor ($\beta$-Phase). Die Umwandlungstemperatur ist für jede Titanlegierung unterschiedlich und ist von den Legierungselementen abhängig. Sie wird als Betatransustemperatur bezeichnet \cite{Luetjering2007}.
+
 \subsection{Alpha}
+Die alpha-Titan Phase ist durch eine hexagonale Gitterstruktur gekennzeichnet. Dadurch entsteht ein anisotropes Werkstoffverhalten in einem Einkristall.
+Ein Einkristall ist über ein homogenes, einhaltliches Kristallgitter definiert.
+In einem Belastungsfall dieses Einkristalls ist das Werkstoffverhalten abhängig von der Belastungsrichtung, im Verhältnis zur Gitterrichtung. Das Elastizitätsmodul $E$ reicht je nach Verhältnis, von minimal 100 GPa bis maximal 145 GPa. Es ist eine Kenngröße, die das elastische Verhalten eines Werkstoffes definiert und wird in Pascal angegeben. 
 
+\subsection{Beta}
+Eine $\beta$-Phase ist ein Gefüge mit einer kubisch raumzentrierte Gitteranordnung. Dadurch resultiert ein homogenes Werkstoffverhalten.
+Beta-T  
+\subsection{Gefüge}
+\subsubsection{Lamellar}
+\subsubsection{Bimodal}
+\subsubsection{Martensit}
+\chapter{Methodik}
+\section{Wärmebehandlung}
 
+Die Wärmebehandlung nach der Rekristllisation ist die letzte Methode um das Gefüge des Titans einzustellen. Hierbei kommt es auf Parameter wie Temperatur, Haltezeit und Abkühlmethode an. Um die bereits erwähnten Gefüge zu realisieren, ist eine spezifische Abfolge von einer beziehungsweise mehreren Stufen einer Wärmebehandlung nötig. Die grundlegenden Behandlungen werden in diesem Kapitel behandelt. Spezielle, mehrstufige Behandlungen werden in dem dritten Kapitel behandelt.
+\subsection{Temperaturkontrolle}
+Für die Temperaturkontrolle innerhalb der Wärmebehandlung kommt ein Ofen zum Einsatz. Dieser kann bis Temperaturen weit über Betatransus aufheizen und diese mit einer Genauigkeit von drei Kelvin halten. 
+
+Der Ofen ist auch für die aufheizgeschwindik
+\subsection{Abkühlmedien}
+\subsection{Anpassung der Gefüge durch Wärmebehandlung}
 \bibliographystyle{plain}
 \bibliography{literatur}
 

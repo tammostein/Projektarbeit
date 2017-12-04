@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  4 DEC 2017 11:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  4 DEC 2017 17:32
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1129,31 +1129,37 @@ ut line 18.
 LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <14> not av
 ailable
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 20.
-(Projektarbeit.bbl [3
+ut line 21.
+[3
 
-]) [4
+]
+chapter 2.
+(Projektarbeit.bbl [4
+
+]) [5
 
 ] (Projektarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 9125 strings out of 493323
- 147578 string characters out of 3139045
- 326852 words of memory out of 3000000
- 12449 multiletter control sequences out of 15000+200000
+ 9134 strings out of 493323
+ 147736 string characters out of 3139045
+ 328852 words of memory out of 3000000
+ 12458 multiletter control sequences out of 15000+200000
  103190 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,13n,104p,8881b,862s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontsh
-op/a_molob5.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_3c
-gipr.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_cbf6z5.en
-c}<C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Bold.pfb><C:
-/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Regular.pfb><C:/P
-rogram Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerifPro-Italic.pfb><C:/Pro
-gram Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerifPro-Regular.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb>
-Output written on Projektarbeit.pdf (4 pages, 115957 bytes).
+op/a_molob5.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Pr
+ogram Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_3cgipr.enc}{C:/Program F
+iles (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_cbf6z5.enc}<C:/Program Files (x
+86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Bold.pfb><C:/Program Files (x86)/t
+ubslatex/fonts/type1/Nexus/NexusSansPro-Regular.pfb><C:/Program Files (x86)/tub
+slatex/fonts/type1/Nexus/NexusSerifPro-Italic.pfb><C:/Program Files (x86)/tubsl
+atex/fonts/type1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+urw/palatino/uplri8a.pfb>
+Output written on Projektarbeit.pdf (5 pages, 124603 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

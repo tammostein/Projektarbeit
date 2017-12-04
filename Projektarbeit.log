@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  3 DEC 2017 12:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  4 DEC 2017 11:02
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -887,29 +887,29 @@ File: ly1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-
-LaTeX Warning: Unused global option(s):
-    [author=small].
-
-(Projektarbeit.aux)
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (Projektarbeit.aux)
 \openout1 = `Projektarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Try loading font information for LY1+NexusProSerif on input
- line 12.
+ line 14.
 
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusproserif.fd"
 File: LY1NexusProSerif.fd Fontshop NexusProSerif font definitions
@@ -1007,56 +1007,55 @@ G,.JBIG2,.JB2,.eps]
 \AtBeginShipoutBox=\box35
 ABD: EveryShipout initializing macros
 \big@size=\dimen134
-
-Selected title style 'plain'
 LaTeX Font Info:    Try loading font information for LY1+NexusProSans on input 
-line 13.
+line 16.
+
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusprosans.fd"
 File: LY1NexusProSans.fd Fontshop NexusProSans font definitions
 )
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <10.95> not avai
 lable
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 13.
+ne 16.
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <45> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 13.
+ne 16.
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <36> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 13.
+ne 16.
 LaTeX Font Info:    Try loading font information for LY1+NexusProSans-lnum on i
-nput line 13.
+nput line 16.
 
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusprosans-lnum.fd"
 File: LY1NexusProSans-lnum.fd Fontshop NexusProSans-lnum font definitions
 )
-LaTeX Font Info:    Calculating math sizes for size <27> on input line 13.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 13.
+LaTeX Font Info:    Calculating math sizes for size <27> on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 16.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 13.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 16.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 13.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 16.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 13.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 16.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 13.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 16.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
@@ -1066,28 +1065,28 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 File: TUBraunschweig_4C.pdf Graphic file (type pdf)
 
 <use TUBraunschweig_4C.pdf>
-Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 13.
+Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 16.
 (pdftex.def)             Requested size: 199.16928pt x 73.98167pt.
 \tmp@logoheight=\dimen135
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <14> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 13.
+ne 16.
 
 <Bilder/ifw-logo.jpg, id=2, 351.3125pt x 74.2775pt>
 File: Bilder/ifw-logo.jpg Graphic file (type jpg)
  <use Bilder/ifw-logo.jpg>
-Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 13.
+Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 16.
 (pdftex.def)             Requested size: 231.89912pt x 49.03009pt.
 File: TUBraunschweig_4C.pdf Graphic file (type pdf)
 
 <use TUBraunschweig_4C.pdf>
-Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 13.
+Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 16.
 (pdftex.def)             Requested size: 199.16928pt x 73.98167pt.
 \tmp@logoheight=\dimen136
 File: Bilder/ifw-logo.jpg Graphic file (type jpg)
  <use Bilder/ifw-logo.jpg>
-Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 13.
+Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 16.
 (pdftex.def)             Requested size: 231.89912pt x 49.03009pt.
  [1
 
@@ -1101,7 +1100,12 @@ LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <10.95> not
  available
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
 ut line 2.
-)
+LaTeX Font Info:    Try loading font information for LY1+NexusProSerif-lnum on 
+input line 3.
+
+("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusproserif-lnum.fd"
+File: LY1NexusProSerif-lnum.fd Fontshop NexusProSerif-lnum font definitions
+))
 \tf@toc=\write3
 \openout3 = `Projektarbeit.toc'.
 
@@ -1113,27 +1117,43 @@ chapter 1.
 LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <36> not av
 ailable
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 16.
-[3
+ut line 17.
+LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <18> not availab
+le
+(Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
+ne 18.
+LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <18> not av
+ailable
+(Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
+ut line 18.
+LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <14> not av
+ailable
+(Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
+ut line 20.
+(Projektarbeit.bbl [3
+
+]) [4
 
 ] (Projektarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 8960 strings out of 493323
- 144419 string characters out of 3139045
- 325918 words of memory out of 3000000
- 12305 multiletter control sequences out of 15000+200000
- 76076 words of font info for 66 fonts, out of 3000000 for 9000
+ 9125 strings out of 493323
+ 147578 string characters out of 3139045
+ 326852 words of memory out of 3000000
+ 12449 multiletter control sequences out of 15000+200000
+ 103190 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,13n,104p,8881b,866s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,13n,104p,8881b,862s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontsh
-op/a_molob5.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_cb
-f6z5.enc}<C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Bold.
-pfb><C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Regular.pf
-b><C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerifPro-Regular.pfb
->
-Output written on Projektarbeit.pdf (3 pages, 89729 bytes).
+op/a_molob5.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_3c
+gipr.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_cbf6z5.en
+c}<C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Bold.pfb><C:
+/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Regular.pfb><C:/P
+rogram Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerifPro-Italic.pfb><C:/Pro
+gram Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerifPro-Regular.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb>
+Output written on Projektarbeit.pdf (4 pages, 115957 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

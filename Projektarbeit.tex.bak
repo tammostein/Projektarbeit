@@ -19,6 +19,7 @@
 Wie andere Metalle liegt Titan in verschiedenen Gefügezuständen beziehungsweise Phasenzuständen vor. Der Zustand ist von der Temperatur und den vorliegenden Legierungselementen abhängig. Bei reinem Titan liegt unterhalb von 882°C Grad ein hexagonal dichtest gepackstes Gefüge vor \cite{Luetjering2007}. Diese Phase wird als Alphaphase ($\alpha$-Phase) bezeichnet. Oberhalb von 882°C liegt das Gefüge in einer kubisch raumzentrierten Anordnung vor ($\beta$-Phase). Die Umwandlungstemperatur ist für jede Titanlegierung unterschiedlich und ist von den Legierungselementen abhängig. Sie wird als Betatransustemperatur bezeichnet. 
 \subsection{Alpha}
 
+
 \bibliographystyle{plain}
 \bibliography{literatur}
 

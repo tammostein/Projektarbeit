@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  4 DEC 2017 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  6 DEC 2017 14:58
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -891,42 +891,51 @@ File: ly1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-) (Projektarbeit.aux)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen132
+\WF@size=\dimen133
+\c@WF@wrappedlines=\count115
+\WF@box=\box34
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+)
+(Projektarbeit.aux)
 \openout1 = `Projektarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Try loading font information for LY1+NexusProSerif on input
- line 14.
+ line 16.
 
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusproserif.fd"
 File: LY1NexusProSerif.fd Fontshop NexusProSerif font definitions
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count115
-\scratchdimen=\dimen132
-\scratchbox=\box34
-\nofMPsegments=\count116
-\nofMParguments=\count117
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count118
-\MPscratchDim=\dimen133
-\MPnumerator=\count119
-\makeMPintoPDFobject=\count120
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count116
+\scratchdimen=\dimen134
+\scratchbox=\box35
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen135
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks23
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -1004,11 +1013,11 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box35
+\AtBeginShipoutBox=\box36
 ABD: EveryShipout initializing macros
-\big@size=\dimen134
+\big@size=\dimen136
 LaTeX Font Info:    Try loading font information for LY1+NexusProSans on input 
-line 16.
+line 18.
 
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusprosans.fd"
 File: LY1NexusProSans.fd Fontshop NexusProSans font definitions
@@ -1016,46 +1025,46 @@ File: LY1NexusProSans.fd Fontshop NexusProSans font definitions
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <10.95> not avai
 lable
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 16.
+ne 18.
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <45> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 16.
+ne 18.
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <36> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 16.
+ne 18.
 LaTeX Font Info:    Try loading font information for LY1+NexusProSans-lnum on i
-nput line 16.
+nput line 18.
 
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusprosans-lnum.fd"
 File: LY1NexusProSans-lnum.fd Fontshop NexusProSans-lnum font definitions
 )
-LaTeX Font Info:    Calculating math sizes for size <27> on input line 16.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 16.
+LaTeX Font Info:    Calculating math sizes for size <27> on input line 18.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 18.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 16.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 18.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 16.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 18.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 16.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 18.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 18.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
@@ -1065,28 +1074,28 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 File: TUBraunschweig_4C.pdf Graphic file (type pdf)
 
 <use TUBraunschweig_4C.pdf>
-Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 16.
+Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 18.
 (pdftex.def)             Requested size: 199.16928pt x 73.98167pt.
-\tmp@logoheight=\dimen135
+\tmp@logoheight=\dimen137
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <14> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 16.
+ne 18.
 
 <Bilder/ifw-logo.jpg, id=2, 351.3125pt x 74.2775pt>
 File: Bilder/ifw-logo.jpg Graphic file (type jpg)
  <use Bilder/ifw-logo.jpg>
-Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 16.
+Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 18.
 (pdftex.def)             Requested size: 231.89912pt x 49.03009pt.
 File: TUBraunschweig_4C.pdf Graphic file (type pdf)
 
 <use TUBraunschweig_4C.pdf>
-Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 16.
+Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 18.
 (pdftex.def)             Requested size: 199.16928pt x 73.98167pt.
-\tmp@logoheight=\dimen136
+\tmp@logoheight=\dimen138
 File: Bilder/ifw-logo.jpg Graphic file (type jpg)
  <use Bilder/ifw-logo.jpg>
-Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 16.
+Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 18.
 (pdftex.def)             Requested size: 231.89912pt x 49.03009pt.
  [1
 
@@ -1117,49 +1126,66 @@ chapter 1.
 LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <36> not av
 ailable
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 17.
+ut line 19.
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <18> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 18.
+ne 20.
 LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <18> not av
 ailable
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 18.
+ut line 20.
 LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <14> not av
 ailable
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 21.
+ut line 23.
+<Bilder/Vollmartensit.jpg, id=17, 668.7384pt x 501.072pt>
+File: Bilder/Vollmartensit.jpg Graphic file (type jpg)
+
+<use Bilder/Vollmartensit.jpg>
+Package pdftex.def Info: Bilder/Vollmartensit.jpg used on input line 43.
+(pdftex.def)             Requested size: 334.36838pt x 250.53539pt.
+
+Overfull \hbox (10.95pt too wide) in paragraph at lines 39--48
+[]$[]$ 
+ []
+
 [3
 
 ]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 52.
+ [4 <./Bilder/Vollmartensit.jpg>]
 chapter 2.
-(Projektarbeit.bbl [4
+(Projektarbeit.bbl [5
 
-]) [5
+]) [6
 
 ] (Projektarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 9134 strings out of 493323
- 147736 string characters out of 3139045
- 328852 words of memory out of 3000000
- 12458 multiletter control sequences out of 15000+200000
- 103190 words of font info for 81 fonts, out of 3000000 for 9000
+ 9223 strings out of 493323
+ 149080 string characters out of 3139045
+ 332102 words of memory out of 3000000
+ 12537 multiletter control sequences out of 15000+200000
+ 117672 words of font info for 88 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,13n,104p,8881b,862s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontsh
-op/a_molob5.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Pr
-ogram Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_3cgipr.enc}{C:/Program F
-iles (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_cbf6z5.enc}<C:/Program Files (x
-86)/tubslatex/fonts/type1/Nexus/NexusSansPro-Bold.pfb><C:/Program Files (x86)/t
-ubslatex/fonts/type1/Nexus/NexusSansPro-Regular.pfb><C:/Program Files (x86)/tub
-slatex/fonts/type1/Nexus/NexusSerifPro-Italic.pfb><C:/Program Files (x86)/tubsl
-atex/fonts/type1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-urw/palatino/uplri8a.pfb>
-Output written on Projektarbeit.pdf (5 pages, 124603 bytes).
+op/a_molob5.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_6g
+6b3j.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_4o7za6.en
+c}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files (x
+86)/tubslatex/fonts/enc/dvips/Fontshop/a_3cgipr.enc}{C:/Program Files (x86)/tub
+slatex/fonts/enc/dvips/Fontshop/a_cbf6z5.enc}<C:/Program Files (x86)/tubslatex/
+fonts/type1/Nexus/NexusSansPro-Bold.pfb><C:/Program Files (x86)/tubslatex/fonts
+/type1/Nexus/NexusSansPro-Regular.pfb><C:/Program Files (x86)/tubslatex/fonts/t
+ype1/Nexus/NexusSerifPro-Italic.pfb><C:/Program Files (x86)/tubslatex/fonts/typ
+e1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/u
+plri8a.pfb>
+Output written on Projektarbeit.pdf (6 pages, 1123603 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

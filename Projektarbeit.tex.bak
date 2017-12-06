@@ -2,6 +2,8 @@
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{cite}
+\usepackage{graphicx}
+\usepackage{wrapfig}
 \title{Wärmebehandlung}
 \date{Wintersemester 17/18}
 \author{J. Hansen, S. Vodde,
@@ -27,19 +29,37 @@ In einem Belastungsfall dieses Einkristalls ist das Werkstoffverhalten abhängig
 Eine $\beta$-Phase ist ein Gefüge mit einer kubisch raumzentrierte Gitteranordnung. Dadurch resultiert ein homogenes Werkstoffverhalten.
 Beta-T  
 \subsection{Gefüge}
+Da sich die Arbeit vor allem mit Gefügeausprägungen und ihren Auswirkungen auseinandersetzt, werden die grundlegenden hier vorgestellt. Die jeweiligen Ausprägungen sind Ausschlaggebend wie sich das Material mechanisch verhält. Da die mögliche Wärmebehandlung nach dem Rekristallisieren statt findet, sind einige Gefügeausbildungen möglicherweise nicht möglich. Dies ist abhängig von dem Ausgangsgefüge.
+Es sind auch Kombinationen der einzelnen Gefüge möglich, um Vorteile der einzelnen hinsichtlich ihrer mechanischen Eigenschaften zu kombinieren.
 \subsubsection{Lamellar}
+In Abbildung 1.1 ist ein Volllamellares Gefüge zu sehen. Es Kennzeichnet sich durch fein parallel verlaufende Nadeln. Die breite der einzelnen Nadeln hängt mit der Abkühlgeschwindigkeit zusammen. In dieser Abbildung wurde eine schnelle Abkühlung gewählt, was zu kleinen, feinen Nadeln führt. 
+
+Lamallare Gefüge entstehen aus einer Abkühlung aus dem $\beta$-Gebiet. Während des Abkühlens bilden sich in der $\beta$-Phase $\alpha$-Bereiche die in eine Richtung wachsen. 
+
+\begin{minipage}{\textwidth}
+
+
+	\centering
+		\includegraphics[scale=0.5]{Bilder/Vollmartensit.jpg}
+		\captionof{figure}{Volllamellares Gefüge}
+		\label{fig1}
+		
+\end{minipage}
+
+
 \subsubsection{Bimodal}
-\subsubsection{Martensit}
+\subsubsection{Globular}
 \chapter{Methodik}
 \section{Wärmebehandlung}
 
 Die Wärmebehandlung nach der Rekristllisation ist die letzte Methode um das Gefüge des Titans einzustellen. Hierbei kommt es auf Parameter wie Temperatur, Haltezeit und Abkühlmethode an. Um die bereits erwähnten Gefüge zu realisieren, ist eine spezifische Abfolge von einer beziehungsweise mehreren Stufen einer Wärmebehandlung nötig. Die grundlegenden Behandlungen werden in diesem Kapitel behandelt. Spezielle, mehrstufige Behandlungen werden in dem dritten Kapitel behandelt.
-\subsection{Temperaturkontrolle}
-Für die Temperaturkontrolle innerhalb der Wärmebehandlung kommt ein Ofen zum Einsatz. Dieser kann bis Temperaturen weit über Betatransus aufheizen und diese mit einer Genauigkeit von drei Kelvin halten. 
+\paragraph{Temperaturkontrolle}
+Für die Temperaturkontrolle innerhalb der Wärmebehandlung kommt ein Ofen zum Einsatz. Dieser kann bis Temperaturen weit über Betatransus aufheizen und diese, mit einer Genauigkeit von drei Kelvin, halten. 
 
-Der Ofen ist auch für die aufheizgeschwindik
-\subsection{Abkühlmedien}
-\subsection{Anpassung der Gefüge durch Wärmebehandlung}
+Der Ofen ist außerdem für die Aufheizgeschwindigkeit verantwortlich, da diese auch einen wichtigen Einfluss haben kann.
+\paragraph{Abkühlmedien}
+
+\subsection*{Anpassung der Gefüge durch Wärmebehandlung}
 \bibliographystyle{plain}
 \bibliography{literatur}
 

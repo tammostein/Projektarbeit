@@ -5,9 +5,9 @@
 \contentsline {subsection}{\numberline {1.1.2}Beta}{3}
 \contentsline {subsection}{\numberline {1.1.3}Gef\IeC {\"u}ge}{3}
 \contentsline {subsubsection}{Lamellar}{3}
-\contentsline {subsubsection}{Bimodal}{3}
-\contentsline {subsubsection}{Martensit}{3}
-\contentsline {chapter}{\numberline {2}Methodik}{4}
-\contentsline {section}{\numberline {2.1}W\IeC {\"a}rmebehandlung}{4}
-\contentsline {paragraph}{Temperaturkontrolle}{4}
-\contentsline {paragraph}{Abk\IeC {\"u}hlmedien}{4}
+\contentsline {subsubsection}{Bimodal}{4}
+\contentsline {subsubsection}{Globular}{4}
+\contentsline {chapter}{\numberline {2}Methodik}{5}
+\contentsline {section}{\numberline {2.1}W\IeC {\"a}rmebehandlung}{5}
+\contentsline {paragraph}{Temperaturkontrolle}{5}
+\contentsline {paragraph}{Abk\IeC {\"u}hlmedien}{5}

@@ -10,3 +10,9 @@ TITLE = " Titan und Titanlegierungen",
 YEAR = 2007,
 PUBLISHER = "Institut für Werkstoffe",
 }
+@BOOK{Leyens2002,
+AUTHOR = "M. Peters and C. Leyens",
+TITLE = "Titan und Titanlegierungen",
+YEAR = 2002,
+PUBLISHER = "WILEY-VCH Verlag GmbH & Co. KGaA",
+}

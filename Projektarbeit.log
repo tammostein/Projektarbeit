@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  13 DEC 2017 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  14 DEC 2017 10:36
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1153,32 +1153,42 @@ Package pdftex.def Info: Bilder/lamellar.jpg used on input line 57.
 (pdftex.def)             Requested size: 258.21405pt x 176.91049pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 65.
+(scrkbase)              on input line 66.
  [4 <./Bilder/lamellar.jpg>]
-chapter 2.
-(Projektarbeit.bbl [5
+<Bilder/Phasendiagram.PNG, id=28, 349.305pt x 265.74281pt>
+File: Bilder/Phasendiagram.PNG Graphic file (type png)
 
-]) [6
+<use Bilder/Phasendiagram.PNG>
+Package pdftex.def Info: Bilder/Phasendiagram.PNG used on input line 70.
+(pdftex.def)             Requested size: 314.37158pt x 239.1663pt.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 75.
+ [5 <./Bilder/Phasendiagram.PNG>]
+chapter 2.
+(Projektarbeit.bbl [6
+
+]) [7
 
 ] (Projektarbeit.lof)
 \tf@lof=\write4
 \openout4 = `Projektarbeit.lof'.
 
- [7
+ [8
 
 ] (Projektarbeit.lot)
 \tf@lot=\write5
 \openout5 = `Projektarbeit.lot'.
 
 
-[8
+[9
 
 ] (Projektarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 9251 strings out of 493323
- 149488 string characters out of 3139045
- 331162 words of memory out of 3000000
- 12558 multiletter control sequences out of 15000+200000
+ 9261 strings out of 493323
+ 149651 string characters out of 3139045
+ 331181 words of memory out of 3000000
+ 12566 multiletter control sequences out of 15000+200000
  117672 words of font info for 88 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,13n,104p,8881b,862s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1194,9 +1204,9 @@ ype1/Nexus/NexusSerifPro-Italic.pfb><C:/Program Files (x86)/tubslatex/fonts/typ
 e1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/u
 plri8a.pfb>
-Output written on Projektarbeit.pdf (8 pages, 173624 bytes).
+Output written on Projektarbeit.pdf (9 pages, 212194 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

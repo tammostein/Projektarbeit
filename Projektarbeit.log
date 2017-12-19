@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  14 DEC 2017 10:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  19 DEC 2017 12:09
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1153,17 +1153,17 @@ Package pdftex.def Info: Bilder/lamellar.jpg used on input line 57.
 (pdftex.def)             Requested size: 258.21405pt x 176.91049pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 66.
+(scrkbase)              on input line 64.
  [4 <./Bilder/lamellar.jpg>]
 <Bilder/Phasendiagram.PNG, id=28, 349.305pt x 265.74281pt>
 File: Bilder/Phasendiagram.PNG Graphic file (type png)
 
 <use Bilder/Phasendiagram.PNG>
-Package pdftex.def Info: Bilder/Phasendiagram.PNG used on input line 70.
+Package pdftex.def Info: Bilder/Phasendiagram.PNG used on input line 71.
 (pdftex.def)             Requested size: 314.37158pt x 239.1663pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 75.
+(scrkbase)              on input line 76.
  [5 <./Bilder/Phasendiagram.PNG>]
 chapter 2.
 (Projektarbeit.bbl [6
@@ -1187,7 +1187,7 @@ chapter 2.
 Here is how much of TeX's memory you used:
  9261 strings out of 493323
  149651 string characters out of 3139045
- 331181 words of memory out of 3000000
+ 332181 words of memory out of 3000000
  12566 multiletter control sequences out of 15000+200000
  117672 words of font info for 88 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1204,7 +1204,7 @@ ype1/Nexus/NexusSerifPro-Italic.pfb><C:/Program Files (x86)/tubslatex/fonts/typ
 e1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/u
 plri8a.pfb>
-Output written on Projektarbeit.pdf (9 pages, 212194 bytes).
+Output written on Projektarbeit.pdf (9 pages, 212779 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  19 DEC 2017 12:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  20 DEC 2017 16:01
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -900,10 +900,6 @@ Package: cite 2015/02/27  v 5.5
 \WF@everypar=\toks21
 Package: wrapfig 2003/01/31  v 3.6
 )
-
-LaTeX Warning: Unused global option(s):
-    [singlepage].
-
 (Projektarbeit.aux)
 \openout1 = `Projektarbeit.aux'.
 
@@ -1142,71 +1138,93 @@ ut line 21.
 LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <14> not av
 ailable
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 29.
+ut line 30.
 [3
 
-] <Bilder/lamellar.jpg, id=22, 258.21469pt x 176.91093pt>
+] <Bilder/lamellar.jpg, id=24, 258.21469pt x 176.91093pt>
 File: Bilder/lamellar.jpg Graphic file (type jpg)
 
 <use Bilder/lamellar.jpg>
-Package pdftex.def Info: Bilder/lamellar.jpg used on input line 57.
+Package pdftex.def Info: Bilder/lamellar.jpg used on input line 58.
 (pdftex.def)             Requested size: 258.21405pt x 176.91049pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 64.
+(scrkbase)              on input line 65.
  [4 <./Bilder/lamellar.jpg>]
-<Bilder/Phasendiagram.PNG, id=28, 349.305pt x 265.74281pt>
+<Bilder/Vollmartensit.jpg, id=30, 668.7384pt x 501.072pt>
+File: Bilder/Vollmartensit.jpg Graphic file (type jpg)
+
+<use Bilder/Vollmartensit.jpg>
+Package pdftex.def Info: Bilder/Vollmartensit.jpg used on input line 68.
+(pdftex.def)             Requested size: 334.36838pt x 250.53539pt.
+
+<Bilder/Duplexgefuege.PNG, id=31, 274.02374pt x 210.03468pt>
+File: Bilder/Duplexgefuege.PNG Graphic file (type png)
+
+<use Bilder/Duplexgefuege.PNG>
+Package pdftex.def Info: Bilder/Duplexgefuege.PNG used on input line 77.
+(pdftex.def)             Requested size: 274.02307pt x 210.03416pt.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 82.
+ [5 <./Bilder/Vollmartensit.jpg>]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 82.
+ [6 <./Bilder/Duplexgefuege.PNG>]
+chapter 2.
+<Bilder/Phasendiagram.PNG, id=40, 349.305pt x 265.74281pt>
 File: Bilder/Phasendiagram.PNG Graphic file (type png)
 
 <use Bilder/Phasendiagram.PNG>
-Package pdftex.def Info: Bilder/Phasendiagram.PNG used on input line 71.
+Package pdftex.def Info: Bilder/Phasendiagram.PNG used on input line 98.
 (pdftex.def)             Requested size: 314.37158pt x 239.1663pt.
+ (Projektarbeit.bbl [7
+
+]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 76.
- [5 <./Bilder/Phasendiagram.PNG>]
-chapter 2.
-(Projektarbeit.bbl [6
-
-]) [7
+(scrkbase)              on input line 1.
+ [8 <./Bilder/Phasendiagram.PNG>]) [9
 
 ] (Projektarbeit.lof)
 \tf@lof=\write4
 \openout4 = `Projektarbeit.lof'.
 
- [8
+ [10
 
 ] (Projektarbeit.lot)
 \tf@lot=\write5
 \openout5 = `Projektarbeit.lot'.
 
+ [11
 
-[9
-
-] (Projektarbeit.aux) ) 
+]
+(Projektarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 9261 strings out of 493323
- 149651 string characters out of 3139045
- 332181 words of memory out of 3000000
- 12566 multiletter control sequences out of 15000+200000
- 117672 words of font info for 88 fonts, out of 3000000 for 9000
+ 9271 strings out of 493323
+ 149854 string characters out of 3139045
+ 332162 words of memory out of 3000000
+ 12572 multiletter control sequences out of 15000+200000
+ 118470 words of font info for 91 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,13n,104p,8881b,862s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontsh
-op/a_molob5.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_6g
-6b3j.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_4o7za6.en
-c}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files (x
-86)/tubslatex/fonts/enc/dvips/Fontshop/a_3cgipr.enc}{C:/Program Files (x86)/tub
-slatex/fonts/enc/dvips/Fontshop/a_cbf6z5.enc}<C:/Program Files (x86)/tubslatex/
-fonts/type1/Nexus/NexusSansPro-Bold.pfb><C:/Program Files (x86)/tubslatex/fonts
-/type1/Nexus/NexusSansPro-Regular.pfb><C:/Program Files (x86)/tubslatex/fonts/t
-ype1/Nexus/NexusSerifPro-Italic.pfb><C:/Program Files (x86)/tubslatex/fonts/typ
-e1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/u
-plri8a.pfb>
-Output written on Projektarbeit.pdf (9 pages, 212779 bytes).
+{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop
+/a_molob5.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_6g6b
+3j.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_4o7za6.enc}
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files (x86
+)/tubslatex/fonts/enc/dvips/Fontshop/a_3cgipr.enc}{C:/Program Files (x86)/tubsl
+atex/fonts/enc/dvips/Fontshop/a_cbf6z5.enc}<C:/Program Files (x86)/tubslatex/fo
+nts/type1/Nexus/NexusSansPro-Bold.pfb><C:/Program Files (x86)/tubslatex/fonts/t
+ype1/Nexus/NexusSansPro-Regular.pfb><C:/Program Files (x86)/tubslatex/fonts/typ
+e1/Nexus/NexusSerifPro-Italic.pfb><C:/Program Files (x86)/tubslatex/fonts/type1
+/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Projektarbeit.pdf (11 pages, 1498438 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,3 +12,8 @@
 \contentsline {section}{\numberline {2.1}W\IeC {\"a}rmebehandlung}{7}
 \contentsline {paragraph}{Temperaturkontrolle}{7}
 \contentsline {paragraph}{Abk\IeC {\"u}hlmedien}{7}
+\contentsline {subsection}{\numberline {2.1.1}Anpassung der Gef\IeC {\"u}ge durch W\IeC {\"a}rmebehandlung}{7}
+\contentsline {subsubsection}{Lamellar}{8}
+\contentsline {subsubsection}{Martensit}{8}
+\contentsline {subsubsection}{Bi-Modal}{9}
+\contentsline {subsubsection}{Globular}{9}

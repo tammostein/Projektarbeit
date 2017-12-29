@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.25)  27 DEC 2017 13:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.25)  29 DEC 2017 19:17
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1193,32 +1193,41 @@ Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
 (scrkbase)              on input line 127.
  [8 <./Bilder/Phasendiagram.PNG>]
-(Projektarbeit.bbl
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 1.
- [9]) [10
+(scrkbase)              on input line 135.
+ [9]
+chapter 3.
+
+Overfull \hbox (0.33498pt too wide) in paragraph at lines 139--140
+\LY1/NexusProSerif/m/n/10.95 In zahl-rei-chen ver-gleich-ba-ren Un-ter-su-chun-
+gen wur-de be-reits ei-ne Fes-tig-keits-stei-ge-rung durch Aus-
+ []
+
+(Projektarbeit.bbl [10
+
+]) [11
 
 ] (Projektarbeit.lof)
 \tf@lof=\write4
 \openout4 = `Projektarbeit.lof'.
 
- [11
+ [12
 
 ] (Projektarbeit.lot)
 \tf@lot=\write5
 \openout5 = `Projektarbeit.lot'.
 
 
-[12
+[13
 
 ] (Projektarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 9286 strings out of 493323
- 150107 string characters out of 3139065
- 333178 words of memory out of 3000000
- 12586 multiletter control sequences out of 15000+200000
- 118470 words of font info for 91 fonts, out of 3000000 for 9000
+ 9292 strings out of 493323
+ 150159 string characters out of 3139065
+ 333184 words of memory out of 3000000
+ 12589 multiletter control sequences out of 15000+200000
+ 119643 words of font info for 94 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,13n,104p,8881b,862s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontsh
@@ -1234,9 +1243,9 @@ e1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplm
 ri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Projektarbeit.pdf (12 pages, 2430919 bytes).
+Output written on Projektarbeit.pdf (13 pages, 2435344 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,6 +12,11 @@ Werkstoffdesign~TU Cottbus.
 \newblock Titan und titanlegierungen.
 \newblock Technical report, TU Cottbus, 2012.
 
+\bibitem{Gilbert2004}
+Roger Gilbert and C.~Richard Shannon.
+\newblock Heat treating of titanium and titanium alloys.
+\newblock Technical report, Teledyne Allvac, 2004.
+
 \bibitem{Luetjering2007}
 G.~Lütjering and J.C. Williams.
 \newblock {\em Titanium}.
@@ -26,5 +31,12 @@ M.~Peters and C.~Leyens.
 Carsten Siemers.
 \newblock {\em Titan und Titanlegierungen}.
 \newblock Institut für Werkstoffe, 2007.
+
+\bibitem{chen2008}
+B.D. Venkatesh, D.L. Chen, and S.D. Bhole.
+\newblock Effect of heat treatment on mechanical properties of ti-6al-4v eli
+  alloy.
+\newblock Technical report, Department of Mechnical and Industrial Engineering,
+  Ryerson University, 2008.
 
 \end{thebibliography}

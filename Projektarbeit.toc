@@ -24,4 +24,6 @@
 \contentsline {section}{\numberline {3.2}Festigkeitssteigerung durch Auslagern des Vollmatensits}{10}
 \contentsline {section}{\numberline {3.3}Festigkeitssteigerung durch Auslagern von Prim\IeC {\"a}ralpha und Martensit}{10}
 \contentsline {subsection}{\numberline {3.3.1}1. W\IeC {\"a}rmebehandlung}{10}
-\contentsline {subsection}{\numberline {3.3.2}Ergebnisse 1. W\IeC {\"a}rmebehandlung}{10}
+\contentsline {subsection}{\numberline {3.3.2}Ergebnisse 1. W\IeC {\"a}rmebehandlung}{11}
+\contentsline {subsubsection}{970\IeC {\textdegree }C Auslagerung}{11}
+\contentsline {subsubsection}{950\IeC {\textdegree }C Auslagerung}{11}

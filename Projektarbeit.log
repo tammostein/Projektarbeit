@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.25)  31 DEC 2017 14:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.25)  2 JAN 2018 16:23
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1257,14 +1257,14 @@ Package pdftex.def Info: Bilder/9701hwq5208hac.jpg used on input line 271.
 File: Bilder/9501hwq5202hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5202hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq5202hac.jpg used on input line 277.
+Package pdftex.def Info: Bilder/9501hwq5202hac.jpg used on input line 282.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
 <Bilder/9501hwq5208hac.jpg, id=61, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq5208hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5208hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq5208hac.jpg used on input line 278.
+Package pdftex.def Info: Bilder/9501hwq5208hac.jpg used on input line 283.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
  (Projektarbeit.bbl
 Package scrkbase Info: You've told me to use the font selection of the element
@@ -1279,11 +1279,12 @@ Package scrkbase Info: You've told me to use the font selection of the element
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
 (scrkbase)              on input line 1.
- [13]
+ [13 <./Bilder/9501hwq5202hac.jpg> <./Bilder/9501hwq5208hac.jpg>]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
 (scrkbase)              on input line 1.
- [14 <./Bilder/9501hwq5202hac.jpg> <./Bilder/9501hwq5208hac.jpg>]) [15
+
+[14]) [15
 
 ] (Projektarbeit.lof)
 \tf@lof=\write4
@@ -1301,7 +1302,7 @@ Package scrkbase Info: You've told me to use the font selection of the element
 Here is how much of TeX's memory you used:
  9491 strings out of 493323
  153415 string characters out of 3139065
- 344867 words of memory out of 3000000
+ 346867 words of memory out of 3000000
  12775 multiletter control sequences out of 15000+200000
  124790 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1319,7 +1320,7 @@ e1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplm
 ri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Projektarbeit.pdf (17 pages, 8527473 bytes).
+Output written on Projektarbeit.pdf (17 pages, 8528635 bytes).
 PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

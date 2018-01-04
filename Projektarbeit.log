@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.25)  2 JAN 2018 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  4 JAN 2018 17:37
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1252,58 +1252,74 @@ File: Bilder/9701hwq5208hac.jpg Graphic file (type jpg)
 <use Bilder/9701hwq5208hac.jpg>
 Package pdftex.def Info: Bilder/9701hwq5208hac.jpg used on input line 271.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
-
-<Bilder/9501hwq5202hac.jpg, id=60, 668.7384pt x 501.072pt>
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 280.
+ [11]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 280.
+ [12 <./Bilder/9701hwq.jpg> <./Bilder/9501hwq.jpg> <./Bilder/9701hwq5202hac.jpg
+> <./Bilder/9701hwq5208hac.jpg>]
+<Bilder/9501hwq5202hac.jpg, id=66, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq5202hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5202hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq5202hac.jpg used on input line 282.
+Package pdftex.def Info: Bilder/9501hwq5202hac.jpg used on input line 284.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9501hwq5208hac.jpg, id=61, 668.7384pt x 501.072pt>
+<Bilder/9501hwq5208hac.jpg, id=67, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq5208hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5208hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq5208hac.jpg used on input line 283.
+Package pdftex.def Info: Bilder/9501hwq5208hac.jpg used on input line 285.
+(pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 291.
+ [13]
+<Bilder/9501hwq52016hac.jpg, id=72, 668.7384pt x 501.072pt>
+File: Bilder/9501hwq52016hac.jpg Graphic file (type jpg)
+
+<use Bilder/9501hwq52016hac.jpg>
+Package pdftex.def Info: Bilder/9501hwq52016hac.jpg used on input line 295.
+(pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
+
+<Bilder/9501hwq52024hac.jpg, id=73, 668.7384pt x 501.072pt>
+File: Bilder/9501hwq52024hac.jpg Graphic file (type jpg)
+
+<use Bilder/9501hwq52024hac.jpg>
+Package pdftex.def Info: Bilder/9501hwq52024hac.jpg used on input line 296.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
  (Projektarbeit.bbl
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
 (scrkbase)              on input line 1.
- [11]
+ [14 <./Bilder/9501hwq5202hac.jpg> <./Bilder/9501hwq5208hac.jpg>]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
 (scrkbase)              on input line 1.
- [12 <./Bilder/9701hwq.jpg> <./Bilder/9501hwq.jpg> <./Bilder/9701hwq5202hac.jpg
-> <./Bilder/9701hwq5208hac.jpg>]
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 1.
- [13 <./Bilder/9501hwq5202hac.jpg> <./Bilder/9501hwq5208hac.jpg>]
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 1.
-
-[14]) [15
+ [15 <./Bilder/9501hwq52016hac.jpg> <./Bilder/9501hwq52024hac.jpg>]) [16
 
 ] (Projektarbeit.lof)
 \tf@lof=\write4
 \openout4 = `Projektarbeit.lof'.
 
- [16
+ [17
 
 ] (Projektarbeit.lot)
 \tf@lot=\write5
 \openout5 = `Projektarbeit.lot'.
 
- [17
+
+[18
 
 ] (Projektarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 9491 strings out of 493323
- 153415 string characters out of 3139065
- 346867 words of memory out of 3000000
- 12775 multiletter control sequences out of 15000+200000
+ 9504 strings out of 493323
+ 153734 string characters out of 3139045
+ 344886 words of memory out of 3000000
+ 12786 multiletter control sequences out of 15000+200000
  124790 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,13n,104p,8881b,860s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1320,9 +1336,9 @@ e1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplm
 ri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Projektarbeit.pdf (17 pages, 8528635 bytes).
+Output written on Projektarbeit.pdf (18 pages, 10684209 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 127 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

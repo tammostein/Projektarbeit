@@ -27,4 +27,5 @@
 \contentsline {subsection}{\numberline {3.3.2}Ergebnisse 1. W\IeC {\"a}rmebehandlung}{11}
 \contentsline {subsubsection}{970\IeC {\textdegree }C Auslagerung}{11}
 \contentsline {subsubsection}{950\IeC {\textdegree }C Auslagerung}{11}
-\contentsline {section}{\numberline {3.4}2. W\IeC {\"a}rmebehandlung}{13}
+\contentsline {subsection}{\numberline {3.3.3}2. W\IeC {\"a}rmebehandlung}{11}
+\contentsline {subsection}{\numberline {3.3.4}Ergebnisse 2. W\IeC {\"a}rmebehandlung}{13}

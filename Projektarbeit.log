@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  4 JAN 2018 17:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  5 JAN 2018 16:49
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1200,133 +1200,200 @@ Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)              on input line 92.
  [6 <./Bilder/Ausgangsgefuege.jpg> <./Bilder/Duplexgefuege.PNG>]
 chapter 2.
-<Bilder/Phasendiagram.PNG, id=41, 349.305pt x 265.74281pt>
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 99.
+[7
+
+] <Bilder/REM.png, id=46, 277.78781pt x 307.90031pt>
+File: Bilder/REM.png Graphic file (type png)
+ <use Bilder/REM.png>
+Package pdftex.def Info: Bilder/REM.png used on input line 113.
+(pdftex.def)             Requested size: 231.88998pt x 257.03241pt.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 121.
+
+[8 <./Bilder/REM.png>]
+<Bilder/Phasendiagram.PNG, id=51, 349.305pt x 265.74281pt>
 File: Bilder/Phasendiagram.PNG Graphic file (type png)
 
 <use Bilder/Phasendiagram.PNG>
-Package pdftex.def Info: Bilder/Phasendiagram.PNG used on input line 109.
+Package pdftex.def Info: Bilder/Phasendiagram.PNG used on input line 137.
 (pdftex.def)             Requested size: 314.37158pt x 239.1663pt.
- [7
-
-]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 128.
- [8 <./Bilder/Phasendiagram.PNG>]
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 136.
+(scrkbase)              on input line 144.
  [9]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 156.
+ [10 <./Bilder/Phasendiagram.PNG>]
+<Bilder/Raster.png, id=59, 400.49625pt x 377.91188pt>
+File: Bilder/Raster.png Graphic file (type png)
+ <use Bilder/Raster.png>
+Package pdftex.def Info: Bilder/Raster.png used on input line 167.
+(pdftex.def)             Requested size: 400.49527pt x 377.91095pt.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 179.
+
+[11]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 179.
+ [12 <./Bilder/Raster.png>]
 chapter 3.
 
-Overfull \hbox (0.33498pt too wide) in paragraph at lines 140--141
+Overfull \hbox (3.81345pt too wide) in paragraph at lines 181--183
+\LY1/NexusProSerif/m/n/10.95 Die Li-te-ra-tur-re-cher-chen zei-gen, dass sich d
+ie me-cha-ni-schen Ei-gen-schaf-ten der Tit-an-le-gie-rung durch
+ []
+
+<Bilder/9701hwq.jpg, id=67, 668.7384pt x 501.072pt>
+File: Bilder/9701hwq.jpg Graphic file (type jpg)
+ <use Bilder/9701hwq.jpg>
+Package pdftex.def Info: Bilder/9701hwq.jpg used on input line 188.
+(pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
+
+<Bilder/9601hwq.jpg, id=68, 668.7384pt x 501.072pt>
+File: Bilder/9601hwq.jpg Graphic file (type jpg)
+ <use Bilder/9601hwq.jpg>
+Package pdftex.def Info: Bilder/9601hwq.jpg used on input line 189.
+(pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
+
+<Bilder/9501hwq.jpg, id=69, 668.7384pt x 501.072pt>
+File: Bilder/9501hwq.jpg Graphic file (type jpg)
+ <use Bilder/9501hwq.jpg>
+Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 190.
+(pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
+
+[13
+
+ <./Bilder/9701hwq.jpg> <./Bilder/9601hwq.jpg> <./Bilder/9501hwq.jpg>]
+Overfull \hbox (11.71815pt too wide) in paragraph at lines 212--221
+[][] 
+ []
+
+<Bilder/alphacase.jpg, id=74, 668.7384pt x 501.072pt>
+File: Bilder/alphacase.jpg Graphic file (type jpg)
+
+<use Bilder/alphacase.jpg>
+Package pdftex.def Info: Bilder/alphacase.jpg used on input line 230.
+(pdftex.def)             Requested size: 463.77998pt x 347.50623pt.
+
+Overfull \hbox (0.33498pt too wide) in paragraph at lines 240--241
 \LY1/NexusProSerif/m/n/10.95 In zahl-rei-chen ver-gleich-ba-ren Un-ter-su-chun-
 gen wur-de be-reits ei-ne Fes-tig-keits-stei-ge-rung durch Aus-
  []
 
-[10
-
-] <Bilder/9701hwq.jpg, id=56, 668.7384pt x 501.072pt>
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 243.
+[14]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 243.
+ [15 <./Bilder/alphacase.jpg>]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 256.
+ [16]
 File: Bilder/9701hwq.jpg Graphic file (type jpg)
-
-<use Bilder/9701hwq.jpg>
-Package pdftex.def Info: Bilder/9701hwq.jpg used on input line 263.
+ <use Bilder/9701hwq.jpg>
+Package pdftex.def Info: Bilder/9701hwq.jpg used on input line 363.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
- <Bilder/9501hwq.jpg, id=57, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq.jpg>
-Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 264.
+Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 364.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9701hwq5202hac.jpg, id=58, 668.7384pt x 501.072pt>
+<Bilder/9701hwq5202hac.jpg, id=84, 668.7384pt x 501.072pt>
 File: Bilder/9701hwq5202hac.jpg Graphic file (type jpg)
 
 <use Bilder/9701hwq5202hac.jpg>
-Package pdftex.def Info: Bilder/9701hwq5202hac.jpg used on input line 270.
+Package pdftex.def Info: Bilder/9701hwq5202hac.jpg used on input line 369.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9701hwq5208hac.jpg, id=59, 668.7384pt x 501.072pt>
+<Bilder/9701hwq5208hac.jpg, id=85, 668.7384pt x 501.072pt>
 File: Bilder/9701hwq5208hac.jpg Graphic file (type jpg)
 
 <use Bilder/9701hwq5208hac.jpg>
-Package pdftex.def Info: Bilder/9701hwq5208hac.jpg used on input line 271.
+Package pdftex.def Info: Bilder/9701hwq5208hac.jpg used on input line 370.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 280.
- [11]
+(scrkbase)              on input line 381.
+ [17]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 280.
- [12 <./Bilder/9701hwq.jpg> <./Bilder/9501hwq.jpg> <./Bilder/9701hwq5202hac.jpg
-> <./Bilder/9701hwq5208hac.jpg>]
-<Bilder/9501hwq5202hac.jpg, id=66, 668.7384pt x 501.072pt>
+(scrkbase)              on input line 381.
+ [18 <./Bilder/9701hwq5202hac.jpg> <./Bilder/9701hwq5208hac.jpg>]
+<Bilder/9501hwq5202hac.jpg, id=92, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq5202hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5202hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq5202hac.jpg used on input line 284.
+Package pdftex.def Info: Bilder/9501hwq5202hac.jpg used on input line 383.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9501hwq5208hac.jpg, id=67, 668.7384pt x 501.072pt>
+<Bilder/9501hwq5208hac.jpg, id=93, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq5208hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5208hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq5208hac.jpg used on input line 285.
+Package pdftex.def Info: Bilder/9501hwq5208hac.jpg used on input line 384.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 291.
- [13]
-<Bilder/9501hwq52016hac.jpg, id=72, 668.7384pt x 501.072pt>
+(scrkbase)              on input line 390.
+ [19]
+<Bilder/9501hwq52016hac.jpg, id=98, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq52016hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq52016hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq52016hac.jpg used on input line 295.
+Package pdftex.def Info: Bilder/9501hwq52016hac.jpg used on input line 394.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9501hwq52024hac.jpg, id=73, 668.7384pt x 501.072pt>
+<Bilder/9501hwq52024hac.jpg, id=99, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq52024hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq52024hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq52024hac.jpg used on input line 296.
+Package pdftex.def Info: Bilder/9501hwq52024hac.jpg used on input line 395.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
  (Projektarbeit.bbl
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
 (scrkbase)              on input line 1.
- [14 <./Bilder/9501hwq5202hac.jpg> <./Bilder/9501hwq5208hac.jpg>]
+ [20 <./Bilder/9501hwq5202hac.jpg> <./Bilder/9501hwq5208hac.jpg>]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
 (scrkbase)              on input line 1.
- [15 <./Bilder/9501hwq52016hac.jpg> <./Bilder/9501hwq52024hac.jpg>]) [16
+ [21 <./Bilder/9501hwq52016hac.jpg> <./Bilder/9501hwq52024hac.jpg>]) [22
 
 ] (Projektarbeit.lof)
 \tf@lof=\write4
 \openout4 = `Projektarbeit.lof'.
 
- [17
+ [23
 
 ] (Projektarbeit.lot)
 \tf@lot=\write5
 \openout5 = `Projektarbeit.lot'.
 
 
-[18
+[24
 
 ] (Projektarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 9504 strings out of 493323
- 153734 string characters out of 3139045
- 344886 words of memory out of 3000000
- 12786 multiletter control sequences out of 15000+200000
- 124790 words of font info for 96 fonts, out of 3000000 for 9000
+ 9563 strings out of 493323
+ 154664 string characters out of 3139045
+ 344003 words of memory out of 3000000
+ 12837 multiletter control sequences out of 15000+200000
+ 132420 words of font info for 115 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,13n,104p,8881b,860s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontsh
-op/a_molob5.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_6g
-6b3j.enc}{C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_4o7za6.en
-c}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files (x
+op/a_molob5.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Pr
+ogram Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_6g6b3j.enc}{C:/Program F
+iles (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_4o7za6.enc}{C:/Program Files (x
 86)/tubslatex/fonts/enc/dvips/Fontshop/a_3cgipr.enc}{C:/Program Files (x86)/tub
 slatex/fonts/enc/dvips/Fontshop/a_cbf6z5.enc}<C:/Program Files (x86)/tubslatex/
 fonts/type1/Nexus/NexusSansPro-Bold.pfb><C:/Program Files (x86)/tubslatex/fonts
@@ -1335,10 +1402,11 @@ ype1/Nexus/NexusSerifPro-Italic.pfb><C:/Program Files (x86)/tubslatex/fonts/typ
 e1/Nexus/NexusSerifPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplm
-ri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Projektarbeit.pdf (18 pages, 10684209 bytes).
+ri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Projektarbeit.pdf (24 pages, 12772390 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

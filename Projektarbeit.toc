@@ -9,23 +9,31 @@
 \contentsline {subsubsection}{Globular}{5}
 \contentsline {subsubsection}{Bi-Modal}{5}
 \contentsline {chapter}{\numberline {2}Methodik}{7}
-\contentsline {section}{\numberline {2.1}W\IeC {\"a}rmebehandlung}{7}
-\contentsline {paragraph}{Temperaturkontrolle}{7}
-\contentsline {paragraph}{Abk\IeC {\"u}hlmedien}{7}
-\contentsline {subsection}{\numberline {2.1.1}Anpassung der Gef\IeC {\"u}ge durch W\IeC {\"a}rmebehandlung}{7}
-\contentsline {subsubsection}{Lamellar}{8}
-\contentsline {subsubsection}{Martensit}{8}
-\contentsline {subsubsection}{Bi-Modal}{9}
-\contentsline {subsubsection}{Globular}{9}
-\contentsline {section}{\numberline {2.2}Auswertung der Proben}{9}
-\contentsline {subsection}{\numberline {2.2.1}Zugversuch}{9}
-\contentsline {chapter}{\numberline {3}W\IeC {\"a}rmebehandlungen}{10}
-\contentsline {section}{\numberline {3.1}Festigkeitssteigerung durch Martensitbildung}{10}
-\contentsline {section}{\numberline {3.2}Festigkeitssteigerung durch Auslagern des Vollmatensits}{10}
-\contentsline {section}{\numberline {3.3}Festigkeitssteigerung durch Auslagern von Prim\IeC {\"a}ralpha und Martensit}{10}
-\contentsline {subsection}{\numberline {3.3.1}1. W\IeC {\"a}rmebehandlung}{10}
-\contentsline {subsection}{\numberline {3.3.2}Ergebnisse 1. W\IeC {\"a}rmebehandlung}{11}
-\contentsline {subsubsection}{970\IeC {\textdegree }C Auslagerung}{11}
-\contentsline {subsubsection}{950\IeC {\textdegree }C Auslagerung}{11}
-\contentsline {subsection}{\numberline {3.3.3}2. W\IeC {\"a}rmebehandlung}{11}
-\contentsline {subsection}{\numberline {3.3.4}Ergebnisse 2. W\IeC {\"a}rmebehandlung}{13}
+\contentsline {section}{\numberline {2.1}Intermetallische Verbindung}{7}
+\contentsline {subsection}{\numberline {2.1.1}$\alpha $-Phasen}{7}
+\contentsline {subsection}{\numberline {2.1.2}$\beta $-Phasen}{7}
+\contentsline {section}{\numberline {2.2}Rasterelektronenmikroskopie}{7}
+\contentsline {section}{\numberline {2.3}W\IeC {\"a}rmebehandlung}{9}
+\contentsline {paragraph}{Temperaturkontrolle}{9}
+\contentsline {paragraph}{Abk\IeC {\"u}hlmedien}{9}
+\contentsline {subsection}{\numberline {2.3.1}Anpassung der Gef\IeC {\"u}ge durch W\IeC {\"a}rmebehandlung}{9}
+\contentsline {subsubsection}{Lamellar}{9}
+\contentsline {subsubsection}{Martensit}{10}
+\contentsline {subsubsection}{Bi-Modal}{10}
+\contentsline {subsubsection}{Globular}{11}
+\contentsline {section}{\numberline {2.4}Auswertung der Proben}{11}
+\contentsline {subsection}{\numberline {2.4.1}Ausz\IeC {\"a}hlverfahren}{11}
+\contentsline {subsection}{\numberline {2.4.2}Zugversuch}{11}
+\contentsline {chapter}{\numberline {3}W\IeC {\"a}rmebehandlungen}{13}
+\contentsline {section}{\numberline {3.1}Festigkeitssteigerung durch Martensitbildung}{13}
+\contentsline {subsection}{\numberline {3.1.1}Abh\IeC {\"a}ngigkeit des Prim\IeC {\"a}r Alpha Anteils von der Gl\IeC {\"u}htemperatur}{13}
+\contentsline {subsection}{\numberline {3.1.2}Abh\IeC {\"a}ngigkeit der H\IeC {\"a}rte vom Prim\IeC {\"a}ralphaanteil}{14}
+\contentsline {subsection}{\numberline {3.1.3}Bewertung der Ergebnisse}{14}
+\contentsline {section}{\numberline {3.2}Festigkeitssteigerung durch Auslagern des Vollmatensits}{14}
+\contentsline {section}{\numberline {3.3}Festigkeitssteigerung durch Auslagern von Prim\IeC {\"a}ralpha und Martensit}{14}
+\contentsline {subsection}{\numberline {3.3.1}1. W\IeC {\"a}rmebehandlung}{16}
+\contentsline {subsection}{\numberline {3.3.2}Ergebnisse 1. W\IeC {\"a}rmebehandlung}{16}
+\contentsline {subsubsection}{970\IeC {\textdegree }C Auslagerung}{16}
+\contentsline {subsubsection}{950\IeC {\textdegree }C Auslagerung}{17}
+\contentsline {subsection}{\numberline {3.3.3}2. W\IeC {\"a}rmebehandlung}{17}
+\contentsline {subsection}{\numberline {3.3.4}Ergebnisse 2. W\IeC {\"a}rmebehandlung}{19}

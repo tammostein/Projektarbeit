@@ -5,7 +5,7 @@
 \contentsline {subsection}{\numberline {1.1.2}Beta-Titan Phase}{4}
 \contentsline {subsection}{\numberline {1.1.3}Gef\IeC {\"u}ge}{4}
 \contentsline {subsubsection}{Lamellar}{4}
-\contentsline {subsubsection}{Martensit}{4}
+\contentsline {subsubsection}{Martensit}{5}
 \contentsline {subsubsection}{Globular}{5}
 \contentsline {subsubsection}{Bi-Modal}{5}
 \contentsline {chapter}{\numberline {2}Methodik}{7}

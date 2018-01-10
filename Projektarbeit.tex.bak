@@ -20,36 +20,36 @@
 \chapter{Titanwerkstoffe}
 
 \section{Gefügemerkmale}
-Wie andere Metalle liegt Titan in verschiedenen Gittermodifikationen beziehungsweise Phasenzuständen vor. Der Zustand ist von der Temperatur und den vorliegenden Legierungselementen abhängig. Bei reinem Titan liegt zwischen 1668°C und 882°C ein kubisch raumzentriertes Kristallgitter vor. Diese Phase wird als Betaphase ($\beta$-Phase) bezeichnet. Bei 882°C erfährt Titan eine Phasenumwandlung zu einem hexagonalen Gitter. Diese Phasenumwandlungstemperatur wird als Betatransus Temperatur bezeichnet und ist für jede Legierung unterschiedlich, denn die Legierungselemente haben Einfluss auf diese. \cite{Luetjering2007}.
+Wie andere Metalle liegt Titan in verschiedenen Gittermodifikationen beziehungsweise Phasenzuständen vor. Der Zustand ist von der Temperatur und den vorliegenden Legierungselementen abhängig. Bei reinem Titan liegt zwischen 1668°C und 882°C ein kubisch raumzentriertes Kristallgitter vor. Diese Phase wird als Betaphase ($\beta$-Phase) bezeichnet. Bei 882°C erfährt Titan eine Phasenumwandlung zu einem hexagonalen Gitter. Diese Phasenumwandlungstemperatur wird als Betatransus Temperatur bezeichnet und ist für jede Legierung unterschiedlich, denn die Legierungselemente haben Einfluss auf diese Temperatur. \cite{Luetjering2007}.
 
 Das hexagonale Gitter wird als Alphaphase ($\alpha$-Phase) bezeichnet. Wenn das Material langsam abgekühlt ist, liegt reines Titan bei Raumtemperatur nahezu vollständig als Alphaphase vor. 
 
-Dieses Gitter der Alphaphase ist annähernd dichtest gepackt. Das Verhältnis in der Zelle ist etwas kleiner, als dass in der am dichtesten gepackten Zelle, c:a von $\alpha$-Titan liegt bei 1.586. Die perfekte hexagonale Zelle hat ein Verhältnis von 1.624 \cite{Siemers2017}, wobei c und a die Längen innerhalb einer Zelle sind. Je nach Aufbau der Zelle sind diese Längen unterschiedlich groß.
+Dieses Gitter ist annähernd am dichtesten gepackt. Das Verhältnis in der Zelle ist etwas kleiner, als das in der ideal am dichtesten gepackten Zelle, c:a von $\alpha$-Titan liegt bei 1.586. Die perfekte hexagonale Zelle hat ein Verhältnis von 1.624 \cite{Siemers2017}, wobei c und a die Längen innerhalb einer Zelle sind. Je nach Aufbau der Zelle sind diese Längen unterschiedlich groß.
 
-Die Phasenumwandlung zwischen $\beta$- und $\alpha$-Phase kann auch martensitisch erfolgen. Dabei muss das Material aus einer ausreichend hohen Temperatur abgeschreckt werden. Diese Temperatur wird als Martensitstarttemperatur bezeichnet. Sie ist wie die Betatransustemperatur von den Legierungselementen abhängig.  
+Die Phasenumwandlung zwischen $\beta$- und $\alpha$-Phase kann auch martensitisch erfolgen. Dabei muss das Material aus einer ausreichend hohen Temperatur abgeschreckt werden. Diese Temperatur wird als Martensitstart Temperatur bezeichnet. Sie ist wie die Betatransus Temperatur von den Legierungselementen abhängig.  
 
 \subsection{Alpha-Titan Phase}
-Die alpha-Titan Phase ist durch eine hexagonale Gitterstruktur gekennzeichnet. Dadurch entsteht ein anisotropes Werkstoffverhalten in einem Korn, beziehungsweise Einkristall.
+Die alpha-Titan Phase ist durch eine hexagonale Gitterstruktur gekennzeichnet. Dadurch entsteht ein anisotropes Werkstoffverhalten in einem Korn beziehungsweise Einkristall.
 Ein Einkristall ist über ein homogenes, einheitliches Kristallgitter definiert.
 In einem Belastungsfall dieses Einkristalls ist das Werkstoffverhalten abhängig von der Belastungsrichtung im Verhältnis zur Gitterrichtung. Eine Kenngröße, die das elastische Verhalten eines Werkstoffes definiert, ist das Elastizitätsmodul: 
 \begin{equation}
 E=\sigma*\epsilon
 \end{equation}
 Das Elastizitätsmodul ist das Verhältnis zwischen der anliegenden Spannung $\sigma$ und die dadurch resultierende Dehnung $\epsilon$.
-Es wird in Pascal angegeben. Das Elastizitätsmodul $E$ reicht je nach Verhältnis, von minimal 100 GPa bis maximal 145 GPa. 
+Es wird in Pascal angegeben. Das Elastizitätsmodul $E$ reicht je nach Verhältnis von minimal 100 GPa bis maximal 145 GPa. 
 
-Jedoch wird Titan sehr selten als Einkristall hergestellt, sodass die unterschiedliche Kornorientierung dafür sorgt, dass die anisotropie der einzelnen Körner sich gegenseitig aufhebt. Somit kann man von einem isotropen Werkstoffverhalten ausgehen.
+Allerdings wird Titan sehr selten als Einkristall hergestellt, sodass die unterschiedliche Kornorientierung dafür sorgt, dass die Anisotropie der einzelnen Körner sich gegenseitig aufhebt. Somit kann man von einem isotropen Werkstoffverhalten ausgehen.
 
 
 \subsection{Beta-Titan Phase}
 Eine $\beta$-Phase ist ein Gefüge mit einer kubisch raumzentrierten Gitteranordnung. Dadurch resultiert ein homogenes Werkstoffverhalten.
 
-Eine große Menge an $\beta$-Phase existiert in der Regel bei Raumtemperatur nur unter bestimmten Bedingungen. Sie kann als metastabile Phase auftreten, was bedeutet, dass das Material nicht vollständig den Phasenübergang abschließen konnte und so in dem Zustand aus höheren Temperaturen verblieben, "eingefroren" ist.  
+Eine große Menge an $\beta$-Phase existiert in der Regel bei Raumtemperatur nur unter bestimmten Bedingungen. Sie kann als metastabile Phase auftreten, was bedeutet, dass das Material nicht vollständig den Phasenübergang abschließen konnte und so in dem Zustand aus höheren Temperaturen verblieben ist.  
 
-Durch Zusatz bestimmter Legierungselemente kann die $\beta$-Phase auch in größeren Mengen vorliegen. Dies wird im Kapitel "betastabilisierende Legierungselemente" näher erläutert.
-\subsection{Gefüge}
-Ausgehend von grundlegend verschiedenen Gefügen können diese durch Wärmebehandlung hinsichtlich ihrer mechanischen Eingenschaften optimiert werden. Eine Kombination aus mehreren Gefügeausprägungen können die Vorteile der einzelnen kombinieren. Dazu werden mehrstufige Wärmebehandlungen eingesetzt. Die Proben, die verwendet werden, können nicht mehr Rekristallisiert werden, sodass die verbleibenden Wärmebehandlungen auf Parameter wie Korngröße kaum Einfluss nehmen können. Das Gefüge ist somit von dem Ausgangsgefüge abhängig.  
-\subsubsection{Lamellar}
+Durch Zusatz bestimmter Legierungselemente kann die $\beta$-Phase auch in größeren Mengen vorliegen. Dies wird im Kapitel \"betastabilisierende Legierungselemente\" näher erläutert.
+\section{Gefüge}
+Ausgehend von grundlegend verschiedenen Gefügen können diese durch Wärmebehandlung hinsichtlich ihrer mechanischen Eingenschaften optimiert werden. Eine Kombination aus mehreren Gefügeausprägungen können die Vorteile der einzelnen kombinieren. Dazu werden mehrstufige Wärmebehandlungen eingesetzt. Die Proben, die in dieser Arbeit verwendet werden, können nicht mehr rekristallisiert werden, sodass die verbleibenden Wärmebehandlungen auf Parameter wie Korngröße kaum Einfluss nehmen können. Das Gefüge ist somit von dem Ausgangsgefüge abhängig.  
+\subsection{Lamellar}
 Lamellare Gefüge sind unabhängig von dem Ausgangsgefüge einstellbar. Sie entstehen aus einer Abkühlung aus dem $\beta$-Gebiet. Während des Abkühlens bilden sich in den Korngrenzen der $\beta$-Phase $\alpha$-Bereiche, die in das $\beta$-Korn hinein wachsen. Die Alphabereiche wachsen erst in eine Richtung bevor sie ihre Dicke erhöhen. Je nach Abkühlgeschwindigkeit entstehen so dünne oder dickere Nadeln. Die Abbildung 1.1 zeigt ein beispielhaftes Gefüge, indem voll lamellare Strukturen zu sehen sind. Lamellare Gefüge werden auch als Widmannstättengefüge bezeichnet \cite{Luetjering2007}.
 
 
@@ -62,8 +62,10 @@ Lamellare Gefüge sind unabhängig von dem Ausgangsgefüge einstellbar. Sie ents
 		\label{lamellar}
 		
 \end{figure}
-\subsubsection{Martensit}
-Der Martensit ist eine spezielle Form unter den Gefügen, da dieser der einzige ist in denen die Phasen metastabil vorliegen. Er resultiert aus einer schnellen Abkühlung bei Temperaturen höher als als die Martensitstarttemperatur. Bei diesen Temperaturen ist das Volumenverhältnis zwischen $\alpha$ und $\beta$ in dem diese stabil vorliegen ein anderes, als das bei niedrigen Temperaturen. Bei einer langsamen Abkühlung würde sich die Betaphase in Alphaphase umwandeln. Aufgrund der schnellen Abkühlgeschwindigkeit von über 1000°C/min können diese Diffusionsvorgänge nicht abgeschlossen werden. Somit kommt es zu einem diffuisonslosen Phaseübergang \cite{Luetjering2007}. Aufgrund der unterschiedlichen Gitterstruktur von Alpha und Beta, kommt es zu dem charakteristischen Martensitgefüge wie in Abbildung \ref{vollmartensit} zu sehen ist.
+\subsection{Martensit}
+Der Martensit ist eine metastabile Phase die unter bestimmten Umständen entstehen kann. Aufgrund von Diffusionsvorgänge während eines Glühvorganges verändert sich der Anteil an Legierungselementen innerhalb einer Phase. Dem entsprechend reichert sich die Betaphase an Beta stabilisierenden Legierungselementen an. Ist diese Anreicherung zu groß kann eine martensitische Umwandlung der Betaphase nicht statt finden. Um diese Anreicherung zu regulieren kann die Temperatur verwendet werden. Für eine Martensitbildung muss die Temperatur oberhalb der Martensitstart Temperatur liegen. Bei dieser wird eine zu große Anreicherung vermieden, da die Betaphase bei steigender Größe eine verringerte Konzentration an Beta stabilisierenden Legierungslementen besitzt. Die Martensitstart Temperatur sinkt je größer die Beta stabilisierenden Elemente in der Phase sind. Sie wäre für hohe Konzentrationen unterhalb der Raumtemperatur wodurch sich kein Martensit bilden kann.
+
+Neben der Glühtemperatur ist auch die Abkühlgeschwindigkeit entscheidend. Diffusionsvorgänge, die bei einer Abkühlung statt finden, finden bei einer martensitischen Umwandlung nicht statt. Aufgrund der unterschiedlichen Gitterstrukturen der Alpha- und Betaphase kommt es so zu einem scherartigem, diffusionslosem Umklappvorgang von einem kubisch raumzentrierten Gitter zu einem hexagonalen Gitter. Anders als bei Stahl kommt es nur zu einer minimalen Gitterverzerrung, da es keine zwangsgelösten Elemente in der Phase gibt, die eine Gitterverzerrung verursachen würden. Die entstehende Verzerrung resultiert ausschließlich durch die Umwandlung der Gitter. Das hexagonale Gitter besitzt eine andere Raumausdehnung als das kubisch raumzentrierte Gitter. Durch den Umklappvorgang wandelt sich das Gitter unter dem selben Volumen. Dadurch resultiert eine geringe Verzerrung des Gitters \cite{Luetjering2007}. Das charakteristische Martensitgefüge wie in Abbildung \ref{vollmartensit} resultiert aus dem Umwandlungsvorgang. Wie bei lamellaren Strukturen entstehen ausgehend von den ehemaligen Korngrenzen des Betakorns die Nadeln, welche hierbei die Martensitnadlen sind. \cite{Luetjering2007}.
 
 \begin{figure}
 \centering
@@ -71,17 +73,17 @@ Der Martensit ist eine spezielle Form unter den Gefügen, da dieser der einzige 
 \caption{Vollmartensitisches Gefüge}
 \label{vollmartensit}
 \end{figure}
-\subsubsection{Globular}
-Globulare Phase besteht aus großen, runden $\alpha$-Bereichen. Dieses Gefüge ist charakteristisch für eine Probe, welche noch keine Wärmebehandlung erfahren hat. Es lassen sich hieraus viele andere Gefüge einstellen. In Abbildung \ref{globular} erkennt man ein solches Gefüge. 
-\begin{figure}
+\subsection{Globular}
+Globulare Phase besteht aus runden Alpha-Bereichen. Dieses Gefüge resultiert aus einer Rekristallisation. Die Größe der einzelnen Körner ist von der Versetzungsdichte innerhalb des Gefüges vor der Rekristallisation abhängig. Nach einer Rekristallisation ist nur noch eine Zunahme der Korngröße realisierbar. Ausgehend aus diesem Gefüge lassen sich alle anderen Gefüge einstellen. In Abbildung \ref{globular} erkennt man ein solches Gefüge. 
+\begin{figure} %Globulares Gefüge
 \centering
 \includegraphics[scale=0.6]{Bilder/Ausgangsgefuege.jpg}
 \caption{Globulares Gefüge}
 \label{globular}
 \end{figure}
 
-\subsubsection{Bi-Modal}
-Bi-Modal-Gefüge(Duplex-Gefüge) sind durch globularer $\alpha$-Phase und Lamellen aus $\alpha$- und $\beta$-Phase gekennzeichnet. Das Gefüge kombiniert rein globulare Alphaphase mit lamellaren Anteilen. In Abbildung \ref{bimodal} ist ein solches Gefüge zu erkennen. 
+\subsection{Bi-Modal}
+Bi-Modal-Gefüge (Duplex-Gefüge) sind durch globularer $\alpha$-Phase und Lamellen aus $\alpha$- und $\beta$-Phase gekennzeichnet. Es resultiert meist aus einer geglühten Probe.  In Abbildung \ref{bimodal} ist ein solches Gefüge zu erkennen. 
 \begin{figure}
 \centering
 \includegraphics[scale=1]{Bilder/Duplexgefuege.PNG}
@@ -120,42 +122,39 @@ Die SE und RE dienen nun der Bilderzeugung. Die Elektronen werden mit jeweils un
 Gute Bildergebnisse können nur durch eine sorgfältige Probepräparation entstehen. Die Oberflächen müssen sauber sein. Die Proben sollten vor der Analyse im Ultraschallbad gereinigt werden.  Zudem muss die gesamte Probe elektrisch leiten. Eingebettete Proben können nicht verwendet werden. Der Kunststoff nimmt die Elektronen auf und würde den Elektronenstrahl ablenken. Als alternative kann eine leitende Gold oder Silberschicht aufgebracht werden.
 \section{Wärmebehandlung}
 
-Die Wärmebehandlung nach der Rekristllisation ist die letzte Methode um das Gefüge des Titans einzustellen. Hierbei kommt es auf Parameter wie Temperatur, Haltezeit und Abkühlmethode an. Um die bereits erwähnten Gefüge zu realisieren, ist eine spezifische Abfolge von einer beziehungsweise mehreren Stufen einer Wärmebehandlung nötig. Die grundlegenden Behandlungen werden in diesem Kapitel behandelt, wobei die speziellen, mehrstufigen Behandlungen im dritten Kapitel behandelt werden.
-\paragraph{Temperaturkontrolle}
-Für die Temperaturkontrolle innerhalb der Wärmebehandlung kommt ein Ofen zum Einsatz. Dieser kann bis Temperaturen deutlich oberhalb der Betatransustemperatur aufheizen und diese, mit einer Genauigkeit von drei Kelvin, halten. So kann der Temperaturbereich, der für die Wärmebehandlungen wichtig ist, eingestellt werden. Dieser liegt zwischen Raumtemperatur und 50°C - 100°C oberhalb der Betatransustemperatur vor. Der Ofen ist außerdem für die Aufheizgeschwindigkeit verantwortlich, da diese auch einen wichtigen Einfluss haben kann.
+Die Wärmebehandlung nach der Rekristallisation ist die letzte Methode, um das Gefüge des Titans einzustellen. Hierbei kommt es auf Parameter wie Temperatur, Haltezeit und Abkühlmethode an. Um die bereits erwähnten Gefüge zu realisieren, ist eine spezifische Abfolge von einer beziehungsweise mehreren Stufen einer Wärmebehandlung nötig. Die grundlegenden Behandlungen werden in diesem Kapitel behandelt, die speziellen, mehrstufigen, soweit relevant, im dritten.
+\subsection{Temperaturkontrolle}
+Für die Temperaturkontrolle innerhalb der Wärmebehandlung kommt ein Ofen zum Einsatz. Dieser kann bis zu Temperaturen deutlich oberhalb der Betatransus Temperatur aufheizen und diese mit einer Genauigkeit von drei Kelvin halten. So kann der Temperaturbereich, der für die Wärmebehandlungen wichtig ist, eingestellt werden. Dieser liegt zwischen Raumtemperatur und 50°C - 100°C oberhalb der Betatransus Temperatur. Der Ofen ist außerdem für die insoweit bedeutende Aufheizgeschwindigkeit verantwortlich.
 
-\paragraph{Abkühlmedien}
+\subsection{Abkühlmedien}
 
 Durch Abkühlmedien werden bestimmte Abkühlgeschwindigkeiten realisiert. Für langsamere Abkühlungen als in der Luft wird der Ofen genutzt. Hier kann die Temperatur beliebig langsam reduziert werden. Ein weiterer Vorteil des Ofens ist, dass die Probe auf eine bestimmte Temperatur herunter gekühlt werden kann. Dies ist für mehrstufige Wärmebehandlungen wichtig, bei denen eine Abkühlung auf Raumtemperatur zwischen den Schritten vermieden werden soll. 
 
-Da der Ofen nicht überaus schnell abkühlen kann, wird zur schnelleren Abkühlung Luft mit Raumtempertur verwendet. Durch den höheren Temperaturgradienten im Verhältnis zum Ofen wird so die Abkühlung beschleunigt.  
+Da der Ofen nicht überaus schnell abkühlen kann, wird zur schnelleren Abkühlung Luft mit Raumtemperatur verwendet. Durch den höheren Temperaturgradienten im Verhältnis zum Ofen wird so die Abkühlung beschleunigt.  
 
-Um noch schnellere Abkühlungen zu realisieren wird Wasser oder Öl verwendet. So werden zum Beispiel Abkühlgeschwindigkeiten für eine Martensitbildung ermöglicht. Die hohe Abkühlgeschwindkeit von gewöhnlich mehr als 1000$K$/min verhindert das element partitioning. So können sich neben dem Martensit, Alpha-Beta-Verhältnisse einstellen, die bei langsamen Abkühlungen nicht möglich sind. 
-\subsection{Anpassung der Gefüge durch Wärmebehandlung}
+Um noch schnellere Abkühlungen zu realisieren wird Wasser oder Öl verwendet. So werden zum Beispiel Abkühlgeschwindigkeiten für eine Martensitbildung ermöglicht.
+\section{Anpassung der Gefüge durch Wärmebehandlung}
 \begin{figure}
 	\centering
 	\includegraphics[scale=0.9]{Bilder/Phasendiagram.PNG}
 	\caption[Phasendiagramm]{schematisches Phasendiagramm Ti-6Al-4V \cite{Babu2008}}
 	\label{Phasendiagram}
 \end{figure}
-Das Anpassen der Gefüge ist das Ziel der Wärmebehandlungen. So werden Werkstoffeigenschaften gezielt für den jeweiligen Anwendungsfall optimiert, denn bestimmte Gefüge, mit bestimmten Mechanische Eigenschaften,  folgen aus bestimmten Wärmebehandlungen. Diese Einstellung durch Wärmehandlungen hat bestimmte Grenzen. Korngröße und die daraus folgenden Eigenschaften sind nicht mehr reduzierbar. Eine Behandlung die Kornwachstum beinhaltet sollte somit mit bedacht Gewählt werden,da gewöhnlich die Festigkeit durch Kornwachstum abnimmt.
-\subsubsection{Lamellar}
-Rein lamellare Strukturen folgen aus einer Abkühlung aus dem $\beta$-Gebiet. In dem Phasendiagramm aus Abbildung 1.5 ist erkennbar, dass oberhalb der Betatransuslinie das Material in einem Einphasenfeld liegt und somit bei einer moderaten Abkühlung vollständig in lamellare Phase umwandelt. Wird die Glühungstemperatur unterhalb der Betatransustemperatur gewählt, ist das Material in einem Zweiphasengebiet. So können unterschiedliche Alphagehälter eingestellt werden, sodass eine Kombination aus $\alpha$-Phase und $\alpha + \beta$-Phase entsteht. Das so eingestellte $\alpha$-Gefüge wird auch als Primäralpha bezeichnet. 
+Das Anpassen der Gefüge ist das Ziel jeder Wärmebehandlungen. So werden Werkstoffeigenschaften gezielt für den jeweiligen Anwendungsfall optimiert, denn bestimmte Gefüge, mit bestimmten Mechanische Eigenschaften, folgen aus bestimmten Wärmebehandlungen. Diese Einstellung hat bestimmte Grenzen. Korngrößenreduzierung ist nicht möglich, sodass eine Behandlung mit Kornwachstum nicht Rückgängig gemacht werden kann. Eine derartige Behandlung sollte somit mit bedacht Gewählt werden, da gewöhnlich die Festigkeit durch Kornwachstum abnimmt.
+\subsection{Lamellar}
+Rein lamellare Strukturen folgen aus einer Abkühlung aus dem Beta-Gebiet. In dem Phasendiagramm aus Abbildung \ref{Phasendiagram} ist erkennbar, dass oberhalb der Betatransus-Linie das Material in einem Einphasenfeld liegt und somit bei einer moderaten Abkühlung vollständig in lamellare Phase umwandelt. Wird die Glühtemperatur unterhalb der Betatransus Temperatur gewählt, ist das Material in einem Zweiphasengebiet. So können unterschiedliche Alphagehälter eingestellt werden, sodass eine Kombination aus $\alpha$-Phase und $\alpha + \beta$-Phase entsteht. Das so eingestellte $\alpha$-Gefüge wird auch als Primäralpha bezeichnet. 
 
 
 Je nach Feinheit der Platten hat das Gefüge positive oder negative Eigenschaften bezüglich der Festigkeit. Fein lamellare Platten sorgen für eine zunahme der Festigkeit und grobe Platten für eine Abnahme. Dies ist durch die unterschiedliche Grenzflächendichte zu erklären, denn die hohe Anzahl an Körnern behindert den Versetzungsfortschritt. Bei großen lamellaren Platten ist es für die Versetzung deutlich einfacher durch das Bauteil fortzuschreiten. 
 
-\subsubsection{Martensit}
-Martensit entsteht mit Abkühlgeschwindigkeiten aus Temperaturen höher als die Martensitstarttemperatur. Wie bei lamellaren Gefügen kann auch eine Kombination aus Primärem Alpha und Martensit erfolgen, indem die Glühungstemperatur im 2-Phasengebiet gewählt wird. Wie hoch die Temperatur gewählt wird entscheidet über den Primäralphagehalt. 
+\subsection{Martensit}
+Martensit entsteht mit Glühtemperaturen höher als die Martensitstart Temperatur, folgend von einer Wasserabschreckung. Wie bei lamellaren Gefügen kann auch eine Kombination aus Primärem Alpha und Martensit erfolgen, indem die Glühtemperatur im 2-Phasengebiet gewählt wird. Wie hoch die Temperatur gewählt wird entscheidet über den Primäralpha Phasenanteil.
 
-Die charakteristische Struktur des Martesits sorgt für ein sehr festes Werkstoffverhalten. Aufgrund der kaum zu erkennenden Grenzen zwischen den Phasen, ist die Grenzflächendichte sehr hoch. Somit steigt die Festigkeit.
+\subsection{Bi-Modal}
+Diese Strukturen bestehen aus einer Kombination von primär Alpha und lamellaren Strukturen in den ehemaligen Betakörnern. Dies lässt sich durch eine Wärmebehandlung einstellen, in der die Glühungstemperatur unterhalb der Betatransus Temperatur liegt. Die Temperatur entscheidet über die Ausprägung der primären Alphakörner. Aus dem Phasendiagramm aus Abbildung \ref{Phasendiagram} erklärt sich, dass je höher die Glühungstemperatur ist desto geringer ist der primäralpha-Gehalt in dem resultierenden Gefüge. Die Abkühlgeschwindigkeit entscheidet über die Breite der wärend des Abkühlvorgangs entstehenden Lamellen \cite{Luetjering2007}.
 
-
-\subsubsection{Bi-Modal}
-Diese Strukturen bestehen aus einer Kombination von primär Alpha und lamellaren Strukturen in den Betakörnern. Dies Lässt sich durch eine Wärmebehandlung einstellen in der die Glühungstemperatur unterhalb der Betatransustemperatur liegt. Die Temperatur entscheidet über die Ausprägung der primären Alphakörner. Aus dem Phasendiagramm aus Abbildung 1.5 erklärt sich, dass je höher die Glühungstemperatur ist desto geringer ist der Alphagehalt in dem resultierenden Gefüge. Die Abkühlgeschwindigkeit entscheidet über die breite der wären des Abkühlvorgangs entstehenden Lamellen \cite{Luetjering2007}.
-
-\subsubsection{Globular}
-Globulare Gefüge lassen sich auf mehrere Wege erzeugen. Zum Einen kann die Abkühlung von der Glühtemperatur so gering gewählt werden, dass die entstehenden Lamellen sehr groß werden. So entstehen Alphagehalten von 80 Volumenprozent und mehr. Zum Anderen kann die Glühungstemperatur sehr gering gewählt werden, sodass sich ein sehr hoher Alphaanteil einstellt. Dabei sollten beachtet werden, dass die Diffusionsgeschwindigkeit bei geringen Temperaturen sehr gering ist und so eine lange Haltezeit vorgesehen sein sollte. 
+\subsection{Globular}
+Wie in Kapitel eins bereits erwähnt lässt sich ein globulares Gefüge nur durch eine Rekristallisierung ermöglichen. Es ist hierbei wichtig, dass das Material langsam abgekühlt wird sodass sich die Alphakörner bilden können ohne das sich eine Bi-Modal Gefüge einstellt \cite{Luetjering2007}.
 
 \section{Auswertung der Proben}
 \subsection{Auszählverfahren}
@@ -174,7 +173,7 @@ Anschließend erfolgt das Auszählen. Die Kreuze die auf der Phase liegen, die b
 
 \subsection{Zugversuch}
 
-Bei einem Zugversuch werden Proben bis zum Bruch gedehnt und dabei Werkstoffkennwerte bestimmt. Die Kennwerte sind unter anderem  Elastizitätsmodul, Elastizitätsgrenze, Zugfestigkeit und Bruchdehnung. Unter diesen Kennwerten ist für die Anforderung der Arbeit die Zugfestigkeit interessant, da diese über eine Wärmebehandlung optimiert werden soll. Sie ist die größte plastische Dehnung bevor sich das Bauteil einschnürt. Aus diesem Kennwert kann auch die Dauerfestigkeit näherungsweise bestimmt werden, da diese nahezu proportional zur Zugfestigkeit ist. 
+Bei einem Zugversuch werden Proben bis zum Bruch gedehnt und dabei Werkstoffkennwerte bestimmt. Die Kennwerte sind unter anderem  Elastizitätsmodul, Elastizitätsgrenze, Zugfestigkeit und Bruchdehnung. Unter diesen Kennwerten ist für die Anforderung der Arbeit die Zugfestigkeit interessant, da diese über eine Wärmebehandlung optimiert werden soll. Sie ist die größte plastische Dehnung bevor sich das Bauteil einschnürt. Mit dem Zugversuch wird die Abschätzung der Zugfestigkeit über die Härte vermieden und es kann abgeschätzt werden, ob die Formel der Abschätzung realitätsnah war. 
 
 \chapter{Wärmebehandlungen}
 \section{Festigkeitssteigerung durch Martensitbildung}
@@ -237,27 +236,21 @@ Zudem ist die hohe Standardabweichung der Härtewerte auffällig (siehe Anhang H
 
 \section{Festigkeitssteigerung durch Auslagern des Vollmatensits}
 \section{Festigkeitssteigerung durch Auslagern von Primäralpha und Martensit}
-In zahlreichen vergleichbaren Untersuchungen wurde bereits eine Festigkeitssteigerung durch Auslagerung von $\alpha + \alpha'$ festgestellt. Auf Basis dieser Untersuchungen und Ergebnissen aus vorherigen Behandlungen werden die Parameter für diese Wärmebehandlung gewählt. 
+In zahlreichen vergleichbaren Untersuchungen wurde bereits eine Festigkeitssteigerung durch Auslagerung von $\alpha + \alpha'$-Gefügen festgestellt. Auf Basis dieser Untersuchungen und Ergebnissen aus vorherigen Behandlungen werden die Parameter für diese Wärmebehandlung gewählt. Ziel dieser Behandlung ist Martensit in sekundär Alpha und Beta zerfallen zu lassen. Nach \cite{Gilbert2004} ergeben sich so größere Festigkeiten und bessere mechanische Eigenschaften.
 \subsection{1. Wärmebehandlung}
-\cite{Gilbert2004} und \cite{chen2008} geben Beispiele für Erfolgreiche Lösungsglüh- und Alterungsprozesse. Sie dienen als Hilfsmittel für die Parameterwahl bei dieser Strategie zur Festigkeitssteigerung. Bei den Bespielen werden Glühungstemperaturen von 950°C bis 970°C verwendet, sodass ein zweiphasiges Gefüge entsteht. Um $\alpha'$ zu erzeugen wird abgeschreckt. Als Haltezeit wird eine Stunde gewählt. Diese Haltezeit ist ausreichend, damit sich das Gefüge vollständig umwandeln kann.
+Wärmebehandlungen wie in \cite{Gilbert2004} und \cite{chen2008} geben Beispiele für Erfolgreiche Glüh- und Alterungsprozesse. Sie dienen als Hilfsmittel für die Parameterwahl bei dieser Wärmebehandlung Bei den Bespielen werden Glühtemperaturen von 950°C bis 970°C verwendet, sodass ein zweiphasiges Gefüge mit unterschiedlichen Primäralpha Gehältern entsteht. Um neben dem Primäralpha ein Martensit zu erzeugen wird in Wasser abgeschreckt. Für eine volle Ausprägung des Gefüges wird wie in den vorherigen Behandlungen eine Haltezeit von einer Stunde als Ausreichend eingestuft.
 
-Wie in Kapitel zwei bereits erläutert sorgen höhere Temperaturen für einen niedrigen Primäralphagehalt. Aus vorherigen Wärmebehandlungen ist für eine hohe Festigkeit, ein möglichst niedriger Primäralphaanteil vorteilhaft. Jedoch ist bei einer anschließenden alternden Behandlung, in der der Martensit optimal zerfallen soll, die Legierungselementanteile in den Phasen wichtig. Bei einem niedrigen Primäralphaanteil ist der Anteil der Alphastabilisierenden Elementen in der Martensitphase größer als bei größeren Primäralphaanteilen, da die Alphaphase nur begrenzt Elemente aufnehmen kann. So verbleiben möglicherweise so große Mengen, dass der Martensit nicht in Alpha und Beta zerfällt und die Alterung ohne Auswirkungen bleibt.
+Wie vorherige Wärmebehandlungen zeigen wirkt sich ein geringer Primäralpha Anteil positiv auf die Härte beziehungsweise Festigkeit aus. Für den Zerfall des Martensits ist jedoch die Konzentration an Beta stabilisierender Elemente in der Martensitphase entscheidend. Diese liegt wie in den EDX Ergebnissen aus Kapitel 3.1 niedriger je kleiner der Primäralpha Anteil ist. Demnach könnte eine Ausscheidung bei einem niedrigeren Primäralpha Anteil eine geringere Festigkeit aufweisen als bei höheren Primäralpha Anteilen.
 
-Für die Alterung, mit anschließender Luftkühlung, wurde in den Beispielen eine Temperatur von 490°C bis 595°C und eine Haltezeit von 1 bis 8 Stunden angegeben. Da diese Spanne sehr groß ist und eine aussagekräftige Beurteilung der Ergebnisse für den gesamten Bereich unverhältnismäßig aufwendig sein würde, wurde eine Temperatur festgelegt und über die Haltezeit variiert. So werden in einem ersten Schritt die Auswirkungen des Primäralphaanteils analysiert. Es wurden wasserabgescheckte Proben bei einer Glühungstemperatur von 970°C und 950°C jeweils zwei und acht Stunden bei 520°C gealtert. Es werden also vier Proben verwendet die ein vergleichbares Ergebnis liefern sollen. So kann eine Auswirkung der unterschiedlichen Primäralphaanteile gleichzeitig mit der Auswirkung der Haltedauer beobachtet werden und Rückschlüsse auf die entstehenden Eigenschaften getroffen werden.
+Für die Alterung, mit anschließender Luftkühlung, wurde in den Behandlungen aus den Quellen eine Temperatur von 490°C bis 595°C und eine Haltezeit von 1 bis 8 Stunden angegeben. Da diese Spanne sehr groß ist und eine aussagekräftige Beurteilung der Ergebnisse für den gesamten Bereich unverhältnismäßig aufwendig sein würde, wurde eine Temperatur festgelegt und über die Haltezeit variiert. So werden in einem ersten Schritt die Auswirkungen des Primäralphaanteils analysiert. Es wurden wasserabgescheckte Proben bei einer Glühungstemperatur von 970°C und 950°C jeweils zwei und acht Stunden bei 520°C gealtert. Es werden also vier Proben verwendet die ein vergleichbares Ergebnis liefern sollen. So kann eine Auswirkung der unterschiedlichen Primäralphaanteile gleichzeitig mit der Auswirkung der Haltedauer beobachtet werden und Rückschlüsse auf die entstehenden Eigenschaften getroffen werden.
 \subsection{Ergebnisse 1. Wärmebehandlung}
 \subsubsection{970°C Auslagerung}
-Auf den Gefügebildern aus Abbildung \ref{970 alterung} kann man unterscheide zu dem Ausgangsgefüge aus Abbildung \ref{Gefüge ohne Alterung}(a) sehen. Die Bereiche des Primäralphas sind unabhängig von der Auslagerungszeit in ihrer Größe konstant geblieben. Dies lässt sich dadurch begründen, dass eine Veränderung des Primäralphagehalts nur bei hohen Temperaturen oder extrem langen Haltezeiten passieren kann. Da beides nicht vorliegt bleibt der Gehalt konstant.
-
-Allerdings kann eine Veränderung des Martensits beobachtet werden. Je länger die Haltezeit desto mehr ist dieser zerfallen. Es bildet sich sekundäres Alpha und Beta, das zufällig dort entsteht wo die jeweiligen stabilisierenden Legierungselemente die größte Konzentration aufweisen. Bei einer Haltezeit von zwei Stunden ist der Zerfall schwer zu erkennen. Die Ausprägung der entstehenden sekundären Alpha- beziehungsweise Betaphase ist sehr gering und die Martensitnadeln sind noch gut zu erkennen. 
-
-Bei einer Haltezeit von acht Stunden ist die Zerfall des Martensits deutlicher zu erkennen als bei der kürzeren Haltezeit. Die Konzentration an Martensitnadeln ist sichtbar geringer und somit ist die Entstehung von Alpha und Beta vorangeschritten. 
+Auf den Gefügebildern aus Abbildung \ref{970 alterung} kann man unterscheide zu dem Ausgangsgefüge aus Abbildung \ref{Gefüge ohne Alterung}(a) sehen. Die Primäralpha Phase ist unabhängig von der Auslagerungszeit in ihrer Ausdehnung konstant geblieben. Dies lässt sich dadurch begründen, dass eine Veränderung des Primäralpha Anteils nur bei hohen Temperaturen oder extrem langen Haltezeiten passieren kann. Da beides nicht vorliegt bleibt der Gehalt konstant.
 
 Durch eine Härteprüfung lässt sich die Auswirkung der Alterung analysieren. Dabei wird das oben beschriebene Verfahren angewendet. Für die Behandlungsreihe mit 970°C ergeben sich die Ergebnisse aus Tabelle \ref{heartepruefung9702h}. Werden diese Werte mit den Härtewerten des rein abgeschreckten Material aus Tabelle \ref{Hearte ohne Behandlung} verglichen ist eine Erhöhung der Härte zu erkennen. Sie ist durch die Auslagerung um circa 10 HV 10 gestiegen. Für die längere Haltezeit ist der Härtewert konstant. es kann also keine Aussage getroffen werden, ob eine längere Haltezeit mit einer Steigerung der Härte verbunden ist. 
 
 \subsubsection{950°C Auslagerung}
-Die Auslagerung bei einer Glühtemperatur von 950°C zeigt ein anderes Ergebnis als die bei einer Glühtemperatur von 970°C. Werden die Gefüge von Abbildung  \ref{Glühung950+alterung} mit dem abgeschreckten Gefüge aus Abbildung \ref{Gefüge ohne Alterung}(b) verglichen erkennt man einen weiter fortgeschrittenen Zerfall des Martensits. Bei einer Alterungszeit von zwei Stunden hat die Menge an Martensitnadeln bereits abgenommen. Bei acht Stunden sind diese kaum noch zu erkennen. Dies spricht dafür, dass die Alterung zu einem stärkeren Zerfall des Gefüges als bei höherer Temperatur geführt hat. 
-
-Bei den Proben die mit 950°C geglüht wurden und zwei beziehungsweise acht Stunden bei 520°C ausgelagert wurden zeigt sich ein ähnliches Ergebnis der Härteprüfung wie bei den Proben auf der höheren Temperatur. Wenn die Härtewerte nach der Alterung mit denen vorher verglichen werden, ist eine Härtesteigerung erkennbar. Die Werte aus der Tabelle \ref{950alterung} sind im Schnitt 10 HV 10 höher als das Material vor der Behandlung. Anders als bei der Behandlung mit den Proben die bei 970°C geglüht wurden bleiben die Härtewerte bei der Auslagerung mit acht Stunden Haltezeit konstant. 
+Bei den Proben die mit 950°C geglüht und zwei beziehungsweise acht Stunden bei 520°C ausgelagert wurden, zeigt sich ein ähnliches Ergebnis der Härteprüfung wie bei den Proben auf der höheren Glühtemperatur. Wenn die Härtewerte nach der Alterung mit denen vorher verglichen werden, ist eine Härtesteigerung erkennbar. Die Werte aus der Tabelle \ref{950alterung} sind im Schnitt 10 HV 10 höher als das Material vor der Behandlung. Genau wie bei den Härtewerten der höher geglühten Proben ist die Haltezeit vorerst unerheblich hinsichtlich der Härte. Sie ist für beide Haltenzeiten konstant.
 \begin{table}[t]	%Härtewerte ohne Auslagerung
 \begin{tabular}{c|c}
 \multicolumn{2}{c}{970°C 1h WQ} \\
@@ -375,7 +368,7 @@ Std.-abw.	&	1.83 \\
 
 
 \subsection{2. Wärmebehandlung}
-Auf Grund der Ergebnisse der ersten Behandlung ist es denkbar mit der Glühungstemperatur von 950°C weiter zu arbeiten. Es ist wahrscheinlicher, dass der Martensit bei der geringeren Glühungstemperatur besser in Alpha und Beta zerfällt als das Material das eine Glühung bei 970°C widerfahren hat. Die Konzentration an Betastabilisatoren innerhalb des Martensits ist bei einer Glühung von 950°C höher als bei 970°C. Da der Zerfall des Martensits positiv von den Betastabilisatoren abhängt, wird die weitere Behandlung mit einer Glühtemperatur von 950°C durchgeführt.
+Die Ergebnisse des 1. Teils lassen vorerst keine Interpretation zu, ob eine niedrigere Glühtemperatur zu einer größeren Härtesteigerung beziehungsweise Festigkeitssteigerung führt. 
 
 Die Ergebnisse aus den Härteprüfungen lassen darauf schließen, dass eine Alterung zu einer höheren Härte führt. Daher wird in dem zweiten Schritt die Haltezeit verlängert, um zu Prüfen ob die Härte weiter zu nimmt. Da die Auslagerungstemperatur gering gewählt wurde, könnten die Diffusionsvorgänge in der bisherigen Haltezeit nicht optimal abgeschlossen werden. Die längere Haltezeit würde dazu führen, dass diese weiter fortschreiten könnten. Ob die Härte so gesteigert wird, oder die lange Diffusionszeit dazu führt, dass das Gefüge zu sehr entspannt, wird so erprobt. Nach \cite{Gilbert2004} sind für eine Entspannung des Martensitsgefüge Zeiten von bis zu 50 Stunden realistisch. Diese Zeiten würden aber wahrscheinlich zu einer Abnahme an Härte führen. In folge dessen werden die Zeiten für diesen zweiten Schritt auf 16 und 24 Stunden bei der selben Temperatur festgelegt. So können Langzeitalterungen in ihrer Effektivität eingeschätzt werden. 
 

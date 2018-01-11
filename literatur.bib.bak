@@ -48,3 +48,22 @@ author = "B.D. Venkatesh and D.L. Chen and S.D. Bhole",
 Year = 2008,
 institution = "Department of Mechnical and Industrial Engineering, Ryerson University",
 }
+
+@TechReport{Pederson2002,
+Title ="Microstructure and Phase Transformation of Ti-6Al-4V",
+Author = "Robert Perderson",
+year = 2002,
+institution = "Department of Applied Physics and Mechanical Engerneering",
+}
+@TechReport{Semiatin2003,
+Title ="Microstructure Evolution during Alpha-Beta Heat
+Treatment of Ti-6Al-4V",
+Year = 2003,
+author = "S.L. Semiatin and S.L. Knisley and P.N. Fagin and F.Zhang and D.R. Barker",
+}
+@TechReport{Sieniawski2013,
+Author =" J. Sieniawski and W. Ziaja and K. Kubiak and M. Motyka",
+Year = 2013,
+Title ="Microstructure and Mechanical Properties of High
+Strength Two-Phase Titanium Alloys",
+}

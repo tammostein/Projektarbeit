@@ -1,29 +1,31 @@
 \select@language {ngerman}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces lamellares Gef\IeC {\"u}ge}}{5}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Vollmartensitisches Gef\IeC {\"u}ge}}{6}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Globulares Gef\IeC {\"u}ge}}{7}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Titan Aluminium Phasendiagramm}}{8}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Bi-Modal-Gef\IeC {\"u}ge}}{9}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces lamellares Gef\IeC {\"u}ge}}{5}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Vollmartensitisches Gef\IeC {\"u}ge}}{6}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Globulares Gef\IeC {\"u}ge}}{7}{figure.1.3}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Bi-Modal-Gef\IeC {\"u}ge}}{7}{figure.1.4}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Titan Aluminium Phasendiagramm}}{8}{figure.1.5}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Aufbau eines Rasterelektronenmikroskops}}{11}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Phasendiagramm}}{13}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Raster f\IeC {\"u}r das Ausz\IeC {\"a}hlverfahren}}{14}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Titan Aluminium Phasendiagramm}}{11}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Aufbau eines Rasterelektronenmikroskops}}{12}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces R\IeC {\"o}ntgenspektrum}}{13}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Phasendiagramm}}{14}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Raster f\IeC {\"u}r das Ausz\IeC {\"a}hlverfahren}}{16}{figure.2.5}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Gef\IeC {\"u}ge unterschiedlicher Gl\IeC {\"u}htemperaturen}}{16}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 970\IeC {\textdegree }C}}}{16}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 960\IeC {\textdegree }C}}}{16}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C}}}{16}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Alphacase}}{18}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Gef\IeC {\"u}ge ohne Auslagern}}{21}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 970\IeC {\textdegree }C ohne Alterung}}}{21}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C ohne Alterung}}}{21}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Gef\IeC {\"u}ge mit einer Gl\IeC {\"u}htemperatur von 970\IeC {\textdegree }C und unterschiedlichen Alterungszeiten}}{21}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 970\IeC {\textdegree }C mit Auslagerung bei 520\IeC {\textdegree }C f\IeC {\"u}r 2h}}}{21}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 970\IeC {\textdegree }C mit Auslagerung bei 520\IeC {\textdegree }C f\IeC {\"u}r 8h}}}{21}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Gef\IeC {\"u}ge mit einer Gl\IeC {\"u}htemperatur von 950\IeC {\textdegree }C und unterschiedlichen Alterungszeiten}}{22}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C mit Auslagerung bei 520\IeC {\textdegree }C f\IeC {\"u}r 2h}}}{22}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C mit Auslagerung bei 520\IeC {\textdegree }C f\IeC {\"u}r 8h}}}{22}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Gef\IeC {\"u}ge bei 950\IeC {\textdegree }C bei 16h und 24h Auslagerung}}{23}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C und 16 Stunden Alterung}}}{23}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C und 24 Stunden Alterung}}}{23}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gef\IeC {\"u}ge unterschiedlicher Gl\IeC {\"u}htemperaturen}}{18}{figure.3.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 970\IeC {\textdegree }C}}}{18}{figure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 960\IeC {\textdegree }C}}}{18}{figure.3.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C}}}{18}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Alphacase}}{20}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Gef\IeC {\"u}ge ohne Auslagern}}{22}{figure.3.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 970\IeC {\textdegree }C ohne Alterung}}}{22}{figure.3.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C ohne Alterung}}}{22}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Gef\IeC {\"u}ge mit einer Gl\IeC {\"u}htemperatur von 970\IeC {\textdegree }C und unterschiedlichen Alterungszeiten}}{22}{figure.3.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 970\IeC {\textdegree }C mit Auslagerung bei 520\IeC {\textdegree }C f\IeC {\"u}r 2h}}}{22}{figure.3.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 970\IeC {\textdegree }C mit Auslagerung bei 520\IeC {\textdegree }C f\IeC {\"u}r 8h}}}{22}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Gef\IeC {\"u}ge mit einer Gl\IeC {\"u}htemperatur von 950\IeC {\textdegree }C und unterschiedlichen Alterungszeiten}}{24}{figure.3.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C mit Auslagerung bei 520\IeC {\textdegree }C f\IeC {\"u}r 2h}}}{24}{figure.3.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C mit Auslagerung bei 520\IeC {\textdegree }C f\IeC {\"u}r 8h}}}{24}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Gef\IeC {\"u}ge bei 950\IeC {\textdegree }C bei 16h und 24h Auslagerung}}{25}{figure.3.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C und 16 Stunden Alterung}}}{25}{figure.3.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gef\IeC {\"u}ge bei einer Gl\IeC {\"u}hungstemperatur von 950\IeC {\textdegree }C und 24 Stunden Alterung}}}{25}{figure.3.6}

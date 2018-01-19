@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  19 JAN 2018 12:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  19 JAN 2018 15:25
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1192,7 +1192,7 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 20.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-<TUBraunschweig_4C.pdf, id=171, 199.1691pt x 73.97737pt>
+<TUBraunschweig_4C.pdf, id=179, 199.1691pt x 73.97737pt>
 File: TUBraunschweig_4C.pdf Graphic file (type pdf)
 
 <use TUBraunschweig_4C.pdf>
@@ -1204,7 +1204,7 @@ le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
 ne 20.
 
-<Bilder/ifw-logo.jpg, id=172, 351.3125pt x 74.2775pt>
+<Bilder/ifw-logo.jpg, id=180, 351.3125pt x 74.2775pt>
 File: Bilder/ifw-logo.jpg Graphic file (type jpg)
 
 <use Bilder/ifw-logo.jpg>
@@ -1327,7 +1327,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 56.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 56.
- <Bilder/lamellar.jpg, id=252, 258.21469pt x 176.91093pt>
+ <Bilder/lamellar.jpg, id=262, 258.21469pt x 176.91093pt>
 File: Bilder/lamellar.jpg Graphic file (type jpg)
 
 <use Bilder/lamellar.jpg>
@@ -1349,7 +1349,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 69.
  [5 <./Bilder/lamellar.jpg>]
-<Bilder/Vollmartensit.jpg, id=265, 668.7384pt x 501.072pt>
+<Bilder/Vollmartensit.jpg, id=275, 668.7384pt x 501.072pt>
 File: Bilder/Vollmartensit.jpg Graphic file (type jpg)
 
 <use Bilder/Vollmartensit.jpg>
@@ -1360,7 +1360,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 80.
 
-<Bilder/Ausgangsgefuege.jpg, id=267, 668.7384pt x 501.072pt>
+<Bilder/Ausgangsgefuege.jpg, id=277, 668.7384pt x 501.072pt>
 File: Bilder/Ausgangsgefuege.jpg Graphic file (type jpg)
 
 <use Bilder/Ausgangsgefuege.jpg>
@@ -1387,7 +1387,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 94.
 
-<Bilder/Titanaluminide.png, id=274, 376.40625pt x 261.97874pt>
+<Bilder/Titanaluminide.png, id=284, 376.40625pt x 261.97874pt>
 File: Bilder/Titanaluminide.png Graphic file (type png)
 
 <use Bilder/Titanaluminide.png>
@@ -1438,7 +1438,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 117.
 
-<Bilder/Duplexgefuege.PNG, id=298, 274.02374pt x 210.03468pt>
+<Bilder/Duplexgefuege.PNG, id=308, 274.02374pt x 210.03468pt>
 File: Bilder/Duplexgefuege.PNG Graphic file (type png)
 
 <use Bilder/Duplexgefuege.PNG>
@@ -1487,7 +1487,7 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 144.
 [10
 
-] <Bilder/REM.png, id=319, 277.78781pt x 307.90031pt>
+] <Bilder/REM.png, id=329, 277.78781pt x 307.90031pt>
 File: Bilder/REM.png Graphic file (type png)
  <use Bilder/REM.png>
 Package pdftex.def Info: Bilder/REM.png used on input line 147.
@@ -1522,7 +1522,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 168.
 
-<Bilder/Phasendiagram.PNG, id=326, 349.305pt x 265.74281pt>
+<Bilder/Phasendiagram.PNG, id=336, 349.305pt x 265.74281pt>
 File: Bilder/Phasendiagram.PNG Graphic file (type png)
 
 <use Bilder/Phasendiagram.PNG>
@@ -1576,7 +1576,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 195.
  [13 <./Bilder/Phasendiagram.PNG>]
-<Bilder/Raster.png, id=346, 400.49625pt x 377.91188pt>
+<Bilder/Raster.png, id=356, 400.49625pt x 377.91188pt>
 File: Bilder/Raster.png Graphic file (type png)
  <use Bilder/Raster.png>
 Package pdftex.def Info: Bilder/Raster.png used on input line 199.
@@ -1617,19 +1617,19 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 216.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 216.
-<Bilder/9701hwq.jpg, id=356, 668.7384pt x 501.072pt>
+<Bilder/9701hwq.jpg, id=366, 668.7384pt x 501.072pt>
 File: Bilder/9701hwq.jpg Graphic file (type jpg)
  <use Bilder/9701hwq.jpg>
 Package pdftex.def Info: Bilder/9701hwq.jpg used on input line 220.
 (pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
 
-<Bilder/9601hwq.jpg, id=357, 668.7384pt x 501.072pt>
+<Bilder/9601hwq.jpg, id=367, 668.7384pt x 501.072pt>
 File: Bilder/9601hwq.jpg Graphic file (type jpg)
  <use Bilder/9601hwq.jpg>
 Package pdftex.def Info: Bilder/9601hwq.jpg used on input line 221.
 (pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
 
-<Bilder/9501hwq.jpg, id=358, 668.7384pt x 501.072pt>
+<Bilder/9501hwq.jpg, id=368, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq.jpg Graphic file (type jpg)
  <use Bilder/9501hwq.jpg>
 Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 222.
@@ -1659,7 +1659,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 256.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 256.
-<Bilder/alphacase.jpg, id=372, 668.7384pt x 501.072pt>
+<Bilder/alphacase.jpg, id=382, 668.7384pt x 501.072pt>
 File: Bilder/alphacase.jpg Graphic file (type jpg)
 
 <use Bilder/alphacase.jpg>
@@ -1712,14 +1712,14 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 279.
 
-<Bilder/REM970C1hWQ.png, id=393, 1027.84pt x 770.88pt>
+<Bilder/REM970C1hWQ.png, id=403, 1027.84pt x 770.88pt>
 File: Bilder/REM970C1hWQ.png Graphic file (type png)
 
 <use Bilder/REM970C1hWQ.png>
 Package pdftex.def Info: Bilder/REM970C1hWQ.png used on input line 286.
 (pdftex.def)             Requested size: 231.88998pt x 173.91103pt.
 
-<Bilder/REM950C1hWQ.png, id=394, 1027.84pt x 770.88pt>
+<Bilder/REM950C1hWQ.png, id=404, 1027.84pt x 770.88pt>
 File: Bilder/REM950C1hWQ.png Graphic file (type png)
 
 <use Bilder/REM950C1hWQ.png>
@@ -1730,7 +1730,7 @@ Overfull \hbox (1.82498pt too wide) in paragraph at lines 286--288
 [][] [][] 
  []
 
-<Bilder/REM970C1hWQ520C2hAC.png, id=395, 1027.84pt x 770.88pt>
+<Bilder/REM970C1hWQ520C2hAC.png, id=405, 1027.84pt x 770.88pt>
 File: Bilder/REM970C1hWQ520C2hAC.png Graphic file (type png)
 
 <use Bilder/REM970C1hWQ520C2hAC.png>
@@ -1738,7 +1738,7 @@ Package pdftex.def Info: Bilder/REM970C1hWQ520C2hAC.png used on input line 294.
 
 (pdftex.def)             Requested size: 231.88998pt x 173.91103pt.
 
-<Bilder/REM970C1hWQ520C8hAC.png, id=396, 1027.84pt x 770.88pt>
+<Bilder/REM970C1hWQ520C8hAC.png, id=406, 1027.84pt x 770.88pt>
 File: Bilder/REM970C1hWQ520C8hAC.png Graphic file (type png)
 
 <use Bilder/REM970C1hWQ520C8hAC.png>
@@ -1750,14 +1750,14 @@ Overfull \hbox (1.82498pt too wide) in paragraph at lines 294--296
 [][] [][] 
  []
 
-<Bilder/REM9501hWQ520C2hAC.png, id=400, 1027.84pt x 770.88pt>
+<Bilder/REM9501hWQ520C2hAC.png, id=410, 1027.84pt x 770.88pt>
 File: Bilder/REM9501hWQ520C2hAC.png Graphic file (type png)
 
 <use Bilder/REM9501hWQ520C2hAC.png>
 Package pdftex.def Info: Bilder/REM9501hWQ520C2hAC.png used on input line 307.
 (pdftex.def)             Requested size: 231.88998pt x 173.91103pt.
 
-<Bilder/REM950C1hWQ520C8hAC.png, id=401, 1027.84pt x 770.88pt>
+<Bilder/REM950C1hWQ520C8hAC.png, id=411, 1027.84pt x 770.88pt>
 File: Bilder/REM950C1hWQ520C8hAC.png Graphic file (type png)
 
 <use Bilder/REM950C1hWQ520C8hAC.png>
@@ -1791,14 +1791,14 @@ File: Bilder/9501hwq.jpg Graphic file (type jpg)
 Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 423.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9701hwq5202hac.jpg, id=418, 668.7384pt x 501.072pt>
+<Bilder/9701hwq5202hac.jpg, id=428, 668.7384pt x 501.072pt>
 File: Bilder/9701hwq5202hac.jpg Graphic file (type jpg)
 
 <use Bilder/9701hwq5202hac.jpg>
 Package pdftex.def Info: Bilder/9701hwq5202hac.jpg used on input line 428.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9701hwq5208hac.jpg, id=419, 668.7384pt x 501.072pt>
+<Bilder/9701hwq5208hac.jpg, id=429, 668.7384pt x 501.072pt>
 File: Bilder/9701hwq5208hac.jpg Graphic file (type jpg)
 
 <use Bilder/9701hwq5208hac.jpg>
@@ -1832,14 +1832,14 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 438.
  [20 <./Bilder/REM9501hWQ520C2hAC.png> <./Bilder/REM950C1hWQ520C8hAC.png>]
-<Bilder/9501hwq5202hac.jpg, id=436, 668.7384pt x 501.072pt>
+<Bilder/9501hwq5202hac.jpg, id=446, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq5202hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5202hac.jpg>
 Package pdftex.def Info: Bilder/9501hwq5202hac.jpg used on input line 444.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9501hwq5208hac.jpg, id=437, 668.7384pt x 501.072pt>
+<Bilder/9501hwq5208hac.jpg, id=447, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq5208hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5208hac.jpg>
@@ -1874,43 +1874,67 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 452.
  [22 <./Bilder/9701hwq5202hac.jpg> <./Bilder/9701hwq5208hac.jpg> <./Bilder/9501
 hwq5202hac.jpg> <./Bilder/9501hwq5208hac.jpg>] <Bilder/9501hwq52016hac.jpg, id=
-455, 668.7384pt x 501.072pt>
+465, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq52016hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq52016hac.jpg>
 Package pdftex.def Info: Bilder/9501hwq52016hac.jpg used on input line 459.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9501hwq52024hac.jpg, id=456, 668.7384pt x 501.072pt>
+<Bilder/9501hwq52024hac.jpg, id=466, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq52024hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq52024hac.jpg>
 Package pdftex.def Info: Bilder/9501hwq52024hac.jpg used on input line 460.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/REM950C1hWQ520C24hAC.png, id=457, 1027.84pt x 770.88pt>
+<Bilder/REM950C1hWQ520C24hAC.png, id=467, 1027.84pt x 770.88pt>
 File: Bilder/REM950C1hWQ520C24hAC.png Graphic file (type png)
 
 <use Bilder/REM950C1hWQ520C24hAC.png>
 Package pdftex.def Info: Bilder/REM950C1hWQ520C24hAC.png used on input line 503
 .
 (pdftex.def)             Requested size: 306.09648pt x 229.57196pt.
- (Projektarbeit.bbl
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 1.
+(scrkbase)              on input line 508.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 508.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 508.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 508.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 508.
  [23 <./Bilder/9501hwq52016hac.jpg> <./Bilder/9501hwq52024hac.jpg>]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 1.
+(scrkbase)              on input line 508.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 508.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 508.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 508.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 508.
+ [24 <./Bilder/REM950C1hWQ520C24hAC.png>]
+chapter 4.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 508.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 508.
+
+Overfull \hbox (5.60396pt too wide) in paragraph at lines 508--508
+|\LY1/NexusProSans-lnum/b/n/36 4 \LY1/NexusProSans/b/n/36 Fes-tig-keits-stei-ge
+rn-de Me-cha-
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 512.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 512.
+(Projektarbeit.bbl
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1919,60 +1943,62 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
- [24 <./Bilder/REM950C1hWQ520C24hAC.png>])
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 509.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 509.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 509.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 509.
  [25
+
+])
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 518.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 518.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 518.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 518.
+ [26
 
 ] (Projektarbeit.lof)
 \tf@lof=\write5
 \openout5 = `Projektarbeit.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 519.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 519.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 519.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 510.
- [26
+(babel)             in language  on input line 519.
+ [27
 
 ] (Projektarbeit.lot)
 \tf@lot=\write6
 \openout6 = `Projektarbeit.lot'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 511.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 520.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 511.
+(babel)             in language  on input line 520.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 511.
+(babel)             in language  on input line 520.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 511.
+(babel)             in language  on input line 520.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 511.
- [27
+(babel)             in language  on input line 520.
+
+[28
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 511.
-
-(Projektarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 511.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 511.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 520.
+ (Projektarbeit.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 520.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 520.
 Package rerunfilecheck Info: File `Projektarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: EB722F4C1C0C6D0190B698250061FD15;3098.
+(rerunfilecheck)             Checksum: 875A031F1B3DC176DAA6B284B97CCF0E;3239.
  ) 
 Here is how much of TeX's memory you used:
- 13114 strings out of 493323
- 209593 string characters out of 3139045
- 420122 words of memory out of 3000000
- 16232 multiletter control sequences out of 15000+200000
+ 13120 strings out of 493323
+ 209671 string characters out of 3139045
+ 420218 words of memory out of 3000000
+ 16235 multiletter control sequences out of 15000+200000
  124790 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,14n,104p,8881b,872s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1990,9 +2016,9 @@ o-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
 /Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Projektarbeit.pdf (27 pages, 16618031 bytes).
+Output written on Projektarbeit.pdf (28 pages, 16621010 bytes).
 PDF statistics:
- 580 PDF objects out of 1000 (max. 8388607)
- 128 named destinations out of 1000 (max. 500000)
- 472 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 595 PDF objects out of 1000 (max. 8388607)
+ 131 named destinations out of 1000 (max. 500000)
+ 488 words of extra memory for PDF output out of 10000 (max. 10000000)
 

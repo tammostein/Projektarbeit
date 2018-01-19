@@ -268,7 +268,7 @@ Zudem ist die hohe Standardabweichung der Härtewerte auffällig (siehe Anhang H
 
 
 \section{Festigkeitssteigerung durch Auslagern des Vollmatensits}
-\section{Festigkeitssteigerung durch Auslagern von Primäralpha und Martensit}
+\section{Festigkeitssteigerung durch Auslagern von Primäralpha und Martensit}\label{Primäralpha und martensit}
 In zahlreichen vergleichbaren Untersuchungen wurde bereits eine Festigkeitssteigerung durch Auslagerung von $\alpha + \alpha'$-Gefügen festgestellt. Auf Basis dieser Untersuchungen und Ergebnissen aus vorherigen Behandlungen werden die Parameter für diese Wärmebehandlung gewählt. Ziel dieser Behandlung ist, den metastabilen Martensit in sekundäre Alpha- und Beta-Phase zerfallen zu lassen. Nach \cite{Gilbert2004} ergeben sich so größere Festigkeiten und bessere mechanische Eigenschaften. Es konkurrieren jedoch zwei Mechanismen bei einer Alterung des Martensits. Zum einen werden die Nadeln innerhalb des Martensits breiter, sodass eine Abnahme der Härte aufgrund geringerer Grenzflächendichte folgt. Der andere Mechanismus ist der Zerfall des Martensits in feine Alpha, und Betakörner die sich innerhalb des Gefüges bilden. Diese feinen Körner sorgen für eine Festigkeitssteigerung. Es ist also das Ziel die Vergröberung des Gefüges zu minimieren während der Zerfall maximiert werden soll. 
 \subsection{1. Wärmebehandlung}
 Wärmebehandlungen wie in \cite{Gilbert2004} und \cite{Chen2008} geben Beispiele für Erfolgreiche Glüh- und Alterungsprozesse. Sie dienen als Hilfsmittel für die Parameterwahl bei dieser Wärmebehandlung. Bei den Bespielen werden Glühtemperaturen von 950°C bis 970°C verwendet, sodass ein zweiphasiges Gefüge mit unterschiedlichen Primäralpha Gehalten entsteht. Um neben dem Primäralpha ein Martensit zu erzeugen wird in Wasser abgeschreckt. Für einen vollständigen Abschluss der Diffusionsvorgänge wird wie in der Wärmebehandlung aus Kapitel \ref{Festigkeitssteigerung durch Martensitbildung} eine Haltezeit von einer Stunde als Ausreichend eingestuft.
@@ -504,6 +504,15 @@ Std.-abw.	&	0.803 \\
 \caption{REM Aufnahme: 950°C und 24 Stunden Alterung}
 \label{REM 950C 24h}
 \end{figure}
+
+\chapter{Festigkeitssteigernde Mechanismen}
+Dieses Kapitel beschäftigt sich mit der Frage welche Mechanismen bei der Festigkeitssteigerung zum tragen kommen. Die einzelnen Wärmebehandlungsschritte werden diskutiert und verglichen.
+
+In jeder der Ansätze ging es um Festigkeitssteigerung durch eine erhöhte Grenzflächendichte. Die Versetzungen können bei einer großen Grenzflächendichte nur unter hehe
+\section{Alterung des Martensits}
+In der in Abschnitt \ref{Festigkeitssteigerung durch Martensitbildung} behandelten Wärmebehandlung ging es um einen Zerfall des Martensits. Dieser sollte in möglichst kleine Bereiche von Alpha- und Beta-Phase zerfallen. Nur so kann die Grenzflächendichte gegenüber dem Martensit erhöht werden. Der kritische Faktor war hierbei inwiefern der Martensit zerfällt während die Vergröberung als festigkeitsverringernder Prozess parallel läuft. Ziel war es diese konkurrierenden Prozesse so zu steuern, das ein maximaler Festigkeitsgewinn entsteht. 
+
+Ausgehend von den Ergebnissen der ersten Wärmebehandlung wurde festgestellt, dass ein niedriger Primäralpha-Anteil für eine Festigkeitssteigerung sorgt. Es würde also Sinn ergeben mit dem Gefüge mit dem geringsten Alpha-Anteil die Alterung durchzuführen. Wie bereits erwähnt entscheidet jedoch die 
 \bibliographystyle{plain}
 \bibliography{literatur}
 \listoffigures

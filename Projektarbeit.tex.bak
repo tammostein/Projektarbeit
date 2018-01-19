@@ -5,6 +5,7 @@
 \usepackage{graphicx}
 \usepackage{wrapfig}
 \usepackage{subfigure}
+\usepackage{hyperref}
 \title{Wärmebehandlung}
 \date{Wintersemester 17/18}
 \author{J. Hansen, S. Vodde,
@@ -19,7 +20,7 @@
 \tableofcontents
 \chapter{Titanwerkstoffe}
 
-\section{Gefügemerkmale}
+\section{Gefügemerkmale}\label{Abschnitt Gefügemerkmale}
 Wie andere Metalle liegt Titan in verschiedenen Gittermodifikationen beziehungsweise Phasenzuständen vor. Der Zustand ist von der Temperatur und den vorliegenden Legierungselementen abhängig. Bei reinem Titan liegt zwischen 1668°C und 882°C ein kubisch raumzentriertes Kristallgitter vor. Diese Phase wird als Betaphase ($\beta$-Phase) bezeichnet. Bei 882°C erfährt Titan eine Phasenumwandlung zu einem hexagonalen Gitter. Diese Phasenumwandlungstemperatur wird als Betatransus Temperatur bezeichnet und ist für jede Legierung unterschiedlich, denn die Legierungselemente haben Einfluss auf diese Temperatur. \cite{Luetjering2007}.
 
 Das hexagonale Gitter wird als Alphaphase ($\alpha$-Phase) bezeichnet. Wenn das Material langsam abgekühlt ist, liegt reines Titan bei Raumtemperatur nahezu vollständig als Alphaphase vor. 
@@ -57,8 +58,6 @@ Lamellare Gefüge sind unabhängig von dem Ausgangsgefüge einstellbar. Sie ents
 
 
 \begin{figure}
-
-
 	\centering
 		\includegraphics[scale=1]{Bilder/lamellar.jpg}
 		\captionof{figure}[lamellares Gefüge]{Volllamellares Gefüge \cite{Leyens2002}}
@@ -105,9 +104,9 @@ Werden noch größere Anteile Aluminium  zum Titan legiert, kann sich TIAl ( $\g
 \subsection{Beta-Phasen}
 Intermetallische Beta-Phasen sind in Titanlegierungen unerwünscht, da sie die mechanischen Eigenschaften verschlechtern. Die isomorphen Stabilisatoren, wie Molybdän, Vanadium oder Niob, bilden in gewöhnlichen Legierungen keine intermetallischen Phasen. Ihre Legierungsanteile sind zu gering. Die eutektoiden Stabilisatoren, wie Chrom oder Eisen hingegen, bilden diese. TiFe und Ti$_{2}$Cr Phasen sollen in Titanlegierungen nicht entstehen \cite{Luetjering2007}.
 \section{Ti-6Al-4V}
-Im Mittelpunkt der in dieser Arbeit behandelten Aufgabenstellung steht der Werkstoff Titan mit den Legierungszusätzen von 6 Gewichtsprozent Aluminium und 4 Gewichtsprozent Vanadium. Anders ausgedrückt: Titan-6Al-4V. Im Folgenden soll demnach ein wenig näher auf die Eigenschaften dieser Legierung eingegangen werden. 
+Im Mittelpunkt der in dieser Arbeit behandelten Aufgabenstellung steht der Werkstoff Titan mit den Legierungszusätzen von sechs Gewichtsprozent Aluminium und vier Gewichtsprozent Vanadium. Anders ausgedrückt: Titan-6Al-4V. Im Folgenden soll demnach ein wenig näher auf die Eigenschaften dieser Legierung eingegangen werden. 
 \subsection{Legierungselemente und Verwendung}
-Titan 6 Aluminium 4 Vanadium oder kurz Ti-64 ist die am häufigsten verwendete Titanlegierung weltweit. Sie wurde bereits in den 1950er Jahren entwickelt und zählt zu den am besten erforschten Titanlegierungen. [Titan und Titanlegierungen, Peters, 2002] Wegen ihrer großen Bedeutung in der Luftfahrt, werden Titanlegierungen häufig auch in anderen Bereichen der Technik nach den in der Luftfahrt geltenden Normen bestellt. Ein Blick auf die AMS 4911 (aerospace material specification) offenbar hier die Vorgaben für die chemische Zusammensetzung der Legierung. Neben den bereits im Namen Ti-64 festgelegten 6\% Aluminium und 4\% Vanadium sind bis zu 0,25\% Eisen und 0,2\% Sauerstoff als Legierungselemente zugelassen. Durch seine Legierungselemente Aluminium als Stabilisator der Alpha-Phase und Vanadium als Beta-stabilisierendes Element, lässt sich Ti-64 zu den Alpha+Beta Legierungen zählen.
+Titan 6 Aluminium 4 Vanadium oder kurz Ti-64 ist die am häufigsten verwendete Titanlegierung weltweit. Sie wurde bereits in den 1950er Jahren entwickelt und zählt zu den am besten erforschten Titanlegierungen \cite{Leyens2002}. Wegen ihrer großen Bedeutung in der Luftfahrt, werden Titanlegierungen häufig auch in anderen Bereichen der Technik nach den in der Luftfahrt geltenden Normen bestellt. Ein Blick auf die AMS 4911 (aerospace material specification) offenbar hier die Vorgaben für die chemische Zusammensetzung der Legierung. Neben den bereits im Namen Ti-64 festgelegten 6\% Aluminium und 4\% Vanadium sind bis zu 0,25\% Eisen und 0,2\% Sauerstoff als Legierungselemente zugelassen. Durch seine Legierungselemente Aluminium als Stabilisator der Alpha-Phase und Vanadium als Beta-stabilisierendes Element, lässt sich Ti-64 zu den Alpha+Beta Legierungen zählen.
 Die Hauptverwendung der Legierung liegt wie oben bereits erwähnt in der Luftfahrt. Hier kommt sie zum Beispiel als Material für Schaufeln im Fan und Niederdruckverdichter vor \cite{Luetjering2007}[S.250 ff]. Weiter findet man Anwendungen in der Medizintechnik. Hier werden gerade Implantate von denen eine etwas höhere Festigkeit verlangt wird nicht mehr aus commercially pure (CP) Titan sondern aus Ti-64 hergestellt. Da ist insbesondere bei Hüftimplantaten oder Schrauben der fall \cite{Luetjering2007}[S. 400 f.]
 
 \subsection{Mechanische Eigenschaften}
@@ -131,7 +130,7 @@ Titanlegierungen können, wie alle anderen Metalllegierungen, intermetallische V
 Bestimmte Titanlegierungen nutzen diese intermetallischen Phasen, um die mechanischen Eigenschaften auch bei höheren Temperaturen zu Verbessern \cite{Luetjering2007}.
 
 Reines Titan kann keine intermetallischen Phasen bilden. Ausschlaggebend hierfür sind die Legierungselemete, die $\alpha$- und $\beta$- Stabilisatoren.  Diese Phasen lassen sich wie die Stabilisatoren  in $\alpha$- und $\beta$- Phasen aufteilen.  
-\subsection{$\alpha$-Phasen}
+\subsection{Alpha-Phasen}
 Mit steigendem Aluminium Äquivalent können sich intermetallische Titan-Aluminium-Phasen bilden, die bei Raumtemperatur beständig sind. Wie das Diagramm ……….. zeigt, beginnt dieser Vorgang bereits bei ca. 5 \% Aluminium. Das zwei Phasen Gebiet $alpha$Ti und Ti3Al bildet sich. Für die meisten Titanlegierungen gilt jedoch der Richtwert von 6 \% Aluminium um Ti3Al ($\alpha2$) Teilchen auszuscheiden.  Die Ti3Al Teilchen besitzen eine hexagonale Gitterstruktur wie das $\alpha$Ti. Die Teilchen können  die gleichen Gitterplätze besetzten und verzerren das Kristallgitter nur wenig. Sie sind kohärent.
 Werden noch größere Anteile Aluminium  zum Titan legiert, kann sich TIAl ( $\gamma$-TiAl) bilden. Diese Teilchen besitzen ein Tetragonales Kristallgitter.
  Werden Legierungen mit diesen beiden genannten Phasen erzeugt, entstehen sogenannte Titan-Aluminide \cite[vgl.]{Luetjering2007}.   
@@ -141,13 +140,13 @@ Intermetallische Beta-Phasen sind in Titanlegierungen unerwünscht, da sie die m
 
 \section{Rasterelektronenmikroskopie}
 Das Rasterelektronenmikroskop (REM) bietet eine bessere Auflösung und eine größere Vergrößerung, als das Auflichtmikroskop. Es können Vergrößerungen von bis 100000 x erreicht werden. Die Auflösung liegt bei wenigen Nanometer. Durch eingebaute Detektoren am REM können bestimmte analytische Methoden zusätzlich  durchgeführt werden. Dies ist hilfreich für Auswertung der Proben.
-Eine Wolframdraht oder ein Lanthanhexaborideinkristall ($LaB_{6}$) dient als Elektronenquelle. Die Elektronen werden emittiert und mittels Beschleunigungsspannung in Richtung Anode abgelenkt. Je nach Auflösung kann die Spannung zwischen 200$V$ und 50$kV$ liegen. Elektromagnetische Linsen bündeln die Elektronen in einem Strahl und lenken ihn auf die Probe. Mit einer Anblenkspule kann der Strahl über die Probe geführt werden \ref{REM Bild}.
+Eine Wolframdraht oder ein Lanthanhexaborideinkristall ($LaB_{6}$) dient als Elektronenquelle. Die Elektronen werden emittiert und mittels Beschleunigungsspannung in Richtung Anode abgelenkt. Je nach Auflösung kann die Spannung zwischen 200$V$ und 50$kV$ liegen. Elektromagnetische Linsen bündeln die Elektronen in einem Strahl und lenken ihn auf die Probe. Mit einer Anblenkspule kann der Strahl über die Probe geführt werden \ref{REM Aufbau}.
 
 \begin{figure} %REM Aufbau
 \centering
 \includegraphics[width=0.5\textwidth]{Bilder/REM.png}
 \caption{Aufbau eines Rasterelektronenmikroskops}
-\label{REM Bild}
+\label{REM Aufbau}
 \end{figure}
 
 Die Elektronen gelangen auf die Probeoberfläche und es entstehen Wechselwirkungen zwischen den Strahlelektronen und den Atomen der Probenoberfläche. Die zwei wichtigsten Erscheinungen sind hierbei die Rückstreuelektronen (RE) und die Sekundärelektronen (SE). Die Strahlelektronen werden durch die Atomkerne in der Probe abgelenkt  und verlieren an Energie. Diese Energie wird in Form der Röntgenbremsstrahlung frei. Die dabei teilweise zurückgeworfenen Elektronen werden als RE bezeichnet. Der Streuprozess zwischen den Strahlelektronen und den Elektronen in den Atomschalen, führt zu SE. Die hierbei entstehende Röntgenstrahlung, ist die charakteristische Röntgenstrahlung. Die Elektronen in den Atomschalen werden von den Strahlelektronen herausgeworfen. Die Schale ist ionisiert. Diese freien Plätze werden durch andere Elektronen besetzt. Die dabei freiwerdende Energie wird in Form von Röntgenstrahlung emittiert. Verlassen RE die Probe können zusätzlich SE entstehen.
@@ -167,15 +166,16 @@ Da der Ofen nicht überaus schnell abkühlen kann, wird zur schnelleren Abkühlu
 
 Um noch schnellere Abkühlungen zu realisieren wird Wasser oder Öl verwendet. So werden zum Beispiel Abkühlgeschwindigkeiten für eine Martensitbildung ermöglicht.
 \section{Anpassung der Gefüge durch Wärmebehandlung}
+
 \begin{figure}
 	\centering
-	\includegraphics[scale=0.9]{Bilder/Phasendiagram.PNG}
+	\includegraphics[width=0.5\textwidth]{Bilder/Phasendiagram.PNG}
 	\caption[Phasendiagramm]{schematisches Phasendiagramm Ti-6Al-4V \cite{Babu2008}}
 	\label{Phasendiagram}
 \end{figure}
 Das Anpassen der Gefüge ist das Ziel jeder Wärmebehandlungen. So werden Werkstoffeigenschaften gezielt für den jeweiligen Anwendungsfall optimiert, denn bestimmte Gefüge, mit bestimmten Mechanische Eigenschaften, folgen aus bestimmten Wärmebehandlungen. Diese Einstellung hat bestimmte Grenzen. Korngrößenreduzierung ist nicht möglich, sodass eine Behandlung mit Kornwachstum nicht Rückgängig gemacht werden kann. Eine derartige Behandlung sollte somit mit bedacht Gewählt werden, da gewöhnlich die Festigkeit durch Kornwachstum abnimmt.
 \subsection{Lamellar}
-Rein lamellare Strukturen folgen aus einer Abkühlung aus dem Beta-Gebiet. In dem Phasendiagramm aus Abbildung \ref{Phasendiagram} ist erkennbar, dass oberhalb der Betatransus-Linie das Material in einem Einphasenfeld liegt und somit bei einer moderaten Abkühlung vollständig in lamellare Phase umwandelt. Wird die Glühtemperatur unterhalb der Betatransus Temperatur gewählt, ist das Material in einem Zweiphasengebiet. So können unterschiedliche Alphagehälter eingestellt werden, sodass eine Kombination aus $\alpha$-Phase und $\alpha + \beta$-Phase entsteht. Das so eingestellte $\alpha$-Gefüge wird auch als Primäralpha bezeichnet. 
+Rein lamellare Strukturen folgen aus einer Abkühlung aus dem Beta-Gebiet. In dem Phasendiagramm aus Abbildung \ref{Phasendiagram} ist erkennbar, dass oberhalb der Betatransus-Linie das Material in einem Einphasenfeld liegt und somit bei einer moderaten Abkühlung vollständig in lamellare Phase umwandelt. Wird die Glühtemperatur unterhalb der Betatransus Temperatur gewählt, ist das Material in einem Zweiphasengebiet. So können unterschiedliche Alphagehälter eingestellt werden, sodass eine Kombination aus Alpha-Phase und Alpha+Beta-Phase entsteht. Das so eingestellte Alpha-Gefüge wird auch als Primäralpha bezeichnet. 
 
 
 Je nach Feinheit der Platten hat das Gefüge positive oder negative Eigenschaften bezüglich der Festigkeit. Fein lamellare Platten sorgen für eine zunahme der Festigkeit und grobe Platten für eine Abnahme. Dies ist durch die unterschiedliche Grenzflächendichte zu erklären, denn die hohe Anzahl an Körnern behindert den Versetzungsfortschritt. Bei großen lamellaren Platten ist es für die Versetzung deutlich einfacher durch das Bauteil fortzuschreiten. 
@@ -196,7 +196,7 @@ Das Auszählverfahren ist ein manuelles Hilfsmittel um die Phasenanteile von Gef
 Das zu analysierende Gefüge wird mit einem Mikroskop abgebildet. Fünf zufällig ausgewählte Bildbereiche werden ausgedruckt und mit einem gleichmäßigen Raster versehen. Die Abbildung \ref{Raster für das Auszählverfahren} zeigt ein beispielhaftes Raster.
 \begin{figure} %Raster für das Auszählverfahen
 \centering
-\includegraphics[scale=1]{Bilder/Raster.png}
+\includegraphics[width=0.5\textwidth]{Bilder/Raster.png}
 \caption{Raster für das Auszählverfahren}
 \label{Raster für das Auszählverfahren}
 \end{figure}
@@ -209,7 +209,7 @@ Anschließend erfolgt das Auszählen. Die Kreuze die auf der Phase liegen, die b
 Bei einem Zugversuch werden Proben bis zum Bruch gedehnt und dabei Werkstoffkennwerte bestimmt. Die Kennwerte sind unter anderem  Elastizitätsmodul, Elastizitätsgrenze, Zugfestigkeit und Bruchdehnung. Unter diesen Kennwerten ist für die Anforderung der Arbeit die Zugfestigkeit interessant, da diese über eine Wärmebehandlung optimiert werden soll. Sie ist die größte plastische Dehnung bevor sich das Bauteil einschnürt. Mit dem Zugversuch wird die Abschätzung der Zugfestigkeit über die Härte vermieden und es kann abgeschätzt werden, ob die Formel der Abschätzung realitätsnah war. 
 
 \chapter{Wärmebehandlungen}
-\section{Festigkeitssteigerung durch Martensitbildung}
+\section{Festigkeitssteigerung durch Martensitbildung}\label{Festigkeitssteigerung durch Martensitbildung}
 Die Literaturrecherchen zeigen, dass sich die mechanischen Eigenschaften der Titanlegierung durch unterschiedliche Gefügestrukturen einstellen lassen. Die erste Methode um die Härte bzw. Zugfestigkeit zu steigern, ist die Einstellung des Primär Alpha Gehalts. Mit einem sinkenden Gehalt der Alpha Phase, steigt die Härte des Gefüges. \cite{Sahoo2015}. Der Alpha Anteil lässt sich mit einer Wärmebehandlung variieren. 
 Mit einer Wärmebehandlung im zwei Phasen Gebiet ($\alpha'+ \beta$) sinkt der Anteil der Alpha Phase mit steigender Temperatur, bis die Beta Transustemperatur erreicht ist (siehe Abbildung \ref{Phasendiagram}). Um diesen Anteil beizubehalten muss die Temperatur eine bestimmte Zeit gehalten und anschließend schnell abgekühlt werden. Die Diffusionsvorgänge sollen so klein wie möglich gehalten werden. Neue Alpha Körner sollen nicht entstehen und die vorhandenen Körner sollen nicht auf Kosten der Beta Phase weiter wachsen. Oberhalb der Martensitstarttemperatur kann sich aus der Beta Phase je nach Abkühlmedium Martensit oder transformierte Beta Phase bilden.
 
@@ -259,7 +259,7 @@ Zudem ist die hohe Standardabweichung der Härtewerte auffällig (siehe Anhang H
 
 \begin{figure}
 \centering
-\includegraphics[width=\textwidth]{Bilder/alphacase.jpg}
+\includegraphics[width=0.5\textwidth]{Bilder/alphacase.jpg}
 \caption{Alphacase}
 \label{alphacase}
 \end{figure}  
@@ -269,36 +269,63 @@ Zudem ist die hohe Standardabweichung der Härtewerte auffällig (siehe Anhang H
 
 \section{Festigkeitssteigerung durch Auslagern des Vollmatensits}
 \section{Festigkeitssteigerung durch Auslagern von Primäralpha und Martensit}
-In zahlreichen vergleichbaren Untersuchungen wurde bereits eine Festigkeitssteigerung durch Auslagerung von $\alpha + \alpha'$-Gefügen festgestellt. Auf Basis dieser Untersuchungen und Ergebnissen aus vorherigen Behandlungen werden die Parameter für diese Wärmebehandlung gewählt. Ziel dieser Behandlung ist, den metastabilen Martensit in sekundäre Alpha- und Beta-Phase zerfallen zu lassen. Nach \cite{Gilbert2004} ergeben sich so größere Festigkeiten und bessere mechanische Eigenschaften. Es konkurrieren jedoch zwei Mechanismen bei einer Alterung des Martensits. Zum einen werden die Nadeln innerhalb des Martensits breiter, sodass eine Abnahme der Härte aufgrund geringerer Grenzflächendichte folgt. Der andere Mechanismus ist der Zerfall des Martensits in feine Alpha, und Betakörner die sich innerhalb des Gefüges bilden. Diese feinen Körner sorgen für eine Festigkeitssteigerung. Es ist also das Ziel die Vergröberung des Gefüges zu minimieren während der Zerfall maximiert werden soll.
+In zahlreichen vergleichbaren Untersuchungen wurde bereits eine Festigkeitssteigerung durch Auslagerung von $\alpha + \alpha'$-Gefügen festgestellt. Auf Basis dieser Untersuchungen und Ergebnissen aus vorherigen Behandlungen werden die Parameter für diese Wärmebehandlung gewählt. Ziel dieser Behandlung ist, den metastabilen Martensit in sekundäre Alpha- und Beta-Phase zerfallen zu lassen. Nach \cite{Gilbert2004} ergeben sich so größere Festigkeiten und bessere mechanische Eigenschaften. Es konkurrieren jedoch zwei Mechanismen bei einer Alterung des Martensits. Zum einen werden die Nadeln innerhalb des Martensits breiter, sodass eine Abnahme der Härte aufgrund geringerer Grenzflächendichte folgt. Der andere Mechanismus ist der Zerfall des Martensits in feine Alpha, und Betakörner die sich innerhalb des Gefüges bilden. Diese feinen Körner sorgen für eine Festigkeitssteigerung. Es ist also das Ziel die Vergröberung des Gefüges zu minimieren während der Zerfall maximiert werden soll. 
 \subsection{1. Wärmebehandlung}
-Wärmebehandlungen wie in \cite{Gilbert2004} und \cite{Chen2008} geben Beispiele für Erfolgreiche Glüh- und Alterungsprozesse. Sie dienen als Hilfsmittel für die Parameterwahl bei dieser Wärmebehandlung. Bei den Bespielen werden Glühtemperaturen von 950°C bis 970°C verwendet, sodass ein zweiphasiges Gefüge mit unterschiedlichen Primäralpha Gehalten entsteht. Um neben dem Primäralpha ein Martensit zu erzeugen wird in Wasser abgeschreckt. Für eine homogene Ausprägung des Gefüges wird wie in den vorherigen Behandlungen eine Haltezeit von einer Stunde als Ausreichend eingestuft.
+Wärmebehandlungen wie in \cite{Gilbert2004} und \cite{Chen2008} geben Beispiele für Erfolgreiche Glüh- und Alterungsprozesse. Sie dienen als Hilfsmittel für die Parameterwahl bei dieser Wärmebehandlung. Bei den Bespielen werden Glühtemperaturen von 950°C bis 970°C verwendet, sodass ein zweiphasiges Gefüge mit unterschiedlichen Primäralpha Gehalten entsteht. Um neben dem Primäralpha ein Martensit zu erzeugen wird in Wasser abgeschreckt. Für einen vollständigen Abschluss der Diffusionsvorgänge wird wie in der Wärmebehandlung aus Kapitel \ref{Festigkeitssteigerung durch Martensitbildung} eine Haltezeit von einer Stunde als Ausreichend eingestuft.
 
-Wie vorherige Wärmebehandlungen zeigen wirkt sich ein geringer Primäralpha Anteil positiv auf die Härte beziehungsweise Festigkeit aus. Für den Zerfall des Martensits ist jedoch die Konzentration an Beta stabilisierender Elemente in der Martensitphase entscheidend. Diese liegt wie in den EDX Ergebnissen aus Kapitel 3.1 niedriger je kleiner der Primäralpha Anteil ist. Demnach könnten Proben mit einem niedrigeren Primäralpha Anteil durch eine Alterung geringere Festigkeiten aufweisen als Proben mit höheren Primäralpha Anteilen.
+Wie vorherige Wärmebehandlungen zeigen wirkt sich ein geringer Primäralpha Anteil positiv auf die Härte beziehungsweise Festigkeit aus. Für den Zerfall des Martensits ist jedoch die Konzentration an Beta stabilisierender Elemente in der Martensitphase entscheidend. Diese liegt wie in den EDX Ergebnissen aus Kapitel \ref{Festigkeitssteigerung durch Martensitbildung} niedriger je kleiner der Primäralpha Anteil ist. Demnach könnten Proben mit einem niedrigeren Primäralpha Anteil durch eine Alterung geringere Festigkeiten aufweisen als Proben mit höheren Primäralpha Anteilen.
 
-Für die Alterung, mit anschließender Luftkühlung, wurde in den Behandlungen aus den Quellen eine Temperatur von 490°C bis 595°C und eine Haltezeit von 1 bis 8 Stunden angegeben. Da diese Spanne sehr groß ist und eine aussagekräftige Beurteilung der Ergebnisse für den gesamten Bereich unverhältnismäßig aufwendig sein würde, wurden zwei Temperatur festgelegt und über die Haltezeit variiert. So werden in einem ersten Schritt die Auswirkungen des Primäralphaanteils analysiert. Es wurden wasserabgescheckte Proben bei einer Glühtemperatur von 970°C und 950°C jeweils zwei und acht Stunden bei 520°C gealtert. Es werden also vier Proben verwendet die ein vergleichbares Ergebnis liefern sollen. So kann eine Auswirkung der unterschiedlichen Primäralphaanteile gleichzeitig mit der Auswirkung der Haltedauer beobachtet werden und Rückschlüsse auf die entstehenden Eigenschaften getroffen werden.
+Für die Alterung, mit anschließender Luftkühlung, wurde in den Behandlungen aus den Quellen eine Temperatur von 490°C bis 595°C und eine Haltezeit von 1 bis 8 Stunden angegeben. Da diese Spanne sehr groß ist und eine aussagekräftige Beurteilung der Ergebnisse für den gesamten Bereich unverhältnismäßig aufwendig sein würde, wurden zwei Temperatur festgelegt und über die Haltezeit variiert. So werden in einem ersten Schritt die Auswirkungen des Primäralpha Anteils analysiert. Es wurden wasserabgescheckte Proben bei einer Glühtemperatur von 970°C und 950°C jeweils zwei und acht Stunden bei 520°C gealtert. Es werden also vier Proben verwendet die ein vergleichbares Ergebnis liefern sollen. So kann eine Auswirkung der unterschiedlichen Primäralphaanteile gleichzeitig mit der Auswirkung der Haltedauer beobachtet werden und Rückschlüsse auf die entstehenden Eigenschaften getroffen werden.
 \subsection{Ergebnisse 1. Wärmebehandlung}
 \subsubsection{970°C Auslagerung}
-Auf den Gefügebildern mit dem Lichtbildmikroskop aus Abbildung \ref{970 alterung} sind kaum Unterscheide zu dem Ausgangsgefüge aus Abbildung \ref{Gefüge ohne Alterung}(a) sehen. Die Primäralpha Phase ist unabhängig von der Auslagerungszeit in ihrer Ausdehnung konstant geblieben. Dies lässt sich dadurch begründen, dass eine Veränderung des Primäralpha Anteils nur bei hohen Temperaturen oder extrem langen Haltezeiten passieren kann. Da beides nicht vorliegt bleibt der Gehalt konstant. Falls die Martensit Phase sich in ihrer Struktur verändert hat, ist dies nur unter einem REM zu sehen. Ein Zerfall würde sich nur in kleinen Teilchen äußern die in dieser Vergrößerung nicht zu sehen sind.
+Auf den Gefügebildern mit dem Lichtbildmikroskop aus Abbildung \ref{970 alterung} sind kaum Unterscheide zu dem Ausgangsgefüge aus Abbildung \ref{Gefüge ohne Alterung}(a) sehen. Die Primäralpha Phase ist unabhängig von der Auslagerungszeit in ihrer Ausdehnung konstant geblieben. Der Martensit hat sich unter dem Lichtmikroskop nicht verändert. Falls die Martensit-Phase sich in ihrer Struktur verändert hat, ist dies nur unter einem REM zu sehen. Ein Zerfall würde sich nur in kleinen Teilchen äußern die in dieser Vergrößerung nicht zu sehen sind. 
 
-Durch eine Härteprüfung lässt sich die Auswirkung der Alterung analysieren. Dabei wird das in Kapitel zwei beschriebene Verfahren angewendet. Für die Behandlungsreihe mit 970°C ergeben sich die Ergebnisse aus Tabelle \ref{heartepruefung9702h}. Werden diese Werte mit den Härtewerten des rein abgeschreckten Material aus Tabelle \ref{Hearte ohne Behandlung} verglichen ist eine Erhöhung der Härte zu erkennen. Sie ist durch die Auslagerung um circa 10 HV10 gestiegen. Für die längere Haltezeit ist der Härtewert in Anbetracht der Genauigkeit konstant. Es kann also keine Aussage getroffen werden, ob eine längere Haltezeit mit einer Steigerung der Härte verbunden ist. 
 
+Die REM Aufnahme aus Abbildung \ref{REM 970C und 950C}(a) zeigt das Gefüge von einem Abschrecken von 970°C. Wird diese Aufnahme mit denen nach dem Altern aus Abbildung \ref{REM 970C auslagerung} verglichen fallen Unterschiede auf. Der gealterte Martensit hat eine ungleichmäßigere, ''körnigere''  Struktur als der nicht ausgelagerte. Diese Struktur ist bei der Probe mit längerer Haltezeit noch gröber. 
+\begin{figure}
+\subfigure[Glühen bei 970°C]{\includegraphics[width=0.5\textwidth]{Bilder/REM970C1hWQ.png}}
+\subfigure[Glühen bei 950°C]{\includegraphics[width=0.5\textwidth]{Bilder/REM950C1hWQ.png}}
+\caption{REM Bilder abschrecken von 950°C und 970°C}
+\label{REM 970C und 950C}
+\end{figure}
+
+
+\begin{figure}
+\subfigure[Zwei Stunden Alterung]{\includegraphics[width=0.5\textwidth]{Bilder/REM970C1hWQ520C2hAC.png}}
+\subfigure[acht Stunden Alterung]{\includegraphics[width=0.5\textwidth]{Bilder/REM970C1hWQ520C8hAC.png}}
+\caption{Gefüge der gealterten Proben Glühen bei 970°C}
+\label{REM 970C auslagerung}
+\end{figure}
+
+
+Durch eine Härteprüfung lässt sich die Auswirkung der Alterung analysieren. Dabei wird das in Kapitel zwei beschriebene Verfahren angewendet. Für die Behandlungsreihe mit 970°C ergeben sich die Ergebnisse aus Tabelle \ref{heartepruefung970 inkl auslagern}. Ein Vergleich mit den Härtewerten der nicht ausgelagerten Probe aus Tabelle \ref{Hearte ohne Behandlung} zeigt keine Härtesteigerung. 
 \subsubsection{950°C Auslagerung}
-Bei den Proben die mit 950°C geglüht und zwei beziehungsweise acht Stunden bei 520°C ausgelagert wurden, zeigt sich ein ähnliches Ergebnis der Härteprüfung wie bei den Proben bei einer Glühtemperatur von 970°C. Wenn die Härtewerte nach der Alterung mit denen vorher verglichen werden, ist eine Härtesteigerung erkennbar. Die Werte aus der Tabelle \ref{950alterung} sind im Schnitt 10 HV10 höher als das Material vor der Behandlung. Genau wie bei den Härtewerten der höher geglühten Proben ist die Haltezeit den Härtewerten nach zu urteilen  unerheblich hinsichtlich der Festigkeit. Sie ist für beide Haltenzeiten konstant.
+Wie auch schon die Proben bei 970°C sind unter dem Lichtmikroskop keine Unterschiede zwischen den ausgelagerten Proben und der unbehandelten Probe zu erkennen. Für eine genauere Analyse muss also ein REM herangezogen werden.
+
+Die Bilder des REM aus Abbildung \ref{REM 950 2 und 8} zeigen das resultierende Gefüge nach den jeweiligen Haltezeiten. Es sind ähnliche Ergebnisse wie bei der Alterung der Glühtemperatur von 970°C zu erkennen. Der Martensit hat seine charakteristische Struktur verloren. Die nach dem Abschrecken entstandenen Nadeln sind nur noch in keinen Mengen zu sehen. Ein Großteil ist in vielen Stellen unterbrochen und gröber geworden. Es ist schwierig ein Unterschied des Gefüges aufgrund der Haltezeit zu erkennen. Die Struktur ist mit der Zeit noch gröber geworden und die Anzahl der Unterbrechungen ist größer geworden.
+\begin{figure}
+\subfigure[2 Stunden Haltezeit]{\includegraphics[width=0.5\textwidth]{Bilder/REM9501hWQ520C2hAC.png}}
+\subfigure[8 Stunden Haltezeit]{\includegraphics[width=0.5\textwidth]{Bilder/REM950C1hWQ520C8hAC.png}}
+\label{REM 950 2 und 8}
+\caption{Auslagerung der Glühtemperatur 950°C bei 2 und 8 Stunden}
+\end{figure}
+
+Bei den Proben die mit 950°C geglüht und zwei beziehungsweise acht Stunden bei 520°C ausgelagert wurden, zeigt sich ein anderes Ergebnis der Härteprüfung als bei den Proben bei einer Glühtemperatur von 970°C. Wenn die Härtewerte nach der Alterung mit denen vorher verglichen werden, ist eine Härtesteigerung erkennbar. Die Werte aus der Tabelle \ref{950alterung} sind im Schnitt 10 HV10 höher als das Material vor der Behandlung. Die verwendeten Haltezeiten weisen keinen Unterschied hinsichtlich der Härte auf. Sie liegen für beide Zeiten bei circa 360 HV 10.
 \begin{table}[t]	%Härtewerte ohne Auslagerung
 \begin{tabular}{c|c}
 \multicolumn{2}{c}{970°C 1h WQ} \\
 \hline 
 Abstand in mm	& Härte in HV10 \\
-0.03	& 345\\
-3.01	& 350\\
-6.00	& 343\\
-8.98	& 339 \\
-11.97	& 342\\
+0.02	& 342\\
+2.92	& 362\\
+5.80	& 363\\
+8.69	& 363 \\
+11.58	& 355\\
 \hline
-Mittelwert	& 344 \\
-Max	& 350 \\
-Min.	& 339 \\
-Std.-abw. &	4.21 \\
+Mittelwert	& 357 \\
+Max	& 363 \\
+Min.	& 342 \\
+Std.-abw. &	8.95 \\
 
 \end{tabular}
 \begin{tabular}{c|c}
@@ -353,7 +380,7 @@ Std.-abw.	&	2.40\\
 
 \end{tabular}
 \caption{Härteprüfung 970°C Glühen und Auslagern}
-\label{heartepruefung9702h}
+\label{heartepruefung970 inkl auslagern}
 \end{table}
 \begin{table}[t] 	%950 Alterung
 \begin{tabular}{c|c}
@@ -407,7 +434,9 @@ Std.-abw.	&	1.83 \\
 
 
 \subsection{2. Wärmebehandlung}
-Die Ergebnisse des 1. Teils lassen vorerst keine Interpretation zu, ob eine niedrigere Glühtemperatur zu einer größeren Härtesteigerung beziehungsweise Festigkeitssteigerung führt. Es ist trotzdem ersichtlich das eine Härtesteigerung aufgrund der Alterung vorliegt. Aufgrund von der niedrigeren Konzentration an Beta stabilisierenden Elementen der Martensit Phase aus Glühtemperaturen von 970°C erscheint es nicht plausibel längere Haltezeiten für diese Behandlung zu probieren. Der verbleibende Martensit wird wahrscheinlich nur gröber und ein weiterer Zerfall bleibt aus. Demnach wird nur der 950°C länger Ausgelagert um ein stärkeren Zerfall zu provozieren. Diese längere Auslagerung äußert sich in einer Haltezeit von 16 und 24 Stunden bei gleichbleibenden Glühparametern. So wird getestet, ob die Festigkeit noch einmal gesteigert werden kann.
+Aus den Ergebnissen der ersten Wärmebehandlung lässt sich schließen, dass eine längere Haltezeit, innerhalb einer Auslagerung ausgehend von einer Glühtemperatur von 970°C, keine Festigkeitssteigerung hervorruft. Die Alterung der geringeren Glühtemperatur zeigt bereits eine Härtesteigerung von circa 3\%. Eine Zunahme der Härte bei längerer Haltezeit ist somit für die Proben mit einer Glühtemperatur von 970°C unwahrscheinlich. 
+
+Da die Haltezeiten keinen Unterschied hinsichtlich der Härtesteigerung aufweisen, wird eine verlängerte Haltezeit angewendet. Es kann sein, dass der Zerfall des Martensits noch weiter fortschreitet, da während den verwendeten Haltezeiten die Diffusionsvorgänge nicht abgeschlossen werden konnten. Um dies zu prüfen und festzustellen, ob eine noch längere Haltezeit eine größere Härte steigernde Wirkung hervorruft, werden die Haltezeiten auf 16 und 24 Stunden angepasst. So lässt sich zeigen, ob der Zerfall des Martensits noch positiv hinsichtlich der Festigkeit statt finden kann. 
 
 
 
@@ -419,6 +448,8 @@ Die Ergebnisse des 1. Teils lassen vorerst keine Interpretation zu, ob eine nied
 \end{figure}
 \subsection{Ergebnisse 2. Wärmebehandlung}
 Aus den Gefügebildern mit dem Lichtmikroskop aus Abbildung \ref{950 lange auslagerung} ist kein wesentlicher Unterschied erkennbar. Im Verhältnis zu der Probe die nur zwei Stunden ausgelagert wurde, kann man eine leichte Verbreiterung der Nadeln erkennen. Jedoch ist eine mögliche Bildung von Alpha und Beta Phase unter dieser Auflösung nicht erkennbar. Dazu muss wie zuvor ein REM herangezogen werden.
+
+Das Bild aus Abbildung \ref{REM 950C 24h} zeigt eine REM Ausnahme von dem 24 Stunden lang gealterten Gefüge. Das Martensit ist fast nicht mehr zu erkennen. Die ehemaligen Nadeln sind an vielen Stellen unterbrochen und sind als solche nicht mehr zu erkennen. Um das Alpha-Korn hat sich ein ausgeprägter Rand gebildet. Die für kürze Haltezeit beschriebene Vergröberung ist mit der Zeit noch einmal größer geworden.
 
 Die Härtewerte zeigen, dass aus einer längeren Haltezeit eine höhere Härte resultiert. Im Vergleich zu der Haltezeit von zwei Stunden zeigen die Ergebnisse aus Tabelle \ref{950 16 24} für eine Haltezeit von 24 Stunden eine nochmalige Härtesteigerung von 10 HV10. Die Härte nimmt also für längere Haltezeiten stetig zu. 
 
@@ -466,6 +497,13 @@ Std.-abw.	&	0.803 \\
 \caption{Härtewerte für eine Haltezeiten von 16 und 24 Stunden}
 \label{950 16 24}
 \end{table}
+
+\begin{figure}
+\centering
+\includegraphics[width=0.66\textwidth]{Bilder/REM950C1hWQ520C24hAC.png}
+\caption{REM Aufnahme: 950°C und 24 Stunden Alterung}
+\label{REM 950C 24h}
+\end{figure}
 \bibliographystyle{plain}
 \bibliography{literatur}
 \listoffigures

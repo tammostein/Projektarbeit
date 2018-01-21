@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  19 JAN 2018 15:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  21 JAN 2018 10:22
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1307,16 +1307,16 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 45.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 45.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 48.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 48.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 45.
 [4
 
 ]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 45.
 Missing character: There is no ¨ in font NexusProSerif-Regular!
 Missing character: There is no ¨ in font NexusProSerif-Regular!
 Package babel Info: Redefining ngerman shorthand "|
@@ -1934,71 +1934,81 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 512.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 512.
-(Projektarbeit.bbl
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 518.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 518.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 518.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
- [25
+(babel)             in language  on input line 518.
+[25
 
-])
+] (Projektarbeit.bbl
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 518.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 518.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 518.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 518.
- [26
+(babel)             in language  on input line 1.
+ [26])
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 528.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 528.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 528.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 528.
+ [27
 
 ] (Projektarbeit.lof)
 \tf@lof=\write5
 \openout5 = `Projektarbeit.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 519.
+(babel)             in language  on input line 529.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 519.
+(babel)             in language  on input line 529.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 519.
+(babel)             in language  on input line 529.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 519.
- [27
+(babel)             in language  on input line 529.
+ [28
 
 ] (Projektarbeit.lot)
 \tf@lot=\write6
 \openout6 = `Projektarbeit.lot'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 520.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 530.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 520.
+(babel)             in language  on input line 530.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 520.
+(babel)             in language  on input line 530.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 520.
+(babel)             in language  on input line 530.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 520.
-
-[28
+(babel)             in language  on input line 530.
+[29
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 520.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 530.
  (Projektarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 520.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 520.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 530.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 530.
 Package rerunfilecheck Info: File `Projektarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: 875A031F1B3DC176DAA6B284B97CCF0E;3239.
  ) 
 Here is how much of TeX's memory you used:
- 13120 strings out of 493323
- 209671 string characters out of 3139045
- 420218 words of memory out of 3000000
- 16235 multiletter control sequences out of 15000+200000
+ 13123 strings out of 493323
+ 209690 string characters out of 3139045
+ 420226 words of memory out of 3000000
+ 16237 multiletter control sequences out of 15000+200000
  124790 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,14n,104p,8881b,872s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2016,9 +2026,9 @@ o-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
 /Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Projektarbeit.pdf (28 pages, 16621010 bytes).
+Output written on Projektarbeit.pdf (29 pages, 16625505 bytes).
 PDF statistics:
- 595 PDF objects out of 1000 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
+ 599 PDF objects out of 1000 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
  488 words of extra memory for PDF output out of 10000 (max. 10000000)
 

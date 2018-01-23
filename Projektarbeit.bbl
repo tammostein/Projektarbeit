@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Babu2008}
 Bijish Babu.
@@ -6,6 +6,11 @@ Bijish Babu.
 \newblock Technical report, Luleå University of TechnologyDepartment of
   Applied Physics and Mechanical Engineering Division of Material Mechanics,
   2008.
+
+\bibitem{Boyer1994}
+R.~Boyer, E.W. Collings, and G.~Welsch.
+\newblock {\em Materials Properties Handbook: Titanium Alloys}.
+\newblock ASM International, 2007.
 
 \bibitem{Werkstoffdesign2012}
 Werkstoffdesign~TU Cottbus.
@@ -17,10 +22,23 @@ Roger Gilbert and C.~Richard Shannon.
 \newblock Heat treating of titanium and titanium alloys.
 \newblock Technical report, Teledyne Allvac, 2004.
 
+\bibitem{Lee2005}
+Dong-Geun Lee and Sunghak Lee.
+\newblock Effects of nano-sized {$\alpha$2(Ti$_{3}$Al)} particles on
+  quasi-static and dynamic deformation behavior of ti-6al-4v alloy with bimodal
+  microstructure.
+\newblock Technical report, Center for Advanced Aerospace Materials, 2005.
+
 \bibitem{Luetjering2007}
 G.~Lütjering and J.C. Williams.
 \newblock {\em Titanium}.
-\newblock Springer, 2007.
+\newblock Springer Verlag, 2007.
+
+\bibitem{Shi2013}
+W.~Lu, Y.~Shi, X.~Li, and Y.~Lei.
+\newblock Correlation between tensile strength and hardness of electron beam
+  welded tc4-dt joints.
+\newblock Technical report, 2013.
 
 \bibitem{Leyens2002}
 M.~Peters and C.~Leyens.
@@ -51,5 +69,10 @@ B.D. Venkatesh, D.L. Chen, and S.D. Bhole.
   alloy.
 \newblock Technical report, Department of Mechnical and Industrial Engineering,
   Ryerson University, 2008.
+
+\bibitem{Zwicker1974}
+Ulrich Zwicker.
+\newblock {\em Titan und Titanlegierungen}.
+\newblock Springer Verlag, 1974.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  23 JAN 2018 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  24 JAN 2018 01:21
 entering extended mode
 **./Projektarbeit.tex
 (Projektarbeit.tex
@@ -1031,43 +1031,70 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip102
 )
-(Projektarbeit.aux)
+("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count130
+\c@Blindtext=\count131
+\c@blind@countparstart=\count132
+\blind@countxx=\count133
+\blindtext@numBlindtext=\count134
+\blind@countyy=\count135
+\c@blindlist=\count136
+\c@blindlistlevel=\count137
+\c@blindlist@level=\count138
+\blind@listitem=\count139
+\c@blind@listcount=\count140
+\c@blind@levelcount=\count141
+\blind@mathformula=\count142
+\blind@Mathformula=\count143
+\c@blind@randomcount=\count144
+\c@blind@randommax=\count145
+\c@blind@pangramcount=\count146
+\c@blind@pangrammax=\count147
+) (Projektarbeit.aux
+
+LaTeX Warning: Label `R\IeC {\"o}ntgenspektrum' multiply defined.
+
+)
 \openout1 = `Projektarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Try loading font information for LY1+NexusProSerif on input
- line 18.
-
-("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusproserif.fd"
+ line 19.
+ ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusproserif.fd"
 File: LY1NexusProSerif.fd Fontshop NexusProSerif font definitions
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count130
+\scratchcounter=\count148
 \scratchdimen=\dimen140
 \scratchbox=\box35
-\nofMPsegments=\count131
-\nofMParguments=\count132
+\nofMPsegments=\count149
+\nofMParguments=\count150
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count133
+\MPscratchCnt=\count151
 \MPscratchDim=\dimen141
-\MPnumerator=\count134
-\makeMPintoPDFobject=\count135
+\MPnumerator=\count152
+\makeMPintoPDFobject=\count153
 \everyMPtoPDFconversion=\toks23
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1120,7 +1147,7 @@ G,.JBIG2,.JB2,.eps]
 \AtBeginShipoutBox=\box36
 ABD: EveryShipout initializing macros
 \big@size=\dimen142
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring OFF on input line 19.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1128,18 +1155,18 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count136
+\c@section@level=\count154
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
 
 (Projektarbeit.out) (Projektarbeit.out)
 \@outlinefile=\write3
 \openout3 = `Projektarbeit.out'.
 
 LaTeX Font Info:    Try loading font information for LY1+NexusProSans on input 
-line 20.
+line 21.
 
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusprosans.fd"
 File: LY1NexusProSans.fd Fontshop NexusProSans font definitions
@@ -1147,87 +1174,87 @@ File: LY1NexusProSans.fd Fontshop NexusProSans font definitions
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <10.95> not avai
 lable
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 20.
+ne 21.
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <45> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 20.
+ne 21.
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <36> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 20.
+ne 21.
 LaTeX Font Info:    Try loading font information for LY1+NexusProSans-lnum on i
-nput line 20.
+nput line 21.
 
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusprosans-lnum.fd"
 File: LY1NexusProSans-lnum.fd Fontshop NexusProSans-lnum font definitions
 )
-LaTeX Font Info:    Calculating math sizes for size <27> on input line 20.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 20.
+LaTeX Font Info:    Calculating math sizes for size <27> on input line 21.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 21.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 20.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 21.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 20.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 21.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 20.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 21.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 21.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-<TUBraunschweig_4C.pdf, id=211, 199.1691pt x 73.97737pt>
+<TUBraunschweig_4C.pdf, id=223, 199.1691pt x 73.97737pt>
 File: TUBraunschweig_4C.pdf Graphic file (type pdf)
 
 <use TUBraunschweig_4C.pdf>
-Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 20.
+Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 21.
 (pdftex.def)             Requested size: 199.16928pt x 73.98167pt.
 \tmp@logoheight=\dimen143
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <14> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 20.
+ne 21.
 
-<Bilder/ifw-logo.jpg, id=212, 351.3125pt x 74.2775pt>
+<Bilder/ifw-logo.jpg, id=224, 351.3125pt x 74.2775pt>
 File: Bilder/ifw-logo.jpg Graphic file (type jpg)
 
 <use Bilder/ifw-logo.jpg>
-Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 20.
+Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 21.
 (pdftex.def)             Requested size: 231.89912pt x 49.03009pt.
 File: TUBraunschweig_4C.pdf Graphic file (type pdf)
  <use TUBraunschweig_4C.pdf>
-Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 20.
+Package pdftex.def Info: TUBraunschweig_4C.pdf used on input line 21.
 (pdftex.def)             Requested size: 199.16928pt x 73.98167pt.
 \tmp@logoheight=\dimen144
 File: Bilder/ifw-logo.jpg Graphic file (type jpg)
 
 <use Bilder/ifw-logo.jpg>
-Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 20.
+Package pdftex.def Info: Bilder/ifw-logo.jpg used on input line 21.
 (pdftex.def)             Requested size: 231.89912pt x 49.03009pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 21.
  [1
 
 
@@ -1239,21 +1266,21 @@ rojektarbeit.toc
 LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <10.95> not
  available
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 2.
+ut line 3.
 LaTeX Font Info:    Try loading font information for LY1+NexusProSerif-lnum on 
-input line 3.
+input line 4.
 
 ("C:\Program Files (x86)\tubslatex\tex/latex\tubs\ly1nexusproserif-lnum.fd"
 File: LY1NexusProSerif-lnum.fd Fontshop NexusProSerif-lnum font definitions
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 45.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 45.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 45.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 45.
 
 [2
 
@@ -1261,40 +1288,47 @@ Package babel Info: Redefining ngerman shorthand "~
 \tf@toc=\write4
 \openout4 = `Projektarbeit.toc'.
 
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 22.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 22.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 21.
+(scrkbase)              on input line 23.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 23.
  [3]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 30.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 30.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 30.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 30.
+ [4
+
+]
 chapter 1.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 30.
 LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <36> not av
 ailable
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 21.
+ut line 30.
 LaTeX Font Info:    Font shape `LY1/NexusProSans/bx/n' in size <18> not availab
 le
 (Font)              Font shape `LY1/NexusProSans/b/n' tried instead on input li
-ne 23.
+ne 32.
 LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <18> not av
-ailable
-(Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
-ut line 23.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 23.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 23.
-LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <14> not av
 ailable
 (Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
 ut line 32.
@@ -1302,329 +1336,336 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 32.
+LaTeX Font Info:    Font shape `LY1/NexusProSans-lnum/bx/n' in size <14> not av
+ailable
+(Font)              Font shape `LY1/NexusProSans-lnum/b/n' tried instead on inp
+ut line 41.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 45.
-[4
+(babel)             in language  on input line 54.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 54.
+[5
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 56.
- <Bilder/lamellar.jpg, id=301, 258.21469pt x 176.91093pt>
+(babel)             in language  on input line 65.
+ <Bilder/lamellar.jpg, id=320, 258.21469pt x 176.91093pt>
 File: Bilder/lamellar.jpg Graphic file (type jpg)
 
 <use Bilder/lamellar.jpg>
-Package pdftex.def Info: Bilder/lamellar.jpg used on input line 62.
+Package pdftex.def Info: Bilder/lamellar.jpg used on input line 71.
 (pdftex.def)             Requested size: 258.21405pt x 176.91049pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 76.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 76.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 69.
+(scrkbase)              on input line 78.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 69.
- [5 <./Bilder/lamellar.jpg>]
-<Bilder/Vollmartensit.jpg, id=314, 668.7384pt x 501.072pt>
+(babel)             in language  on input line 78.
+ [6 <./Bilder/lamellar.jpg>]
+<Bilder/Vollmartensit.jpg, id=333, 668.7384pt x 501.072pt>
 File: Bilder/Vollmartensit.jpg Graphic file (type jpg)
 
 <use Bilder/Vollmartensit.jpg>
-Package pdftex.def Info: Bilder/Vollmartensit.jpg used on input line 76.
+Package pdftex.def Info: Bilder/Vollmartensit.jpg used on input line 85.
 (pdftex.def)             Requested size: 185.50916pt x 138.99178pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 89.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 89.
 
-<Bilder/Ausgangsgefuege.jpg, id=316, 668.7384pt x 501.072pt>
+<Bilder/Ausgangsgefuege.jpg, id=335, 668.7384pt x 501.072pt>
 File: Bilder/Ausgangsgefuege.jpg Graphic file (type jpg)
 
 <use Bilder/Ausgangsgefuege.jpg>
-Package pdftex.def Info: Bilder/Ausgangsgefuege.jpg used on input line 84.
+Package pdftex.def Info: Bilder/Ausgangsgefuege.jpg used on input line 93.
 (pdftex.def)             Requested size: 185.50916pt x 138.99178pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 88.
+(scrkbase)              on input line 97.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 88.
- [6 <./Bilder/Vollmartensit.jpg>]
+(babel)             in language  on input line 97.
+ [7 <./Bilder/Vollmartensit.jpg>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 94.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 94.
-
-<Bilder/Titanaluminide.png, id=323, 376.40625pt x 261.97874pt>
+(babel)             in language  on input line 103.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 107.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 107.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 107.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 107.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 107.
+ [8 <./Bilder/Ausgangsgefuege.jpg>]
+<Bilder/Titanaluminide.png, id=354, 376.40625pt x 261.97874pt>
 File: Bilder/Titanaluminide.png Graphic file (type png)
 
 <use Bilder/Titanaluminide.png>
-Package pdftex.def Info: Bilder/Titanaluminide.png used on input line 100.
+Package pdftex.def Info: Bilder/Titanaluminide.png used on input line 110.
 (pdftex.def)             Requested size: 231.88998pt x 161.39778pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 104.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 104.
+(babel)             in language  on input line 115.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 118.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 118.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 120.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 120.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 106.
+(scrkbase)              on input line 134.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 106.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 106.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 106.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 106.
- [7 <./Bilder/Ausgangsgefuege.jpg>]
+(babel)             in language  on input line 134.
+ [9 <./Bilder/Titanaluminide.png>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 106.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 106.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 108.
+(babel)             in language  on input line 155.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 108.
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 122.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 122.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 122.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 122.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 122.
- [8 <./Bilder/Titanaluminide.png>]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 122.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 122.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 143.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 155.
 
-<Bilder/Duplexgefuege.PNG, id=354, 274.02374pt x 210.03468pt>
+<Bilder/Duplexgefuege.PNG, id=379, 274.02374pt x 210.03468pt>
 File: Bilder/Duplexgefuege.PNG Graphic file (type png)
 
 <use Bilder/Duplexgefuege.PNG>
-Package pdftex.def Info: Bilder/Duplexgefuege.PNG used on input line 147.
+Package pdftex.def Info: Bilder/Duplexgefuege.PNG used on input line 159.
 (pdftex.def)             Requested size: 185.50916pt x 142.19353pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 152.
+(scrkbase)              on input line 163.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 152.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 152.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 152.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 152.
- [9]
+(babel)             in language  on input line 163.
+ [10]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 152.
+(scrkbase)              on input line 164.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 152.
+(babel)             in language  on input line 164.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 152.
+(babel)             in language  on input line 164.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 152.
+(babel)             in language  on input line 164.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 152.
- [10 <./Bilder/Duplexgefuege.PNG>]
+(babel)             in language  on input line 164.
+ [11 <./Bilder/Duplexgefuege.PNG>]
 chapter 2.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 152.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 152.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 153.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 153.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 159.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 159.
-Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 164.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 164.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 170.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 170.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 170.
+(babel)             in language  on input line 176.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 170.
-[11
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 179.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 179.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 182.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 182.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 182.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 182.
+[12
 
-] <Bilder/REM.png, id=381, 277.78781pt x 307.90031pt>
+] <Bilder/REM.png, id=407, 277.78781pt x 307.90031pt>
 File: Bilder/REM.png Graphic file (type png)
  <use Bilder/REM.png>
-Package pdftex.def Info: Bilder/REM.png used on input line 173.
+Package pdftex.def Info: Bilder/REM.png used on input line 187.
 (pdftex.def)             Requested size: 231.88998pt x 257.03241pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 181.
+(scrkbase)              on input line 197.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 197.
 
-[12 <./Bilder/REM.png>]
+[13 <./Bilder/REM.png>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 198.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 181.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 184.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 184.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 187.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 187.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 194.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 194.
+(babel)             in language  on input line 198.
 
-<Bilder/Phasendiagram.PNG, id=388, 349.305pt x 265.74281pt>
+<Bilder/Roentgenspektrum.png, id=422, 238.64156pt x 164.11313pt>
+File: Bilder/Roentgenspektrum.png Graphic file (type png)
+
+<use Bilder/Roentgenspektrum.png>
+Package pdftex.def Info: Bilder/Roentgenspektrum.png used on input line 223.
+(pdftex.def)             Requested size: 306.09648pt x 210.51482pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 227.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 227.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 230.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 230.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 230.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 230.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 230.
+ [14]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 230.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 230.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 233.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 233.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 240.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 240.
+
+<Bilder/Phasendiagram.PNG, id=434, 349.305pt x 265.74281pt>
 File: Bilder/Phasendiagram.PNG Graphic file (type png)
 
 <use Bilder/Phasendiagram.PNG>
-Package pdftex.def Info: Bilder/Phasendiagram.PNG used on input line 198.
+Package pdftex.def Info: Bilder/Phasendiagram.PNG used on input line 244.
 (pdftex.def)             Requested size: 231.88998pt x 176.41669pt.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 203.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 203.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 205.
+(scrkbase)              on input line 249.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 205.
+(babel)             in language  on input line 249.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 205.
+(babel)             in language  on input line 249.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 205.
+(babel)             in language  on input line 249.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 205.
- [13]
+(babel)             in language  on input line 249.
+ [15 <./Bilder/Roentgenspektrum.png>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 209.
+(babel)             in language  on input line 249.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 209.
+(babel)             in language  on input line 249.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 212.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 212.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 258.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 215.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 218.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 218.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 219.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 219.
+(babel)             in language  on input line 258.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 221.
+(scrkbase)              on input line 260.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 260.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 260.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 260.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 221.
- [14 <./Bilder/Phasendiagram.PNG>]
+(babel)             in language  on input line 260.
+ [16 <./Bilder/Phasendiagram.PNG>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 261.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 261.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 264.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 264.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 265.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 265.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 238.
+(scrkbase)              on input line 272.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 238.
+(babel)             in language  on input line 272.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 238.
+(babel)             in language  on input line 272.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 238.
+(babel)             in language  on input line 272.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 238.
- [15]
+(babel)             in language  on input line 272.
+ [17]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 245.
+(babel)             in language  on input line 291.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 245.
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 248.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 248.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 248.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 248.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 248.
-
-[16]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 281.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 281.
- <Bilder/Raster.png, id=427, 400.49625pt x 377.91188pt>
-File: Bilder/Raster.png Graphic file (type png)
-
-<use Bilder/Raster.png>
-Package pdftex.def Info: Bilder/Raster.png used on input line 287.
-(pdftex.def)             Requested size: 231.88998pt x 218.81421pt.
+(babel)             in language  on input line 291.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
 (scrkbase)              on input line 294.
@@ -1636,554 +1677,623 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 294.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 294.
- [17]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 295.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 295.
+ [18]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 298.
+(scrkbase)              on input line 327.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 298.
+(babel)             in language  on input line 327.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 298.
+(babel)             in language  on input line 327.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 298.
+(babel)             in language  on input line 327.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 298.
- [18 <./Bilder/Raster.png>]
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 299.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 299.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 299.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 299.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 327.
  [19]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 327.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 327.
+
+<Bilder/Raster.png, id=485, 400.49625pt x 377.91188pt>
+File: Bilder/Raster.png Graphic file (type png)
+ <use Bilder/Raster.png>
+Package pdftex.def Info: Bilder/Raster.png used on input line 333.
+(pdftex.def)             Requested size: 231.88998pt x 218.81421pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 341.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 341.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 344.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 344.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 344.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 344.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 344.
+
+[20 <./Bilder/Raster.png>]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 345.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 345.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 345.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 345.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 345.
+ [21]
 chapter 3.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 345.
+File: Bilder/Ausgangsgefuege.jpg Graphic file (type jpg)
+<use Bilder/Ausgangsgefuege.jpg>
+Package pdftex.def Info: Bilder/Ausgangsgefuege.jpg used on input line 350.
+(pdftex.def)             Requested size: 231.88998pt x 173.74928pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 300.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 300.
+(babel)             in language  on input line 355.
 
-Overfull \hbox (3.81345pt too wide) in paragraph at lines 301--303
+Overfull \hbox (3.81345pt too wide) in paragraph at lines 356--357
 \LY1/NexusProSerif/m/n/10.95 Die Li-te-ra-tur-re-cher-chen zei-gen, dass sich d
 ie me-cha-ni-schen Ei-gen-schaf-ten der Tit-an-le-gie-rung durch
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 304.
+(babel)             in language  on input line 362.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 304.
-<Bilder/9701hwq.jpg, id=452, 668.7384pt x 501.072pt>
+(babel)             in language  on input line 362.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 365.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 365.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 365.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 365.
+[22
+
+] <Bilder/9701hwq.jpg, id=513, 668.7384pt x 501.072pt>
 File: Bilder/9701hwq.jpg Graphic file (type jpg)
- <use Bilder/9701hwq.jpg>
-Package pdftex.def Info: Bilder/9701hwq.jpg used on input line 308.
-(pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
 
-<Bilder/9601hwq.jpg, id=453, 668.7384pt x 501.072pt>
+<use Bilder/9701hwq.jpg>
+Package pdftex.def Info: Bilder/9701hwq.jpg used on input line 369.
+(pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
+ <Bilder/9601hwq.jpg, id=514, 668.7384pt x 501.072pt>
 File: Bilder/9601hwq.jpg Graphic file (type jpg)
- <use Bilder/9601hwq.jpg>
-Package pdftex.def Info: Bilder/9601hwq.jpg used on input line 309.
-(pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
 
-<Bilder/9501hwq.jpg, id=454, 668.7384pt x 501.072pt>
+<use Bilder/9601hwq.jpg>
+Package pdftex.def Info: Bilder/9601hwq.jpg used on input line 370.
+(pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
+ <Bilder/9501hwq.jpg, id=515, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq.jpg Graphic file (type jpg)
- <use Bilder/9501hwq.jpg>
-Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 310.
+
+<use Bilder/9501hwq.jpg>
+Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 371.
 (pdftex.def)             Requested size: 153.04823pt x 114.6707pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 388.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 390.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 390.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 327.
-
-[20
-
- <./Bilder/9701hwq.jpg> <./Bilder/9601hwq.jpg> <./Bilder/9501hwq.jpg>]
+(babel)             in language  on input line 390.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 328.
+(babel)             in language  on input line 390.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 328.
-
-Overfull \hbox (8.98067pt too wide) in paragraph at lines 332--341
+(babel)             in language  on input line 390.
+ [23 <./Bilder/9701hwq.jpg> <./Bilder/9601hwq.jpg> <./Bilder/9501hwq.jpg>]
+Overfull \hbox (8.98067pt too wide) in paragraph at lines 392--401
 [][] 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 344.
+(babel)             in language  on input line 405.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 344.
-<Bilder/alphacase.jpg, id=468, 668.7384pt x 501.072pt>
-File: Bilder/alphacase.jpg Graphic file (type jpg)
+(babel)             in language  on input line 405.
+<Bilder/EDX1.jpg, id=528, 451.6875pt x 338.76563pt>
+File: Bilder/EDX1.jpg Graphic file (type jpg)
+ <use Bilder/EDX1.jpg>
+Package pdftex.def Info: Bilder/EDX1.jpg used on input line 409.
+(pdftex.def)             Requested size: 231.88998pt x 173.92088pt.
 
-<use Bilder/alphacase.jpg>
-Package pdftex.def Info: Bilder/alphacase.jpg used on input line 350.
-(pdftex.def)             Requested size: 231.88998pt x 173.74928pt.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 358.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 358.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 359.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 359.
+<Bilder/EDX2.jpg, id=529, 451.6875pt x 338.76563pt>
+File: Bilder/EDX2.jpg Graphic file (type jpg)
+ <use Bilder/EDX2.jpg>
+Package pdftex.def Info: Bilder/EDX2.jpg used on input line 410.
+(pdftex.def)             Requested size: 231.88998pt x 173.92088pt.
 
-Overfull \hbox (0.33498pt too wide) in paragraph at lines 360--361
+Overfull \hbox (1.82498pt too wide) in paragraph at lines 409--411
+[][] [][] 
+ []
+
+<Bilder/Roentgenspektrumti64.png, id=530, 726.46407pt x 342.5297pt>
+File: Bilder/Roentgenspektrumti64.png Graphic file (type png)
+
+<use Bilder/Roentgenspektrumti64.png>
+Package pdftex.def Info: Bilder/Roentgenspektrumti64.png used on input line 416
+.
+(pdftex.def)             Requested size: 306.09648pt x 144.32664pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 436.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 436.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 438.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 438.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 438.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 438.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 438.
+ [24 <./Bilder/EDX1.jpg> <./Bilder/EDX2.jpg>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 444.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 444.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 445.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 445.
+
+Overfull \hbox (0.33498pt too wide) in paragraph at lines 446--447
 \LY1/NexusProSerif/m/n/10.95 In zahl-rei-chen ver-gleich-ba-ren Un-ter-su-chun-
 gen wur-de be-reits ei-ne Fes-tig-keits-stei-ge-rung durch Aus-
  []
 
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 361.
+(scrkbase)              on input line 447.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 361.
+(babel)             in language  on input line 447.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 361.
+(babel)             in language  on input line 447.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 361.
+(babel)             in language  on input line 447.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 361.
-[21]
+(babel)             in language  on input line 447.
+[25 <./Bilder/Roentgenspektrumti64.png>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 361.
+(babel)             in language  on input line 447.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 361.
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 367.
+(babel)             in language  on input line 447.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 367.
+(babel)             in language  on input line 453.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 367.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 367.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 367.
- [22 <./Bilder/alphacase.jpg>]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 367.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 367.
+(babel)             in language  on input line 453.
 
-<Bilder/REM970C1hWQ.png, id=489, 1027.84pt x 770.88pt>
+<Bilder/REM970C1hWQ.png, id=557, 1027.84pt x 770.88pt>
 File: Bilder/REM970C1hWQ.png Graphic file (type png)
 
 <use Bilder/REM970C1hWQ.png>
-Package pdftex.def Info: Bilder/REM970C1hWQ.png used on input line 374.
+Package pdftex.def Info: Bilder/REM970C1hWQ.png used on input line 460.
 (pdftex.def)             Requested size: 231.88998pt x 173.91103pt.
 
-<Bilder/REM950C1hWQ.png, id=490, 1027.84pt x 770.88pt>
+<Bilder/REM950C1hWQ.png, id=558, 1027.84pt x 770.88pt>
 File: Bilder/REM950C1hWQ.png Graphic file (type png)
 
 <use Bilder/REM950C1hWQ.png>
-Package pdftex.def Info: Bilder/REM950C1hWQ.png used on input line 375.
+Package pdftex.def Info: Bilder/REM950C1hWQ.png used on input line 461.
 (pdftex.def)             Requested size: 231.88998pt x 173.91103pt.
 
-Overfull \hbox (1.82498pt too wide) in paragraph at lines 374--376
+Overfull \hbox (1.82498pt too wide) in paragraph at lines 460--462
 [][] [][] 
  []
 
-<Bilder/REM970C1hWQ520C2hAC.png, id=491, 1027.84pt x 770.88pt>
+<Bilder/REM970C1hWQ520C2hAC.png, id=559, 1027.84pt x 770.88pt>
 File: Bilder/REM970C1hWQ520C2hAC.png Graphic file (type png)
 
 <use Bilder/REM970C1hWQ520C2hAC.png>
-Package pdftex.def Info: Bilder/REM970C1hWQ520C2hAC.png used on input line 382.
+Package pdftex.def Info: Bilder/REM970C1hWQ520C2hAC.png used on input line 468.
 
 (pdftex.def)             Requested size: 231.88998pt x 173.91103pt.
 
-<Bilder/REM970C1hWQ520C8hAC.png, id=492, 1027.84pt x 770.88pt>
+<Bilder/REM970C1hWQ520C8hAC.png, id=560, 1027.84pt x 770.88pt>
 File: Bilder/REM970C1hWQ520C8hAC.png Graphic file (type png)
 
 <use Bilder/REM970C1hWQ520C8hAC.png>
-Package pdftex.def Info: Bilder/REM970C1hWQ520C8hAC.png used on input line 383.
+Package pdftex.def Info: Bilder/REM970C1hWQ520C8hAC.png used on input line 469.
 
 (pdftex.def)             Requested size: 231.88998pt x 173.91103pt.
 
-Overfull \hbox (1.82498pt too wide) in paragraph at lines 382--384
+Overfull \hbox (1.82498pt too wide) in paragraph at lines 468--470
 [][] [][] 
  []
 
-<Bilder/REM9501hWQ520C2hAC.png, id=496, 1027.84pt x 770.88pt>
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 476.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 476.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 476.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 476.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 476.
+[26]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 476.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 476.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 476.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 476.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 476.
+ [27 <./Bilder/REM970C1hWQ.png> <./Bilder/REM950C1hWQ.png> <./Bilder/REM970C1hW
+Q520C2hAC.png> <./Bilder/REM970C1hWQ520C8hAC.png>]
+<Bilder/REM9501hWQ520C2hAC.png, id=581, 1027.84pt x 770.88pt>
 File: Bilder/REM9501hWQ520C2hAC.png Graphic file (type png)
 
 <use Bilder/REM9501hWQ520C2hAC.png>
-Package pdftex.def Info: Bilder/REM9501hWQ520C2hAC.png used on input line 395.
+Package pdftex.def Info: Bilder/REM9501hWQ520C2hAC.png used on input line 481.
 (pdftex.def)             Requested size: 231.88998pt x 173.91103pt.
 
-<Bilder/REM950C1hWQ520C8hAC.png, id=497, 1027.84pt x 770.88pt>
+<Bilder/REM950C1hWQ520C8hAC.png, id=582, 1027.84pt x 770.88pt>
 File: Bilder/REM950C1hWQ520C8hAC.png Graphic file (type png)
 
 <use Bilder/REM950C1hWQ520C8hAC.png>
-Package pdftex.def Info: Bilder/REM950C1hWQ520C8hAC.png used on input line 396.
+Package pdftex.def Info: Bilder/REM950C1hWQ520C8hAC.png used on input line 482.
 
 (pdftex.def)             Requested size: 231.88998pt x 173.91103pt.
 
-Overfull \hbox (1.82498pt too wide) in paragraph at lines 395--398
+Overfull \hbox (1.82498pt too wide) in paragraph at lines 481--484
 [][] [][]
  []
 
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 400.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 400.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 400.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 400.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 400.
-[23 <./Bilder/REM970C1hWQ.png> <./Bilder/REM950C1hWQ.png>]
 File: Bilder/9701hwq.jpg Graphic file (type jpg)
-
 <use Bilder/9701hwq.jpg>
-Package pdftex.def Info: Bilder/9701hwq.jpg used on input line 510.
+Package pdftex.def Info: Bilder/9701hwq.jpg used on input line 596.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 File: Bilder/9501hwq.jpg Graphic file (type jpg)
  <use Bilder/9501hwq.jpg>
-Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 511.
+Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 597.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9701hwq5202hac.jpg, id=514, 668.7384pt x 501.072pt>
+<Bilder/9701hwq5202hac.jpg, id=584, 668.7384pt x 501.072pt>
 File: Bilder/9701hwq5202hac.jpg Graphic file (type jpg)
 
 <use Bilder/9701hwq5202hac.jpg>
-Package pdftex.def Info: Bilder/9701hwq5202hac.jpg used on input line 516.
+Package pdftex.def Info: Bilder/9701hwq5202hac.jpg used on input line 602.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9701hwq5208hac.jpg, id=515, 668.7384pt x 501.072pt>
+<Bilder/9701hwq5208hac.jpg, id=585, 668.7384pt x 501.072pt>
 File: Bilder/9701hwq5208hac.jpg Graphic file (type jpg)
 
 <use Bilder/9701hwq5208hac.jpg>
-Package pdftex.def Info: Bilder/9701hwq5208hac.jpg used on input line 517.
+Package pdftex.def Info: Bilder/9701hwq5208hac.jpg used on input line 603.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 610.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 610.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 526.
+(scrkbase)              on input line 613.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 526.
+(babel)             in language  on input line 613.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 526.
+(babel)             in language  on input line 613.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 526.
+(babel)             in language  on input line 613.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 526.
- [24 <./Bilder/REM970C1hWQ520C2hAC.png> <./Bilder/REM970C1hWQ520C8hAC.png>]
+(babel)             in language  on input line 613.
+ [28 <./Bilder/REM9501hWQ520C2hAC.png> <./Bilder/REM950C1hWQ520C8hAC.png>]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 526.
+(scrkbase)              on input line 613.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 526.
+(babel)             in language  on input line 613.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 526.
+(babel)             in language  on input line 613.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 526.
+(babel)             in language  on input line 613.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 526.
- [25 <./Bilder/REM9501hWQ520C2hAC.png> <./Bilder/REM950C1hWQ520C8hAC.png>]
-<Bilder/9501hwq5202hac.jpg, id=532, 668.7384pt x 501.072pt>
+(babel)             in language  on input line 613.
+ [29 <./Bilder/9701hwq5202hac.jpg> <./Bilder/9701hwq5208hac.jpg>] <Bilder/9501h
+wq5202hac.jpg, id=605, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq5202hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5202hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq5202hac.jpg used on input line 532.
+Package pdftex.def Info: Bilder/9501hwq5202hac.jpg used on input line 618.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9501hwq5208hac.jpg, id=533, 668.7384pt x 501.072pt>
+<Bilder/9501hwq5208hac.jpg, id=606, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq5208hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq5208hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq5208hac.jpg used on input line 533.
+Package pdftex.def Info: Bilder/9501hwq5208hac.jpg used on input line 619.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 537.
+(babel)             in language  on input line 623.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 537.
+(babel)             in language  on input line 623.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 540.
+(scrkbase)              on input line 627.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 627.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 627.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 627.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 540.
- [26]
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 540.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 540.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 540.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 540.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 540.
- [27 <./Bilder/9701hwq5202hac.jpg> <./Bilder/9701hwq5208hac.jpg> <./Bilder/9501
-hwq5202hac.jpg> <./Bilder/9501hwq5208hac.jpg>] <Bilder/9501hwq52016hac.jpg, id=
-551, 668.7384pt x 501.072pt>
+(babel)             in language  on input line 627.
+ [30]
+<Bilder/9501hwq52016hac.jpg, id=616, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq52016hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq52016hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq52016hac.jpg used on input line 547.
+Package pdftex.def Info: Bilder/9501hwq52016hac.jpg used on input line 633.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/9501hwq52024hac.jpg, id=552, 668.7384pt x 501.072pt>
+<Bilder/9501hwq52024hac.jpg, id=617, 668.7384pt x 501.072pt>
 File: Bilder/9501hwq52024hac.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwq52024hac.jpg>
-Package pdftex.def Info: Bilder/9501hwq52024hac.jpg used on input line 548.
+Package pdftex.def Info: Bilder/9501hwq52024hac.jpg used on input line 634.
 (pdftex.def)             Requested size: 227.25473pt x 170.27048pt.
 
-<Bilder/REM950C1hWQ520C24hAC.png, id=553, 1027.84pt x 770.88pt>
+<Bilder/REM950C1hWQ520C24hAC.png, id=618, 1027.84pt x 770.88pt>
 File: Bilder/REM950C1hWQ520C24hAC.png Graphic file (type png)
 
 <use Bilder/REM950C1hWQ520C24hAC.png>
-Package pdftex.def Info: Bilder/REM950C1hWQ520C24hAC.png used on input line 591
+Package pdftex.def Info: Bilder/REM950C1hWQ520C24hAC.png used on input line 677
 .
 (pdftex.def)             Requested size: 306.09648pt x 229.57196pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 596.
+(babel)             in language  on input line 682.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 596.
+(babel)             in language  on input line 682.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 597.
+(babel)             in language  on input line 683.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 597.
+(babel)             in language  on input line 683.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 599.
+(scrkbase)              on input line 685.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 599.
+(babel)             in language  on input line 685.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 599.
+(babel)             in language  on input line 685.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 599.
+(babel)             in language  on input line 685.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 599.
- [28 <./Bilder/9501hwq52016hac.jpg> <./Bilder/9501hwq52024hac.jpg>]
+(babel)             in language  on input line 685.
+ [31 <./Bilder/9501hwq5202hac.jpg> <./Bilder/9501hwq5208hac.jpg>]
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 685.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 599.
+(babel)             in language  on input line 685.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 599.
+(babel)             in language  on input line 685.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 602.
+(babel)             in language  on input line 685.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 602.
+(babel)             in language  on input line 685.
+ [32 <./Bilder/9501hwq52016hac.jpg> <./Bilder/9501hwq52024hac.jpg>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 685.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 685.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 688.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 688.
 
-<Bilder/Zugpruefungergebnisse.png, id=564, 1043.39813pt x 483.30562pt>
+<Bilder/Zugpruefungergebnisse.png, id=636, 1043.39813pt x 483.30562pt>
 File: Bilder/Zugpruefungergebnisse.png Graphic file (type png)
 
 <use Bilder/Zugpruefungergebnisse.png>
-Package pdftex.def Info: Bilder/Zugpruefungergebnisse.png used on input line 60
-6.
+Package pdftex.def Info: Bilder/Zugpruefungergebnisse.png used on input line 69
+2.
 (pdftex.def)             Requested size: 417.39914pt x 193.34094pt.
 
-<Bilder/Zugpruefverluaufe.png, id=566, 1009.52156pt x 441.90094pt>
+<Bilder/Zugpruefverluaufe.png, id=638, 1009.52156pt x 441.90094pt>
 File: Bilder/Zugpruefverluaufe.png Graphic file (type png)
 
 <use Bilder/Zugpruefverluaufe.png>
-Package pdftex.def Info: Bilder/Zugpruefverluaufe.png used on input line 615.
+Package pdftex.def Info: Bilder/Zugpruefverluaufe.png used on input line 701.
 (pdftex.def)             Requested size: 417.39914pt x 182.71118pt.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 618.
+(scrkbase)              on input line 704.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 618.
+(babel)             in language  on input line 704.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 618.
+(babel)             in language  on input line 704.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 618.
+(babel)             in language  on input line 704.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 618.
- [29 <./Bilder/REM950C1hWQ520C24hAC.png>]
+(babel)             in language  on input line 704.
+ [33 <./Bilder/REM950C1hWQ520C24hAC.png>]
 LaTeX Font Info:    Font shape `LY1/NexusProSerif/bx/n' in size <10.95> not ava
 ilable
 (Font)              Font shape `LY1/NexusProSerif/b/n' tried instead on input l
-ine 620.
+ine 706.
 
 
-LaTeX Warning: Reference `Spannungs-Dehnungskurven' on page 30 undefined on inp
-ut line 620.
+LaTeX Warning: Reference `Spannungs-Dehnungskurven' on page 34 undefined on inp
+ut line 706.
 
 
-Overfull \hbox (4.42285pt too wide) in paragraph at lines 620--621
-[]\LY1/NexusProSerif/m/n/10.95 Abbildung []3.12[] zeigt die wäh-rend der Zug-ve
+Overfull \hbox (4.16005pt too wide) in paragraph at lines 706--707
+[]\LY1/NexusProSerif/m/n/10.95 Abbildung []3.14[] zeigt die wäh-rend der Zug-ve
 r-su-che auf-ge-nom-me-nen Spannungs-Dehnungskurven.
  []
 
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 621.
+(scrkbase)              on input line 707.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 621.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 621.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 621.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 621.
-[30 <./Bilder/Zugpruefungergebnisse.png> <./Bilder/Zugpruefverluaufe.png>]
+(babel)             in language  on input line 707.
+[34 <./Bilder/Zugpruefungergebnisse.png> <./Bilder/Zugpruefverluaufe.png>]
 chapter 4.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 621.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 621.
+(babel)             in language  on input line 707.
 
-Overfull \hbox (5.60396pt too wide) in paragraph at lines 621--621
+Overfull \hbox (5.60396pt too wide) in paragraph at lines 707--707
 |\LY1/NexusProSans-lnum/b/n/36 4 \LY1/NexusProSans/b/n/36 Fes-tig-keits-stei-ge
 rn-de Me-cha-
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 625.
+(babel)             in language  on input line 711.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 625.
+(babel)             in language  on input line 711.
 File: Bilder/Ausgangsgefuege.jpg Graphic file (type jpg)
 <use Bilder/Ausgangsgefuege.jpg>
-Package pdftex.def Info: Bilder/Ausgangsgefuege.jpg used on input line 637.
+Package pdftex.def Info: Bilder/Ausgangsgefuege.jpg used on input line 723.
 (pdftex.def)             Requested size: 231.88998pt x 173.74928pt.
 File: Bilder/9501hwq.jpg Graphic file (type jpg)
  <use Bilder/9501hwq.jpg>
-Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 638.
+Package pdftex.def Info: Bilder/9501hwq.jpg used on input line 724.
 (pdftex.def)             Requested size: 231.88998pt x 173.74928pt.
 
-Overfull \hbox (1.82498pt too wide) in paragraph at lines 637--639
+Overfull \hbox (1.82498pt too wide) in paragraph at lines 723--725
 [][] [][] 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 647.
+(babel)             in language  on input line 733.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 647.
+(babel)             in language  on input line 733.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 647.
+(babel)             in language  on input line 733.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 647.
-[31
+(babel)             in language  on input line 733.
+[35
 
-] <Bilder/9501hwqrand.jpg, id=593, 668.7384pt x 501.072pt>
+] <Bilder/9501hwqrand.jpg, id=664, 668.7384pt x 501.072pt>
 File: Bilder/9501hwqrand.jpg Graphic file (type jpg)
 
 <use Bilder/9501hwqrand.jpg>
-Package pdftex.def Info: Bilder/9501hwqrand.jpg used on input line 650.
+Package pdftex.def Info: Bilder/9501hwqrand.jpg used on input line 736.
 (pdftex.def)             Requested size: 231.88998pt x 173.74928pt.
 
-<Bilder/Haerteverlaufsdiagramm.png, id=594, 500.62032pt x 274.02374pt>
+<Bilder/Haerteverlaufsdiagramm.png, id=665, 500.62032pt x 274.02374pt>
 File: Bilder/Haerteverlaufsdiagramm.png Graphic file (type png)
 
 <use Bilder/Haerteverlaufsdiagramm.png>
-Package pdftex.def Info: Bilder/Haerteverlaufsdiagramm.png used on input line 6
-56.
+Package pdftex.def Info: Bilder/Haerteverlaufsdiagramm.png used on input line 7
+42.
 (pdftex.def)             Requested size: 231.88998pt x 126.93051pt.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 661.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 747.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 661.
+(babel)             in language  on input line 747.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 661.
+(babel)             in language  on input line 747.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 661.
+(hyperref)                removing `math shift' on input line 747.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 661.
+(hyperref)                removing `\alpha' on input line 747.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 661.
+(hyperref)                removing `\alpha' on input line 747.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 661.
+(hyperref)                removing `math shift' on input line 747.
 
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 673.
+(scrkbase)              on input line 759.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 673.
+(babel)             in language  on input line 759.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 673.
+(babel)             in language  on input line 759.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 673.
+(babel)             in language  on input line 759.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 673.
-[32 <./Bilder/9501hwqrand.jpg>]
+(babel)             in language  on input line 759.
+[36 <./Bilder/9501hwqrand.jpg>]
 File: Bilder/Vollmartensit.jpg Graphic file (type jpg)
  <use Bilder/Vollmartensit.jpg>
-Package pdftex.def Info: Bilder/Vollmartensit.jpg used on input line 677.
+Package pdftex.def Info: Bilder/Vollmartensit.jpg used on input line 763.
 (pdftex.def)             Requested size: 231.88998pt x 173.74928pt.
 File: Bilder/9601hwq.jpg Graphic file (type jpg)
 
 <use Bilder/9601hwq.jpg>
-Package pdftex.def Info: Bilder/9601hwq.jpg used on input line 678.
+Package pdftex.def Info: Bilder/9601hwq.jpg used on input line 764.
 (pdftex.def)             Requested size: 231.88998pt x 173.74928pt.
 
-Overfull \hbox (1.82498pt too wide) in paragraph at lines 677--679
+Overfull \hbox (1.82498pt too wide) in paragraph at lines 763--765
 [][] [][] 
  []
 
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 684.
+(scrkbase)              on input line 770.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 770.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 770.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 770.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 684.
-[33 <./Bilder/Haerteverlaufsdiagramm.png>]
+(babel)             in language  on input line 770.
+[37 <./Bilder/Haerteverlaufsdiagramm.png>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 685.
+(babel)             in language  on input line 771.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 685.
+(babel)             in language  on input line 771.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 691.
+(scrkbase)              on input line 777.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 691.
+(babel)             in language  on input line 777.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 691.
+(babel)             in language  on input line 777.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 691.
+(babel)             in language  on input line 777.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 691.
- [34]
+(babel)             in language  on input line 777.
+ [38]
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
-(scrkbase)              on input line 699.
+(scrkbase)              on input line 785.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 699.
+(babel)             in language  on input line 785.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 699.
+(babel)             in language  on input line 785.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 699.
+(babel)             in language  on input line 785.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 699.
- [35] (Projektarbeit.bbl
+(babel)             in language  on input line 785.
+ [39] (Projektarbeit.bbl
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
 (scrkbase)              on input line 1.
@@ -2196,64 +2306,80 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-[36])
+[40]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 703.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 703.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 703.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 703.
- [37
+(babel)             in language  on input line 98.
+ [41
 
-] (Projektarbeit.lof)
+])
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `pagehead' that is an alias of element `pageheadfoot'
+(scrkbase)              on input line 789.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 789.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 789.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 789.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 789.
+ [42] (Projektarbeit.lof)
 \tf@lof=\write5
 \openout5 = `Projektarbeit.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 704.
+(babel)             in language  on input line 790.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 704.
+(babel)             in language  on input line 790.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 704.
+(babel)             in language  on input line 790.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 704.
- [38
+(babel)             in language  on input line 790.
+ [43
 
 ] (Projektarbeit.lot)
 \tf@lot=\write6
 \openout6 = `Projektarbeit.lot'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 705.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 791.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 705.
+(babel)             in language  on input line 791.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 705.
+(babel)             in language  on input line 791.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 705.
+(babel)             in language  on input line 791.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 705.
- [39
+(babel)             in language  on input line 791.
+ [44
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 705.
- (Projektarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 705.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 705.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 791.
+
+(Projektarbeit.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 791.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 791.
 Package rerunfilecheck Info: File `Projektarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 9B9AE9CE7524FA3F5C34B385E897FB58;3904.
+(rerunfilecheck)             Checksum: 5B8DB4E6ECB8EE8933D4FCC30D5798A6;4161.
 
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 13268 strings out of 493323
- 212190 string characters out of 3139045
- 421673 words of memory out of 3000000
- 16320 multiletter control sequences out of 15000+200000
- 140181 words of font info for 125 fonts, out of 3000000 for 9000
+ 13520 strings out of 493323
+ 216385 string characters out of 3139045
+ 434714 words of memory out of 3000000
+ 16539 multiletter control sequences out of 15000+200000
+ 141094 words of font info for 129 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,14n,104p,8881b,872s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/tubslatex/fonts/enc/dvips/Fontshop/a_molob5.enc}{C:/P
@@ -2266,14 +2392,15 @@ usSansPro-Bold.pfb><C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSan
 sPro-Regular.pfb><C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerif
 Pro-Bold.pfb><C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerifPro-
 Italic.pfb><C:/Program Files (x86)/tubslatex/fonts/type1/Nexus/NexusSerifPro-Re
-gular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/urw/palatino/uplri8a.pfb>
-Output written on Projektarbeit.pdf (39 pages, 17321667 bytes).
+gular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/urw/palatino/uplri8a.pfb>
+Output written on Projektarbeit.pdf (44 pages, 16673849 bytes).
 PDF statistics:
- 761 PDF objects out of 1000 (max. 8388607)
- 176 named destinations out of 1000 (max. 500000)
- 572 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 848 PDF objects out of 1000 (max. 8388607)
+ 196 named destinations out of 1000 (max. 500000)
+ 611 words of extra memory for PDF output out of 10000 (max. 10000000)
 

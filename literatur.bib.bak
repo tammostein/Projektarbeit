@@ -97,3 +97,31 @@ Title = "Correlation Between Tensile Strength and Hardness of Electron Beam Weld
 author ="W. Lu and Y. Shi and X. Li and Y. Lei",
 year = 2013,
 }
+
+@TechReport{Gilbert1990,
+Title = "Heat Treating of Titanium and Titanium Alloys",
+author = "Roger Gilbert",
+institution = "Teledyne Allvac",
+year = 1990,
+}
+
+@Book{Domke1986,
+Title = "Werkstoffkunde und Werkstoffprüfung",
+publisher = "Cornelsen",
+year = 1986,
+author = "Prof. Dr. Willhelm Domke",
+}
+
+@Book{Welsch2015,
+Title = "Romeis - Mikroskopische Technik",
+author = "Ulrich Welsch and Maria Mulisch",
+year = 2015,
+publisher = "Springer Spektrum",
+}
+
+@Book{Gemming2013,
+Title = "Analytische Transmissionselektronenmikroskopie",
+author = "Jürgen Thomas and Thomas Gemming",
+year = 2013,
+publisher = "Springer Verlag",
+}

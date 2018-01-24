@@ -7,6 +7,9 @@
 \usepackage{subfigure}
 \usepackage{hyperref}
 \usepackage{blindtext}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{ulem}
 \title{Gefügeoptimierung einer Fanschaufel aus der Titanlegierung Ti 6Al 4V}
 \date{Wintersemester 17/18}
 \author{J. Hansen, S. Vodde,
@@ -170,13 +173,15 @@ Wichtige Vertreter der isomorphen Beta-Stabilisatoren sind Vanadium, Molybdän, 
 Die Beta-eutektoiden Elemente mit technischer Relevanz sind Eisen, Chrom, und Silizium. Bei Raumtemperatur bilden sie eine Gleichgewichtsphase aus Alpha-Phase und intermetallischen Verbindungen zwischen Titan und dem Legierungselement aus. Das Molybdenequivalent
 
 \begin{equation}
-[Mo]_{eq}=[Mo]+0,2[Ta]+0,28[Nb]+0,4[W]+0,67[V]+1,25[Cr]\\
-+1,25[Ni]+1,7[Mn]+1,7[Co]+2,5[Fe]
+\begin{split}
+[Mo]_{eq}=[Mo]+0,2[Ta]+0,28[Nb]+0,4[W]+0,67[V]+1,25[Cr]+ \\
+1,25[Ni]+1,7[Mn]+1,7[Co]+2,5[Fe]
+\end{split}
 \label{Molybdenequivalent}
 \end{equation}
 
 beschreibt den quantitativen Einfluss der Beta-Stabilisatoren auf die Legierung \cite{Luetjering2007}.
-\subsection{Diffusion von Legierungselementen}
+\subsection{Diffusion von Legierungselementen}\label{Kapitel Diffusion von legierungselementen}
 Durch die unterschiedliche Löslichkeit der Liegierungselemente in den verschiedenen Kristallgittern der Alpha- beziehungsweise Beta-Phase kommt es im Titan durch Diffusion zum sogenannten ''element partitioning''. Aluminium besitzt eine gute Löslichkeit in der Alpha- wie auch in der Beta-Phase und ist somit eher wenig vom element partioning betroffen.
 
 Da Beta stabilisierende Elemente eine geringe Löslichkeit in der Alpha-Phase besitzen, haben sie die Eigenschaft bei hohen Temperaturen durch Diffusion in die Beta-Phase der Alpha+Beta-Legierung zu fließen. Dies erlaubt weitreichende Wärmebehandlungen, da die Bildung der Ti$_{3}$Al-Phase im Primär-Alpha von der Konzentration von Alpha stabilisierenden Elementen wie auch die Möglichkeit der Martensitbildung von der Konzentration der Beta-Stabilisatoren in der metastabilen Beta-Phase abhängt.
@@ -331,7 +336,7 @@ Das zu analysierende Gefüge wird mit einem Mikroskop abgebildet. Fünf zufälli
 \end{figure}
 
 Für eine gleichmäßige Verteilung der Phasen reichen die äußeren Ringe der Felder. Liegen die Anteile allerdings bei wenigen Prozent müssen alle Kreuze berücksichtigt werden. 
-Anschließend erfolgt das Auszählen. Die Kreuze die auf der Phase liegen, die bestimmt werden soll, werden mit 1 gezählt. Liegen die Kreuze an einer Phasengrenze, werden sie mit 0,5 gezählt. Berühren die Kreuze die Phase nicht werden sie mit 0 gezählt. Alle Werte werden aufsummiert und durch die Anzahl aller gezählten Kreuze geteilt. Das Ergebnis ist der Phasenanteil. Dieses Verfahren wird an fünf unterschiedlichen Bildbereichen durchgeführt und der Mittelwert gebildet.
+Anschließend erfolgt das Auszählen. Die Kreuze die auf der Phase liegen, die bestimmt werden soll, werden mit '1' gezählt. Liegen die Kreuze an einer Phasengrenze, werden sie mit '0,5' gezählt. Berühren die Kreuze die Phase nicht werden sie mit '0' gezählt. Alle Werte werden aufsummiert und durch die Anzahl aller gezählten Kreuze geteilt. Das Ergebnis ist der Phasenanteil. Dieses Verfahren wird an fünf unterschiedlichen Bildbereichen durchgeführt und der Mittelwert gebildet.
 
 \subsection{Rasterelektronenmikroskopie}\label{Kapitel Rasterelektrodenmikroskopie}
 Das Rasterelektronenmikroskop (REM) bietet eine bessere Auflösung und eine stärkere Vergrößerung als das Auflichtmikroskop. Es können Vergrößerungen von bis 100000 x erreicht werden. Die Auflösung liegt bei wenigen Nanometern. Durch eingebaute Detektoren am REM können bestimmte analytische Methoden zusätzlich durchgeführt werden. Eine genauere Gefügebeurteilung ist dadurch möglich.  
@@ -352,7 +357,7 @@ Die SE und RE dienen nun der Bilderzeugung. Die Elektronen werden mit jeweils un
 
 Gute Bildergebnisse können nur durch eine sorgfältige Probepräparation entstehen. Die Oberflächen müssen sauber sein. Die Proben sollten vor der Analyse im Ultraschallbad gereinigt werden.  Zudem muss die gesamte Probe elektrisch leiten. Eingebettete Proben können nicht verwendet werden. Der Kunststoff nimmt die Elektronen auf und würde den Elektronenstrahl ablenken. Alternativ kann eine leitende Gold oder Silberschicht aufgebracht werden.   
 
-\subsection{Energiedisperive Röntgenspektroskopie}
+\subsection{Energiedisperive Röntgenspektroskopie}\label{Kapitel EDX}
 
 Die Energiedisperive Röntgenspektroskopie (EDX) wird vor allem in der Werkstoff- und Materialtechnik eingesetzt. Die EDX ermöglicht die Elementverteilung in der Oberfläche von unterschiedlichen Materialien  darzustellen. Die Elementverteilung in bestimmten Gefügebereichen kann so visualisiert werden (z.B. element partitioning).
 Wird ein Elektronenstrahl auf eine Probenoberfläche beschleunigt (siehe Kapitel \ref{Kapitel Rasterelektrodenmikroskopie}), entsteht die charakteristische Röntgenstrahlung. Je nach Element besitzt diese Strahlung eine bestimmte Energie. Die Formel
@@ -409,7 +414,7 @@ Nach Ulrich Zwickert gilt für die Zugfestigkeit  $\sigma_{B}$  folgende Gleichu
 \label{Zugfestigkeit}
 \end{equation}
 
-Der Vorfaktor $\alpha$ wird hierbei zwischen 0,31 und 0,35 angegeben. Wichtig ist auch, dass Zwickert von Härtewerten HV30 ausgeht. Ebenfalls soll die Gleichung nur bei Zugfestigkeiten von 882 MPa bis 1226 MPa gelten \cite{Zwicker1974}. Da die Vickershärte oberhalb einer Prüfkraft von 5,1 $kp$ unabhängig von der aufgebrachten Prüfkraft wird, sollten die hier ermittelten Härtewerte HV10 nur minimale Abweichungen zu den Härtewerten HV30 liefern. 
+Der Vorfaktor $\alpha$ wird hierbei zwischen 0,31 und 0,35 angegeben. Die Spannung $\sigma_{B}$ wird in diesem Fall in $kp/mm^{2}$ angegeben. Für eine Umrechnung in MPa muss mit 9,81 multipiziert werden. Wichtig ist auch, dass Zwickert von Härtewerten HV30 ausgeht. Ebenfalls soll die Gleichung nur bei Zugfestigkeiten von 882 MPa bis 1226 MPa gelten \cite{Zwicker1974}. Da die Vickershärte oberhalb einer Prüfkraft von 5,1 $kp$ unabhängig von der aufgebrachten Prüfkraft wird, sollten die hier ermittelten Härtewerte HV10 nur minimale Abweichungen zu den Härtewerten HV30 liefern. 
 Quelle \cite{Shi2013} gibt nach folgender Gleichung einen möglichen Zusammenhang zwischen Dehngrenze $\sigma_{0,2}$ und Vickershärte HV:
 \begin{equation}
 \sigma_{0,2} = 3,013 HV - 127,012.
@@ -423,16 +428,14 @@ Weiter soll der Zusammenhang zwischen Dehngrenze und Zugfestigkeit wie folgt dar
 \end{equation}
 
 Die Autoren beziehen sich in ihrer Arbeit jedoch auf elektronenstrahlgeschweißte Wertstücke \cite{Shi2013}.
-\subsection{Zugversuch}
+\subsection{Zugversuch (DIN EN ISO 6892-1 Teil B)}
 \label{Kapitel Zugversuch}
-Bei einem Zugversuch werden Proben bis zum Bruch gedehnt und dabei Werkstoffkennwerte bestimmt. Die Kennwerte sind unter anderem  Elastizitätsmodul, Elastizitätsgrenze, Zugfestigkeit und Bruchdehnung. Unter diesen Kennwerten ist für die Anforderung der Arbeit die Zugfestigkeit interessant, da diese über eine Wärmebehandlung optimiert werden soll. Sie ist die größte plastische Dehnung bevor sich das Bauteil einschnürt beziehungsweise reißt. Mit dem Zugversuch wird die Abschätzung der Zugfestigkeit über die Härte vermieden und es kann abgeschätzt werden, ob die Formel der Abschätzung realitätsnah war. Der Zugversuch wird mit einer Universalprüfmaschine der Firma Zwick Roell nach der Norm DIN EN ISO 6892-1 Teil B durchgeführt. Dabei werden die Zugproben nach DIN 50125-B5x25 angefertigt. Nach der Norm des Zugversuches wird die Spannungsgeschwindigkeit abhängig von dem Elastizitätsmodul des Werkstoffs gewählt. Da Titan ein E-Modul kleiner 150000 $MPa$ besitzt, wird eine Spannungsgeschwindigkeit zwischen 2 und 20 $MPa$~ $s^{-1}$ gewählt. Diese Spannungsgeschwindigkeit wird während der Bestimmung der Dehngrenze verwendet. Danach wird über eine Dehngeschwindigkeit von maximal $0,008$ $s^{-1}$ zur weiteren Messung benutzt. Form B der Zugproben sind nach Norm Rundproben mit Gewinde zur Einspannung. Der Zusatz ''5x25'' beschreibt die Maße der Probe. 5 ist dabei der Probendurchmesser und 25 die Anfangsmesslänge. 
-
-
+Bei einem Zugversuch werden Proben bis zum Bruch gedehnt und dabei Werkstoffkennwerte bestimmt. Die Kennwerte sind unter anderem  Elastizitätsmodul, Elastizitätsgrenze, Zugfestigkeit und Bruchdehnung. Unter diesen Kennwerten ist für die Anforderung der Arbeit die Zugfestigkeit interessant, da diese über eine Wärmebehandlung optimiert werden soll. Sie ist die größte zu ertragene Spannung bevor sich das Bauteil einschnürt beziehungsweise reißt. Der Zugversuch wird mit einer Universalprüfmaschine der Firma Zwick Roell nach der Norm DIN EN ISO 6892-1 Teil B durchgeführt. Dabei werden die Zugproben nach DIN 50125-B5x25 angefertigt. Nach der Norm des Zugversuches wird die Spannungsgeschwindigkeit abhängig von dem Elastizitätsmodul des Werkstoffs gewählt. Da Titan ein E-Modul kleiner 150000 $MPa$ besitzt, wird eine Spannungsgeschwindigkeit zwischen 2 und 20 $MPa$~ $s^{-1}$ gewählt. Diese Spannungsgeschwindigkeit wird während der Bestimmung der Dehngrenze verwendet. Danach wird eine Dehngeschwindigkeit von maximal $0,008$ $s^{-1}$ zur weiteren Messung gewählt. Form B der Zugproben sind nach Norm Rundproben mit Gewinde. Der Zusatz ''5x25'' beschreibt die Maße der Probe. Fünf Millimeter im Probendurchmesser und 25 Millimeter in der Anfangsmesslänge.
 
 
 
 \chapter{Wärmebehandlungsstrategien}
-Die vorliegende Titanlegierung Ti 6Al 4V besitzt ein globulares Ausgangsgefüge, bestehend aus Alpha- und transformierter Beta-Phase (siehe Abbildung \ref{ausgangsgefüge Kapitel3}). Die Härte im Ausgangszustand beträgt ca. 305 HV10. Ausgehend von diesem Zustand soll die statische Festigkeit gesteigert werden. Der Härtewert dient hierfür als erster Richtwert (siehe Kapitel \nameref{Kapitel Härte}). Die gegebenen Proben werden unterschiedlichen Wärmebehandlungen unterzogen und metallografisch ausgewertet. 
+Die vorliegende Titanlegierung Ti 6Al 4V besitzt ein globulares Ausgangsgefüge, bestehend aus Alpha- und transformierter Beta-Phase (siehe Abbildung \ref{ausgangsgefüge Kapitel3}). Die Härte im Ausgangszustand beträgt circa 305 HV10. Ausgehend von diesem Zustand soll die statische Festigkeit gesteigert werden. Der Härtewert dient hierfür als erster Richtwert (siehe Kapitel \ref{Kapitel Härte}). Die gegebenen Proben werden unterschiedlichen Wärmebehandlungen unterzogen und metallografisch ausgewertet. 
 
 \begin{figure}
 \centering
@@ -442,37 +445,26 @@ Die vorliegende Titanlegierung Ti 6Al 4V besitzt ein globulares Ausgangsgefüge,
 \end{figure}
 
 \section{Festigkeitssteigerung durch Martensitbildung}\label{Festigkeitssteigerung durch Martensitbildung}
-Die Literaturrecherchen zeigen, dass sich die mechanischen Eigenschaften der Titanlegierung durch unterschiedliche Gefügestrukturen beeinflussen lassen. Das erste angestrebte Gefüge besteht aus primär Alpha ($\alpha$) und Martensit ($\alpha'$). Ausgehend von diesem Gefüge beeinflusst eine anschließende Alterung die mechanischen Eigenschaften. Ein  Verhältnis aus hoher Festigkeit und guter Duktilität kann so eingestellt werden \cite[vgl.]{Gilbert1990}. Der erste Schritt dieser zweistufigen Wärmebehandlung ist das Einstellen eines Gefüges aus $\alpha$ und $\alpha'$.
+Die Literaturrecherchen zeigen, dass sich die mechanischen Eigenschaften der Titanlegierung durch unterschiedliche Gefügestrukturen beeinflussen lassen. Das erste angestrebte Gefüge besteht aus primär Alpha ($\alpha$) und Martensit ($\alpha'$). Ausgehend von diesem Gefüge beeinflusst eine anschließende Alterung die mechanischen Eigenschaften. Ein  Verhältnis aus hoher Festigkeit und guter Duktilität kann so eingestellt werden \cite{Gilbert1990}. Der erste Schritt dieser zweistufigen Wärmebehandlung ist das Einstellen eines Gefüges aus primärer Alpha- und Martensit-Phase.
  
 Einen großen Einfluss auf die mechanischen Eigenschaften hat hierbei die Alpha-Phase. Der Volumenanteil und die Größe der Alpha-Körner beeinflussen diese Eigenschaften und die Verteilung der Legierungselemente, die damit Auswirkungen auf die spätere Alterung des Gefüges haben. Der Anteil ist dabei abhängig von der gewählten Glühtemperatur. In der Quelle \cite{Sahoo2015} wird die Variation der Alpha-Phase in einem Bi-Modal-Gefüge durch unterschiedliche Glühtemperaturen dargestellt. Mit abnehmendem Alpha-Anteil wird die Härte gesteigert und die Elementverteilung gesteuert. Die hier angewandte Methodik wird auf das gewünschte Martensit-Gefüge übertragen.
-Mit einer Wärmebehandlung im Zweiphasengebiet ($\alpha'+ \beta$) und anschließendem Wasserabschrecken der Proben, wird das gewünschte Gefüge erzeugt. Bei steigender Glühtemperatur sinkt der Anteil der Alpha-Phase bis die Betatransus Temperatur erreicht und keine Alpha Phase mehr vorhanden ist (siehe Abbildung \ref{Phasendiagram}).  Durch das Abschrecken wird dieser Zustand eingefroren und die Beta-Phase wandelt diffusionslos in den Martensit um. Drei Proben werden bei unterschiedlichen Glühtemperaturen knapp unterhalb Betatransus geglüht und anschließend abgeschreckt.
+Mit einer Wärmebehandlung im Zweiphasengebiet (Alpha + Beta) und anschließendem Wasserabschrecken der Proben, wird das gewünschte Gefüge erzeugt. Bei steigender Glühtemperatur sinkt der Anteil der Alpha-Phase bis die Betatransus Temperatur erreicht und keine Alpha Phase mehr vorhanden ist (siehe Abbildung \ref{Phasendiagram}).  Durch das Abschrecken wird dieser Zustand eingefroren und die Beta-Phase wandelt diffusionslos in den Martensit um. Drei Proben werden bei unterschiedlichen Glühtemperaturen knapp unterhalb Betatransus geglüht und anschließend abgeschreckt.
 
 
 \subsection{Abhängigkeit des Primär Alpha Anteils von der Glühtemperatur}
-Der Alpha-Anteil wird durch die unterschiedlichen Glühtemperaturen im Zweiphasen Gebiet eingestellt. Dazu wurden drei Proben bei jeweils 950°C, 960°C und 970°C für eine Stunde im Ofen geglüht und anschließend im Wasser abgeschreckt. Nach der Probenpräparation (siehe Kapitel \ref{Kapitel Probenpräperation}) folgt die metallografische Untersuchung. Die Abbildung \ref{Alle Glühen} zeigt die lichtmikroskopischen Aufnahmen. Die durchgeführte Wärmebehandlung erzeugt das gewünschte Gefüge. Primär-Alpha-Körner liegen in einer Matrix aus Martensit. Die Alpha Körner wurden durch das Abschrecken eingefroren. Die Beta-Phase ist komplett in den Martensit umgeklappt. In den Abbildungen sind die  unterschiedlichen Alpha-Anteile klar zu erkennen. Mit steigender Glühtemperatur nimmt, wie erwartet, der Anteil ab. 
+Der Alpha-Anteil wird durch die unterschiedlichen Glühtemperaturen im Zweiphasen Gebiet eingestellt. Dazu wurden drei Proben bei jeweils 950°C, 960°C und 970°C für eine Stunde im Ofen geglüht und anschließend im Wasser abgeschreckt. Nach der Probenpräparation (siehe Kapitel \ref{Kapitel Probenpräperation}) folgt die metallografische Untersuchung. Die Abbildung \ref{Alle Glühen} zeigt die lichtmikroskopischen Aufnahmen. Die durchgeführte Wärmebehandlung erzeugt das gewünschte Gefüge. Primär Alpha-Körner liegen in einer Matrix aus Martensit. Die Alpha-Körner wurden durch das Abschrecken eingefroren. Die Beta-Phase ist komplett in den Martensit umgeklappt. In den Abbildungen sind die unterschiedlichen Alpha-Anteile klar zu erkennen. Mit steigender Glühtemperatur nimmt, wie erwartet, der Anteil ab. 
 
-Die genauen Phasenanteile sind mittels Auszählverfahren (siehe Kapitel \ref{Kapitel Auszählverfahren}) bestimmt worden. Aus der Tabelle \ref{Tabelle Primäralphaanteil} wird ersichtlich, dass bei einer Glühtemperatur von 950°C ca. 20\% Alpha-Phase vorliegt. Dieser Anteil sinkt auf ca. 6\% bei einer Temperatur von 970°C. Unter dem Auflichtmikroskop sind diese geringen Anteile nur noch schwer zu erkennen.  
+Die genauen Phasenanteile sind mittels Auszählverfahren (siehe Kapitel \ref{Kapitel Auszählverfahren}) bestimmt worden. Aus der Tabelle \ref{Härte in Abhängigkeit der Glühtemperatur} wird ersichtlich, dass bei einer Glühtemperatur von 950°C circa 20\% Alpha-Phase vorliegt. Dieser Anteil sinkt auf circa 6\% bei einer Temperatur von 970°C. Unter dem Auflichtmikroskop sind diese geringen Anteile nur noch schwer zu erkennen.  
 
 
 \begin{figure}
 \subfigure[Gefüge bei einer Glühungstemperatur von 970°C]{\includegraphics[width=0.33\textwidth]{Bilder/9701hwq.jpg}}
 \subfigure[Gefüge bei einer Glühungstemperatur von 960°C]{\includegraphics[width=0.33\textwidth]{Bilder/9601hwq.jpg}}
 \subfigure[Gefüge bei einer Glühungstemperatur von 950°C]{\includegraphics[width=0.33\textwidth]{Bilder/9501hwq.jpg}}
-\caption{Gefüge unterschiedlicher Glühtemperaturen}
+\caption{Primär Alpha-Martensit-Gefüge bei unterschiedlichen Glühtemperaturen}
 \label{Alle Glühen}
 \end{figure}
 
-\begin{table}
-\begin{tabular}{c | c | c}
-Wärmebehandlung & Mittelwert Primäralphaanteil \% & Standardabweichung \\
-\hline
-950°C 1h WQ	& 20 	&	1,57 \\
-960°C 1h WQ	& 13 	&	1,68 \\
-970°C 1h WQ	& 6  	&	1,82 \\
-\end{tabular}
-\caption{Primäralphaanteil in Abhängigkeit der Glühtemperatur}
-\label{Tabelle Primäralphaanteil}
-\end{table}
 
 \subsection{Abhängigkeit der Härte vom Primär-Alpha-Anteil} \label{Kapitel Abhängigkeit der Härte vom Primäralphaanteil}
 Der Einfluss den der Alpha-Anteil auf die mechanischen Eigenschaften des Gefüges hat wird im Folgenden untersucht. Die Härteprüfung (siehe Kapitel \ref{Kapitel Härte}) dient hier als Hilfswert für die Festigkeitsabschätzung. Bei einer Prüfkraft von 10HV dringt der Prüfkörper in die Alpha Körner und den Martensit ein. Somit entsteht ein gemittelter Härtewert des Gefüges. Die Tabelle \ref{Härte in Abhängigkeit der Glühtemperatur} zeigt, dass mit sinkendem Alpha-Anteil die Härte zunimmt. Bei einem Anteil von ca. 20\% liegt der Härtewert bei 343 HV10. Die Härte steigt bei der Probe mit dem geringsten Alpha-Phasenanteil bis auf 357 HV10 an.
@@ -492,7 +484,7 @@ Härte in HV10 	& Standardabweichung \\
 \end{table}
 
 \subsection{Elementverteilung in den Phasen}
-Die unterschiedliche Gewichtung der Phasenanteile im Gefüge wirkt sich auf die Verteilung der Legierungselemente aus. Mithilfe der EDX kann diese bestimmt werden (siehe Kapitel EDX). Die Abbildungen \ref{EDX Analyse der Phasen} zeigen die Analyse in einem Alpha-Korn und in der Martensit-Matrix. Die Elemente Titan, Aluminium und Vanadium werden für die Legierung Ti 6Al 4V berücksichtigt. Hierbei problematisch sind die charakteristischen Wellenlängen von Titan und Vanadium. Die einzelnen Peaks überlagern sich, sodass dem Titan ein gewisser Anteil Vanadium zugerechnet wird (siehe Abbildung \ref{Röntgenspektrum}). Zu dem bestimmten Anteil Vanadium muss ein gewisser Prozentsatz addiert werden. Aus mehreren Messungen wird der Mittelwert gebildet und die Verteilung kann dargestellt werden.
+Die unterschiedliche Gewichtung der Phasenanteile im Gefüge wirkt sich auf die Verteilung der Legierungselemente aus. Mithilfe der EDX Analyse kann diese bestimmt werden (siehe Kapitel \ref{Kapitel EDX}). Die Abbildungen \ref{EDX Analyse der Phasen} zeigen die Analyse in einem Alpha-Korn und in der Martensit-Matrix. Die Elemente Titan, Aluminium und Vanadium werden für die Legierung Ti 6Al 4V berücksichtigt. Hierbei problematisch sind die charakteristischen Wellenlängen von Titan und Vanadium. Die einzelnen Peaks überlagern sich, sodass dem Titan ein gewisser Anteil Vanadium zugerechnet wird (siehe Abbildung \ref{Röntgenspektrum}). Der vorliegende Anteil an Vanadium ist höher als der Ermittelte. Aus mehreren Messungen wird der Mittelwert gebildet und die Verteilung kann dargestellt werden.
 
 \begin{figure}
 \subfigure[EDX Analyse im Alphakorn]{\includegraphics[width=0.5\textwidth]{Bilder/EDX1.jpg}}
@@ -507,7 +499,7 @@ Die unterschiedliche Gewichtung der Phasenanteile im Gefüge wirkt sich auf die 
 \label{Röntgenspektrum}
 \end{figure}
 
-Die Tabelle \ref{Tabelle EDX Analyse} zeigt die Verteilung der Legierungselemente für die Proben mit einem Primär-Alpha-Anteil von 20 und 6\%. Das Aluminium als Alpha-Stabilisator reichert sich in den Alpha-Körnern an. Mit sinkendem Alpha-Anteil ist ein größerer Anteil Aluminium im Korn gelöst. Die Löslichkeit des Vanadiums als Beta-Stabilisator im Alpha-Korn ist gering. Im metastabilen Martensit sind beide Stabilisatoren eingelagert, jedoch steigt der Vanadium Anteil mit einem größeren Anteil der Alpha-Phase.    
+Die Tabelle \ref{Tabelle EDX Analyse} zeigt die Verteilung der Legierungselemente für die Proben mit einem Primär-Alpha-Anteil von 20\% und 6\%. Das Aluminium als Alpha-Stabilisator reichert sich in den Alpha-Körnern an. Mit sinkendem Alpha-Anteil ist ein größerer Anteil Aluminium im Korn gelöst. Die Löslichkeit des Vanadiums als Beta-Stabilisator im Alpha-Korn ist gering. Im metastabilen Martensit sind beide Stabilisatoren eingelagert, jedoch steigt der Vanadium-Anteil mit einem größeren Anteil der Alpha-Phase (siehe Kapitel \ref{Kapitel Diffusion von legierungselementen}).    
 \begin{table}
 \begin{tabular}{c|c|c|c|c}
 Primär Alpha & \multicolumn{2}{c}{Primär Alpha Phase} & \multicolumn{2}{|c}{Martensit Phase} \\
@@ -525,37 +517,49 @@ Anteil [\%] & Al [\%] & V[\%] & Al [\%] & V [\%] \\
 \subsection{Bewertung der Ergebnisse}
 Das eingestellte Gefüge, bestehend aus Primär-Alpha und Martensit besitzt eine größere Härte als der Ausgangszustand. Das Einstellen des Alpha-Anteils durch die Glühtemperatur führte zur Steigerung der Härte auf 357 HV10. Die Härte steigt mit sinkendem Anteil. Daraus resultiert die Frage, ob ein vollmartensitisches Gefüge eine noch größere Härte aufweist.
 
-Die die Variation der Phasenanteile einen Einfluss auf die Verteilung der Legierungselemente. Durch das ''element partitioning'' können sich große Anteile Aluminium im Alpha-Korn lösen oder der Anteil Vanadium im Martensit steigt. Diese Kenntnis über die Verteilung wird für das spätere Auslagern bzw. Altern benötigt. 
+Die Variation der Phasenanteile hat einen Einfluss auf die Verteilung der Legierungselemente. Durch das ''element partitioning'' können sich große Anteile Aluminium im Alpha-Korn lösen oder der Anteil Vanadium im Martensit steigt. Diese Kenntnis über die Verteilung wird für das spätere Auslagern bzw. Altern benötigt. 
 
 Die erzielten Ergebnisse korrelieren mit den Ergebnissen und Daten aus der Literatur. Aufbauend wird das Vollmartensitische Gefüge näher untersucht und eine Alterungsstrategie verfolgt.   
 
 
-\section{Festigkeitssteigerung durch Bildung und Zerfall des Vollmatensits}
-Die Härtemessung nach der ersten Wärmebehandlung lässt den Schluss zu, dass je weniger primär Alphaphase in dem Gefüge enthalten ist, desto härter wird das Gefüge sein also sollte ein rein martensitisches Gefüge die besten Werte bei der Härte aufweisen. 
-Als Grundlage für die Strategie dienen die Quellen \cite{Mur1995} und \cite{Tarin1995}. In beiden Arbeiten wird der Zerfall von einem martensitischem Gefüge behandelt. Die Proben werden in der ersten Wärmebehandlung bei 1050°C lösungsgeglüht und in Wasser abgekühlt um einen reinen $\alpha'$-Martensit einzustellen. Nach diesem Schritt besitzt die Probe eine Härte von 330 HV10. Im zweiten Schritt werden die Proben bei 400°C, 600°C, 700°C und 800°C und zu unterschiedlichen Haltezeiten geglüht um den Martensit in Alpha+Beta-Phase zerfallen zu lassen. 
+\section{Festigkeitssteigerung durch Bildung und Zerfall des Vollmatensits}\label{Kapitel Bildung und Zerfall des Vollmartensits}
+Die Ergebnisse der ersten Wärmebehandlung zeigen, dass mit sinkendem Primär Alpha-Anteil die Härte steigt. Also sollte ein rein martensitisches Gefüge höhere Härtewerte aufweisen. 
+Als Grundlage für die Strategie dienen die Quellen \cite{Mur1995} und \cite{Tarin1995}. In beiden Arbeiten wird ein vollmartensitisches-Gefüge erzeugt und anschließend der Zerfall von einem martensitischem Gefüge behandelt. Die Proben werden in der ersten Wärmebehandlung bei 1050°C geglüht und in Wasser abgekühlt um einen reinen Martensit einzustellen. Nach diesem Schritt besitzt die Probe eine Härte von 330 HV10. Im zweiten Schritt werden die Proben bei 400°C, 600°C, 700°C und 800°C und zu unterschiedlichen Haltezeiten geglüht um den Martensit in Alpha und Beta-Phase zerfallen zu lassen. 
 
 \begin{figure}
 \centering
 \includegraphics[width=0.5\textwidth]{Bilder/HaerteHaltezeitdiagramm.png}
 \caption[Härte-Haltezeit Diagramm]{Härte-Haltezeit Diagramm für 400°C, 600°C, 700°C und 800°C \cite{Mur1995}}
+\label{Härtehaltezeitdigramm}
 \end{figure}
 
-Die Transformation der $\alpha'$-Phase zu ALpha+Beta-Phase ist temperatur- und zeitabhängig. Die beste Härte ergibt sich bei 800°C und einer Haltezeit von bis zu zwei Stunden und liegt bei 410 HV10. Erkennbar ist, dass die Umwandlung von Martensit zu Alpha+Beta unvollständig ist und auch bei einer längeren Haltezeit nicht weiter voranschreitet, weshalb die Härte nach ungefähr 30 Minuten bei 350 HV10 einen Höhepunkt erreicht und bei längeren Zeiten nicht weiter ansteigt. Bei Temperaturen über 600°C schreitet die Transformation weiter voran, was sich auch in den Härtewerten von bis zu 410 HV10 wiederspiegelt. Aus den Quellen lässt sich schließen, dass eine zweistufige Wärmebehandlung aus Lösungsglühen bei 1050°C für 30 Minuten und einem Martensitzerfall bei 800°C für bis zu zwei Stunden eine hohe Härte und Festigkeit aufweisen. Ziel ist es durch die Martensitplatten eine hohe Grenzflächendichte zu erzeugen und im zweiten Schritt diese Platten zu unterteilen, sodass der Martensit durch Zwillinge unterbrochen wird, was in Abbildung \ref{Gefügestruktur zweier Martensit Auslageungen}(b) zu sehen ist, und so die Versetzungsbewegung durch die Martensit-Phase zu stören.
+Die Abbildung \ref{Härtehaltezeitdigramm} zeigt, dass die Transformation der Martnesit-Phase zu Alpha- und Beta-Phase temperatur- und zeitabhängig ist. Die höchste Härte ergibt sich bei 800°C und einer Haltezeit von bis zu zwei Stunden. Sie liegt bei 410 HV10. Für 400°C ist erkennbar, dass die Umwandlung von Martensit zu Alpha- und Beta-Phase unvollständig ist und auch bei einer längeren Haltezeit nicht weiter voranschreitet. Die Härte erreicht nach ungefähr 30 Minuten bei 350 HV10 ihren Höhepunkt und bei längeren Zeiten nicht weiter ansteigt (siehe Abbildung \ref{Gefügestruktur zweier Martensit Auslageungen}). Bei Temperaturen über 600°C schreitet die Transformation weiter voran, was sich auch in den Härtewerten von bis zu 410 HV10 wiederspiegelt. 
+
+\subsection{Angestrebte Wärmebehandlung}
+Aus den Quellen lässt sich schließen, dass eine zweistufige Wärmebehandlung aus Glühen bei 1050°C für 30 Minuten und einem Martensitzerfall bei 800°C für bis zu zwei Stunden eine hohe Härte und Festigkeit aufweist.
+
+Um ein solches Gefüge einzustellen muss zunächst über der Betatransus Temperatur geglüht werden, sodass eine vollständige Umwandlung von Alpha- zu Beta-Phase stattfindet. Bei hohen Glühtemperaturen wird das Kornwachstum zu einem Problem. Die Temperatur sollte nur für eine kurze Zeit gehalten und so niedrig wie möglich gewählt werden. Auf Grund von unterschiedlichen Werten der Betatrasus Temperatur, die in der Literatur bei bis zu 1020°C liegt\cite{Tarin1995}, werden die Proben bei 1050°C geglüht und im Nachhinein mit Wasser abgeschreckt. Um das Kornwachstum zu steuern betragen die Haltezeiten 10 min und 30 min. 
+
+
+Ziel ist es durch die Martensitplatten eine hohe Grenzflächendichte zu erzeugen und im zweiten Schritt diese Platten zu unterteilen, sodass der Martensit durch Zwillinge unterbrochen wird, was in Abbildung \ref{Gefügestruktur zweier Martensit Auslageungen}(b) zu sehen ist, und so die Versetzungsbewegung durch die Martensit-Phase zu stören.
 
 \begin{figure}
-\subfigure[Gefügestruktur einer Probe geglüht bei 400°C für 60min]{\includegraphics[width=0.4\textwidth]{Bilder/Gefuegestruktur4001h.png}}
-\subfigure[Gefügestruktur einer Probe geglüht bei 700°C für 30min]{\includegraphics[width=0.4\textwidth]{Bilder/Gefuegestruktur70030min.png}}
+\subfigure[Gefügestruktur einer Probe geglüht bei 400°C für 60min]{\includegraphics[width=0.5\textwidth]{Bilder/Gefuegestruktur4001h.png}}
+\subfigure[Gefügestruktur einer Probe geglüht bei 700°C für 30min]{\includegraphics[width=0.5\textwidth]{Bilder/Gefuegestruktur70030min.png}}
 \caption{Gefüge zweier Martensit-Auslagerungen}
 \label{Gefügestruktur zweier Martensit Auslageungen}
 \end{figure}
 
-Um ein solches Gefüge einzustellen muss zunächst über der Betatransus-Temperatur lösungsgeglüht werden, sodass eine vollständige Umwandlung von Alpha- zu Beta-Phase stattfindet. Bei hohen Glühtemperaturen wird das Kornwachstum zu einem Problem, weshalb die Temperatur nur für eine kurze Zeit gehalten wird und sie sollte so niedrig wie möglich gewählt werden. Auf Grund von unterschiedlichsten Werten der Betatrasus-Temperatur, die in der Literatur bei bis zu 1020°C liegt, werden die Proben bei 1050°C geglüht und im Nachhinein mit Wasser abgeschreckt. Um das Kornwachstum zu steuern betragen die Haltezeiten 10 min und 30 min. 
+
+
+
+\subsection{Ergebnisse und Bewertung der Wärmebehandlungen}
 Es zeigt sich in der lichtmikroskopischen Untersuchung, dass der Einfluss der Glühzeiten auf das Beta-Kornwachstum sehr gering ist, da die Korngrößen im Martensit bei beiden Proben etwa bei 600 $\mu$m liegen (siehe Abbildung \ref{Korngroessenbestimmung Martensit}). Auch die Härtewerte sind mit 342HV10 (30min) und 346HV10 (10min) ungefähr gleich. 
 
 
 \begin{figure}
-\subfigure[1050°C 30min Wasser abgeschreckt]{\includegraphics[width=0.4\textwidth]{Bilder/Korngroessemartensit.jpg}}
-\subfigure[1050°C 30min Wasser Abgeschreckt]{\includegraphics[width=0.4\textwidth]{Bilder/Korngroessemartensit1.jpg}}
+\subfigure[1050°C 30min Wasser abgeschreckt]{\includegraphics[width=0.5\textwidth]{Bilder/Korngroessemartensit.jpg}}
+\subfigure[1050°C 10min Wasser abgeschreckt]{\includegraphics[width=0.5\textwidth]{Bilder/Korngroessemartensit1.jpg}}
 \caption{Korngrößenbestimmung der ehemaligen Betakörner im Martensit}
 \label{Korngroessenbestimmung Martensit}
 \end{figure}
@@ -575,19 +579,26 @@ Bei den geglühten Proben ergibt die Härtemessung Werte von 325 HV10. Dieses Er
 
 
 \section{Festigkeitssteigerung durch Auslagern von Primäralpha und Martensit}\label{Primäralpha und martensit}
-In zahlreichen vergleichbaren Untersuchungen wurde bereits eine Festigkeitssteigerung durch Auslagerung von $\alpha + \alpha'$-Gefügen festgestellt. Auf Basis dieser Untersuchungen und von Ergebnissen aus vorherigen Behandlungen werden die Parameter für diese Wärmebehandlung gewählt. Ziel dieser Behandlung ist, den metastabilen Martensit in sekundäre Alpha- und Beta-Phase zerfallen zu lassen. Es ergeben sich so größere Festigkeiten und bessere mechanische Eigenschaften \cite{Gilbert2004}. Es konkurrieren jedoch zwei Mechanismen bei einer Alterung des Martensits. Zum einen werden die Nadeln innerhalb des Martensits breiter, sodass eine Abnahme der Härte aufgrund geringerer Grenzflächendichte folgt. Der andere Mechanismus ist der Zerfall des Martensits in feine Alpha- und Betakörner die sich innerhalb des Gefüges bilden. Diese feinen Körner sorgen für eine Festigkeitssteigerung. Es ist also das Ziel, die Vergröberung des Gefüges zu minimieren, während der Zerfall maximiert werden soll. 
-\subsection{1. Wärmebehandlung}
-Wärmebehandlungen wie in den Quellenangaben \cite{Gilbert2004} und \cite{Chen2008} geben Beispiele für erfolgreiche Glüh- und Alterungsprozesse. Sie dienen als Hilfsmittel für die Parameterwahl bei dieser Wärmebehandlung. Bei den Bespielen werden Glühtemperaturen von 950°C bis 970°C verwendet, sodass ein zweiphasiges Gefüge mit unterschiedlichen Primäralpha-Gehalten entsteht. Um neben dem Primäralpha ein Martensit zu erzeugen, wird in Wasser abgeschreckt. Für einen vollständigen Abschluss der Diffusionsvorgänge wird wie in der Wärmebehandlung aus Kapitel \ref{Festigkeitssteigerung durch Martensitbildung} eine Haltezeit von einer Stunde als ausreichend eingestuft.
+In zahlreichen vergleichbaren Untersuchungen wurde bereits eine Festigkeitssteigerung durch Auslagerung von primär Alpha-Martensit-Gefügen festgestellt. Auf Basis dieser Untersuchungen und von Ergebnissen der Wärmebehandlung aus Kapitel \ref{Festigkeitssteigerung durch Martensitbildung} werden die Parameter für diese Wärmebehandlung gewählt. Ziel dieser Behandlung ist, den metastabilen Martensit in sekundäre Alpha- und Beta-Phase zerfallen zu lassen. Die so entstehenen kleinen Bereiche sollen die mechanischen Eigenschaften beeinflussen und die Festigkeit erhöhen\cite{Gilbert2004}. Es konkurrieren jedoch zwei Mechanismen bei einer Alterung des Martensits. 
 
-Wie vorherige Wärmebehandlungen zeigen, wirkt sich ein geringer Primäralpha Anteil positiv auf die Härte beziehungsweise Festigkeit aus. Für den Zerfall des Martensits ist jedoch die Konzentration an Beta stabilisierender Elemente in der Martensit-Phase entscheidend. Diese liegt wie in den EDX-Ergebnissen aus Kapitel \ref{Festigkeitssteigerung durch Martensitbildung} niedriger, je kleiner der Primäralpha-Anteil ist. Demnach könnten Proben mit einem niedrigeren Primäralpha-Anteil durch eine Alterung geringere Festigkeiten aufweisen als Proben mit höheren Primäralpha-Anteilen.
 
-Für die Alterung, mit anschließender Luftkühlung, wurde in den Behandlungen aus den Quellen eine Temperatur von 490°C bis 595°C und eine Haltezeit von 1 bis 8 Stunden angegeben. Da diese Spanne sehr groß ist und eine aussagekräftige Beurteilung der Ergebnisse für den gesamten Bereich unverhältnismäßig aufwendig sein würde, wurden zwei Temperaturen festgelegt und über die Haltezeit variiert. So werden in einem ersten Schritt die Auswirkungen des Primäralpha-Anteils analysiert. Es wurden Wasser abgeschreckte Proben bei einer Glühtemperatur von 970°C und 950°C jeweils zwei und acht Stunden bei 520°C gealtert. Es werden also vier Proben verwendet, die ein vergleichbares Ergebnis liefern sollen. So kann eine Auswirkung der unterschiedlichen Primäralpha-Anteile gleichzeitig mit der Auswirkung der Haltedauer beobachtet werden und Rückschlüsse auf die entstehenden Eigenschaften getroffen werden.
-\subsection{Ergebnisse 1. Wärmebehandlung}
+
+
+Zum einen werden die Nadeln innerhalb des Martensits breiter, sodass eine Abnahme der Härte aufgrund geringerer Grenzflächendichte folgt. Der andere Mechanismus ist der Zerfall des Martensits in feine Alpha- und Betakörner die sich innerhalb des Gefüges bilden. Diese feinen Körner sorgen für eine Festigkeitssteigerung. Es ist also das Ziel, die Vergröberung des Gefüges zu minimieren, während der Zerfall maximiert werden soll. 
+\subsection{1. Wärmebehandlerung: Auslagerung mit dem Ziel eines zerfallenen Martensit}
+Wärmebehandlungen wie in den Quellenangaben \cite{Gilbert2004} und \cite{Chen2008} geben Beispiele für erfolgreiche Glüh- und Alterungsprozesse. Sie dienen als Hilfsmittel für die Parameterwahl bei dieser Wärmebehandlung. Bei den Bespielen werden Glühtemperaturen von 950°C bis 970°C verwendet, sodass ein zweiphasiges Gefüge mit unterschiedlichen Primäralpha-Gehalten entsteht (siehe Kapitel \ref{Festigkeitssteigerung durch Martensitbildung}). 
+
+Wie die Wärmebehandlung aus Kapitel \ref{Festigkeitssteigerung durch Martensitbildung} zeigt, wirkt sich ein geringer Primäralpha Anteil positiv auf die Härte beziehungsweise Festigkeit aus. Für den Zerfall des Martensits ist jedoch die Konzentration an Beta stabilisierender Elemente in der Martensit-Phase entscheidend. Eine hohe Konzentration an Vanadium in der Martensit-Phase wird angestrebt. Diese liegt nach den EDX-Ergebnissen aus Kapitel \ref{Festigkeitssteigerung durch Martensitbildung} niedriger, je kleiner der Primäralpha-Anteil ist. Demnach sind Proben mit einem höheren Primär Alpha-Anteil für eine Alterung besser geeignet \cite{Luetjering2007}.
+
+Für die Alterung, mit anschließender Luftkühlung, wurde in den Behandlungen aus den Quellen eine Temperatur von 490°C bis 595°C und eine Haltezeit von 1 bis 8 Stunden angegeben. Da diese Spanne sehr groß ist und eine aussagekräftige Beurteilung der Ergebnisse für den gesamten Bereich unverhältnismäßig aufwendig sein würde, wurde eine Temperatur festgelegt und über die Haltezeit variiert.
+
+So werden in einem ersten Schritt die Auswirkungen der unterschiedlichen Konzentrationen an Vanadium analysiert. Es wurden Wasser abgeschreckte Proben bei einer Glühtemperatur von 970°C und 950°C jeweils zwei und acht Stunden bei 520°C gealtert. So wird der größte und geringste Vanadium-Anteil berücksichtigt. Es werden also vier Proben verwendet, die ein vergleichbares Ergebnis liefern sollen. So kann eine Auswirkung der unterschiedlichen Vanadium-Konzentrationen gleichzeitig mit der Auswirkung der Haltedauer beobachtet werden und Rückschlüsse auf die entstehenden Eigenschaften getroffen werden.
+\subsection{Ergebnisse der Auslagerung}
 \subsubsection{970°C Auslagerung}
-Auf den Gefügebildern mit dem Lichtbildmikroskop aus Abbildung \ref{970 alterung} sind kaum Unterscheide zu dem Ausgangsgefüge aus Abbildung \ref{Gefüge ohne Alterung}(a) zu sehen. Die Primäralpha Phase ist unabhängig von der Auslagerungszeit in ihrer Ausdehnung konstant geblieben. Der Martensit hat sich unter dem Lichtmikroskop nicht verändert. Falls die Martensit-Phase sich in ihrer Struktur verändert hat, ist dies nur unter einem REM zu sehen. Ein Zerfall würde sich nur in kleinen Teilchen äußern, die in dieser Vergrößerung nicht zu sehen sind. 
+Auf den Gefügebildern mit dem Lichtbildmikroskop aus Abbildung \ref{970 alterung} sind kaum Unterscheide zu dem Ausgangsgefüge aus Abbildung \ref{Gefüge ohne Alterung}(a) zu sehen. Die Primäralpha Phase ist unabhängig von der Auslagerungszeit in ihrer Ausdehnung konstant geblieben. Der Martensit hat sich unter dem Lichtmikroskop nicht verändert. Falls die Martensit-Phase sich in ihrer Struktur verändert hat, ist dies nur unter einem REM zu sehen. Ein Zerfall würde sich nur in kleinen Bereichen äußern, die in dieser Vergrößerung nicht zu sehen sind. 
 
 
-Die REM-Aufnahme aus Abbildung \ref{REM 970C und 950C}(a) zeigt das Gefüge von einem Abschrecken von 970°C. Wird diese Aufnahme mit denen nach dem Altern aus Abbildung \ref{REM 970C auslagerung} verglichen, fallen Unterschiede auf. Der gealterte Martensit hat eine ungleichmäßigere, ''körnigere''  Struktur als der nicht ausgelagerte. Diese Struktur ist bei der Probe mit längerer Haltezeit noch gröber. 
+Die REM-Aufnahme aus Abbildung \ref{REM 970C und 950C}(a) zeigt das Gefüge von einem Abschrecken von 970°C. Wird diese Aufnahme mit denen nach dem Altern aus Abbildung \ref{REM 970C auslagerung} verglichen, fallen Unterschiede auf. Der gealterte Martensit hat eine ungleichmäßigere, ''körnigere''  Struktur als der nicht ausgelagerte. Diese Struktur ist bei der Probe mit längerer Haltezeit noch gröber. Zusätzlich hat sich an den Grenzflächen ein weißer Saum gebildet.
 \begin{figure}
 \subfigure[Glühen bei 970°C]{\includegraphics[width=0.5\textwidth]{Bilder/REM970C1hWQ.png}}
 \subfigure[Glühen bei 950°C]{\includegraphics[width=0.5\textwidth]{Bilder/REM950C1hWQ.png}}
@@ -608,7 +619,7 @@ Durch eine Härteprüfung lässt sich die Auswirkung der Alterung analysieren. D
 \subsubsection{950°C Auslagerung}
 Wie auch schon bei den Proben bei 970°C sind unter dem Lichtmikroskop keine Unterschiede zwischen den ausgelagerten Proben und der unbehandelten Probe zu erkennen. Für eine genauere Analyse muss also ein REM herangezogen werden.
 
-Die Bilder des REM aus Abbildung \ref{REM 950 2 und 8} zeigen das resultierende Gefüge nach den jeweiligen Haltezeiten. Es sind ähnliche Ergebnisse wie bei der Alterung der Glühtemperatur von 970°C zu erkennen. Der Martensit hat seine charakteristische Struktur verloren. Die nach dem Abschrecken entstandenen Nadeln sind nur noch in keinen Mengen zu sehen. Ein Großteil ist in vielen Stellen unterbrochen und gröber geworden. Es ist schwierig, einen Unterschied des Gefüges aufgrund der Haltezeit zu erkennen. Die Struktur ist mit der Zeit noch gröber geworden und die Anzahl der Unterbrechungen ist größer geworden.
+Die Bilder des REM aus Abbildung \ref{REM 950 2 und 8} zeigen das resultierende Gefüge nach den jeweiligen Haltezeiten. Es sind ähnliche Ergebnisse wie bei der Alterung der Glühtemperatur von 970°C zu erkennen. Der Martensit hat seine Struktur verändert. Die nach dem Abschrecken entstandenen Nadeln sind nur noch in kleinen Mengen zu sehen. Ein Großteil ist in vielen Stellen unterbrochen und gröber geworden. Die Struktur ist mit der Zeit noch gröber geworden und die Anzahl der Unterbrechungen ist größer geworden. Auch hier hat sich an den Grenzflächen ein weißer Saum gebildet,  jedoch ist dieser stärker ausgeprägt.
 \begin{figure}
 \subfigure[2 Stunden Haltezeit]{\includegraphics[width=0.5\textwidth]{Bilder/REM9501hWQ520C2hAC.png}}
 \subfigure[8 Stunden Haltezeit]{\includegraphics[width=0.5\textwidth]{Bilder/REM950C1hWQ520C8hAC.png}}
@@ -739,10 +750,10 @@ Std.-abw.	&	1.83 \\
 
 
 
-\subsection{2. Wärmebehandlung}
-Aus den Ergebnissen der ersten Wärmebehandlung lässt sich schließen, dass eine längere Haltezeit, innerhalb einer Auslagerung ausgehend von einer Glühtemperatur von 970°C, keine Festigkeitssteigerung hervorruft. Die Alterung der geringeren Glühtemperatur zeigt bereits eine Härtesteigerung von circa 3\%. Eine Zunahme der Härte bei längerer Haltezeit ist somit für die Proben mit einer Glühtemperatur von 970°C unwahrscheinlich. 
+\subsection{2. Wärmebehandlung: Verlängerte Haltezeit der Auslagerung}
+Aus den Ergebnissen der ersten Wärmebehandlung lässt sich schließen, dass eine längere Haltezeit, innerhalb einer Auslagerung ausgehend von einer Glühtemperatur von 970°C, keine Festigkeitssteigerung hervorruft. Die Alterung der Probe mit einer Glühtemperatur von 950°C zeigt bereits eine Härtesteigerung von circa 3\%. Eine Zunahme der Härte bei längerer Haltezeit ist somit für die Proben mit einer Glühtemperatur von 970°C unwahrscheinlich. 
 
-Da die Haltezeiten keinen Unterschied hinsichtlich der Härtesteigerung aufweisen, wird eine verlängerte Haltezeit angewendet. Es kann sein, dass der Zerfall des Martensits noch weiter fortschreitet, da während den verwendeten Haltezeiten die Diffusionsvorgänge nicht abgeschlossen werden konnten. Um dies zu prüfen und festzustellen, ob eine noch längere Haltezeit eine größere Härte steigernde Wirkung hervorruft, werden die Haltezeiten auf 16 und 24 Stunden angepasst. So lässt sich zeigen, ob der Zerfall des Martensits noch positiv hinsichtlich der Festigkeit statt finden kann. 
+Da die kurzen Haltezeiten nur geringe Auswirkungen auf die Härte haben, werden längere Haltezeiten durchgeführt. Der Zerfall des Martensits kann so weiter fortschreiten, da während den verwendeten Haltezeiten die Diffusionsvorgänge möglicherweise nicht abgeschlossen werden konnten. Um zu prüfen, ob eine noch längere Haltezeit eine größere Härte steigernde Wirkung hervorruft, werden die Haltezeiten auf 16 und 24 Stunden angepasst. So lässt sich zeigen, ob der Zerfall des Martensits noch positiv hinsichtlich der Festigkeit statt finden kann. 
 
 
 
@@ -752,12 +763,15 @@ Da die Haltezeiten keinen Unterschied hinsichtlich der Härtesteigerung aufweise
     \caption{Gefüge mit einer Glühtemperatur von 950°C und unterschiedlichen Alterungszeiten}
     \label{Glühung950+alterung}
 \end{figure}
-\subsection{Ergebnisse 2. Wärmebehandlung}
-Aus den Gefügebildern mit dem Lichtmikroskop aus Abbildung \ref{950 lange auslagerung} ist kein wesentlicher Unterschied erkennbar. Im Verhältnis zu der Probe, die nur zwei Stunden ausgelagert wurde, kann man eine leichte Verbreiterung der Nadeln erkennen. Jedoch ist eine mögliche Bildung von Alpha- und Beta-Phase unter dieser Auflösung nicht erkennbar. Dazu muss wie zuvor ein REM herangezogen werden.
+\subsection{Ergebnisse mit längerer Haltezeit}
+Die Härtewerte zeigen, dass aus einer längeren Haltezeit eine höhere Härte resultiert. Im Vergleich zu der Haltezeit von zwei Stunden zeigen die Ergebnisse aus Tabelle \ref{950 16 24} für eine Haltezeit von 16 und 24 Stunden eine nochmalige Härtesteigerung von 10 HV10. Die Härte nimmt also für längere Haltezeiten stetig zu. 
+
+Aus den Gefügebildern mit dem Lichtmikroskop aus Abbildung \ref{950 lange auslagerung} ist keine qualitative Aussage über Veränderungen des Gefüges zu treffen. Dazu muss wie zuvor ein REM herangezogen werden.
 
 Die Aufnahme aus Abbildung \ref{REM 950C 24h} zeigt eine REM-Aufnahme von dem 24 Stunden lang gealterten Gefüge. Das Martensit ist fast nicht mehr zu erkennen. Die ehemaligen Nadeln sind an vielen Stellen unterbrochen und als solche nicht mehr zu erkennen. Um das Alpha-Korn hat sich ein ausgeprägter Rand gebildet. Die für kürze Haltezeit beschriebene Vergröberung ist mit der Zeit noch einmal größer geworden.
 
-Die Härtewerte zeigen, dass aus einer längeren Haltezeit eine höhere Härte resultiert. Im Vergleich zu der Haltezeit von zwei Stunden zeigen die Ergebnisse aus Tabelle \ref{950 16 24} für eine Haltezeit von 24 Stunden eine nochmalige Härtesteigerung von 10 HV10. Die Härte nimmt also für längere Haltezeiten stetig zu. 
+
+
 
 
 
@@ -807,17 +821,17 @@ Std.-abw.	&	0.803 \\
 \begin{figure}
 \centering
 \includegraphics[width=0.66\textwidth]{Bilder/REM950C1hWQ520C24hAC.png}
-\caption{REM Aufnahme: 950°C und 24 Stunden Alterung}
+\caption{REM Aufnahme: 950°C mit 24 Stunden Alterung}
 \label{REM 950C 24h}
 \end{figure}
 
-\section{Ergebnisse des Zugversuches}
-\subsection{Ausgewählte Wärmebehandlungen}
-Für die Ermittlung der genauen Zugfestigkeit wurden 3 Wärmebehandlungen ausgewählt. Die Wärmebehandlungen werden  jeweils an 2 Proben durchgeführt und die Zugfestigkeit mittels Zugversuch (siehe  \ref{Kapitel Zugversuch}) ermittelt. Ausgewählt wurden die beiden Wärmebehandlungen, die aufgrund der höchsten ermittelten Härtewerte und der vermuteten Korrelation von Härte und Zugfestigkeit die besten Ergebnisse versprachen. Als drittes wurde ein voll-martensitisches Gefüge mit geringerer Härte geprüft. 
-\subsection{Erwartungen}
-Im Sinne der Aufgabenstellung sollte die Zugfestigkeit des Ausgangszustands am niedrigsten liegen. Nach dem in Abschnitt \ref{Kapitel ti64} gegebenem Überblick dürften Werte zwischen 900 und 950 MPa erwartet werden. Die wärmebehandelten Proben sollten deutlich höher im Bereich von 1000 bis 1200 MPa liegen. Unter den wärmebehandelten Proben ist die rein martensitische Probe als schwächste anzusehen. Die bei 970°C geglühte Probe weißte, von den einstufig geglühten Proben, den höchsten Härtewert auf. Höher war nur der Härtewert der bei 950°C geglühten, abgeschreckten und bei 520°C für 24 Stunden ausgelagerten Probe. Bei der die höchste Zugfestigkeit zu erwarten ist.
+\section{Ermittlung der Zugfestigkeit}
 
-\subsection{Ergebnisse}
+Für die Ermittlung der Zugfestigkeit wurden drei Gefügezustände ausgewählt. Die Zugversuche werden jeweils an zwei Proben durchgeführt und die gemittelte Zugfestigkeit des Gefüges zu bestimmen (siehe  \ref{Kapitel Zugversuch}). Ausgewählt wurden die Gefüge, mit der höchsten Härte. Das ist zum Einen das bei 970°C geglühte Primär Alpha-Martensit-Gefüge (Proben 4 und 5) und zum Anderen das für 24 Stunden gealtert,bei 950°C geglühte Primär Alpha-Martensit-Gefüge (Proben 6 und 7). Als drittes wurde ein vollmartensitisches Gefüge mit geringerer Härte geprüft (Proben 2 und 3). Zum Vergleich wird das Ausgangsgefüge gezogen (Probe 1).
+\subsection*{Erwartungen}
+Nach dem in Abschnitt \ref{Kapitel ti64} gegebenem Überblick dürften Werte für den Ausgangszustand zwischen 900 und 950 MPa erwartet werden. Die wärmebehandelten Proben sollten deutlich höher im Bereich von 1000 bis 1200 MPa liegen. Unter den wärmebehandelten Proben ist zu erwarten, dass die reinmartensitische Probe die mit der geringsten Festigkeit ist. Die bei 970°C geglühte Probe weist, von den einstufig geglühten Proben, den höchsten Härtewert auf. Höher war nur der Härtewert der bei 950°C geglühten, abgeschreckten und bei 520°C für 24 Stunden ausgelagerten Probe, bei der die höchste Zugfestigkeit zu erwarten ist.
+
+\subsection*{Ergebnisse}
 
 \begin{figure}
 \centering
@@ -826,7 +840,7 @@ Im Sinne der Aufgabenstellung sollte die Zugfestigkeit des Ausgangszustands am n
 \label{Ergebnisse der Zugpruefungen}
 \end{figure}
 
-Abbildung \ref{Ergebnisse der Zugpruefungen} zeigt einen Ausschnitt aus dem Prüfprotokoll der durchgeführten Zugversuche. Darin sind der E-Modul, die Dehngrenze und die Zugfestigkeit tabellarisch dargestellt. Die dort ermittelten Werte bestätigen die oben aufgestellten Vermutungen teilweise. Die Proben 6 und 7 weisen die höchste Zugfestigkeit auf. Alle Proben haben eine höhere Zugfestigkeit als der Ausgangszustand. Die rein martensitischen Proben 2 und 3 jedoch weisen eine höhere Zugfestigkeit als die Proben 4 und 5 auf. Der E-Modul liegt für alle Proben im Bereich von ungefähr 108GPa.
+Abbildung \ref{Ergebnisse der Zugpruefungen} zeigt einen Ausschnitt aus dem Prüfprotokoll der durchgeführten Zugversuche. Darin sind die relevanten Werte E-Modul, Dehngrenze, Zugfestigkeit und Gesamtdehnung tabellarisch dargestellt. Die dort ermittelten Werte bestätigen die oben aufgestellten Vermutungen teilweise. Alle Proben haben eine höhere Zugfestigkeit als der Ausgangszustand. Die Proben 6 und 7 weisen die höchste Zugfestigkeit auf. Die rein martensitischen Proben 2 und 3 jedoch weisen eine höhere Zugfestigkeit als die Proben 4 und 5 auf. Der E-Modul liegt für alle Proben im Bereich von ungefähr 100 bis 115 GPa.
 
 \begin{figure}
 \centering
@@ -835,21 +849,19 @@ Abbildung \ref{Ergebnisse der Zugpruefungen} zeigt einen Ausschnitt aus dem Prü
 \label{Spannungs Dehnungskurven}
 \end{figure}
 
-Abbildung \ref{Spannungs Dehnungskurven} zeigt die während der Zugversuche aufgenommenen Spannungs-Dehnungskurven. Für einen besseren Überblick wurden die Probennummern ergänzt, sodass ein Zusammenhang mit Abbildung \ref{Ergebnisse der Zugpruefungen} entsteht. Anhand Abbildung \ref{Spannungs Dehnungskurven} kann die Bruchdehnung mit Berücksichtigung des elastischen Anteils abgelesen werden. Dabei ergeben sich für die rein martensitischen Proben die geringsten Bruchdehnungen  von 5,5\% und 6\%. Die 970°C Proben (4 und 5) sind mit Bruchdehnungen von 16,5\% und 18\% am duktilsten. Der Ausgangszustand weist eine Bruchdehnung von 12,5\% auf. Auffällig ist, dass trotz identischer Wärmebehandlung die Proben 6 und 7 mit 10,5\% und 14\% weit auseinander und jeweils mit ca. 2\% Dehnung vor und hinter dem Ausgangszustand liegen.
+Abbildung \ref{Spannungs Dehnungskurven} zeigt die während der Zugversuche aufgenommenen Spannungs-Dehnungskurven. Für einen besseren Überblick wurden die Probennummern ergänzt, sodass ein Zusammenhang mit Abbildung \ref{Ergebnisse der Zugpruefungen} entsteht. Anhand Abbildung \ref{Spannungs Dehnungskurven} kann die Bruchdehnung mit Berücksichtigung des elastischen Anteils abgelesen werden. Dabei ergeben sich für die rein martensitischen Proben die geringsten Bruchdehnungen  von 5,5\% und 6\%. Die 970°C Proben (4 und 5) sind mit Bruchdehnungen von 16,5\% und 18\% am duktilsten. Der Ausgangszustand weist eine Bruchdehnung von 12,5\% auf. Die für die jeweiligen Gefüge gezogenen Proben zeigen ähnliche mechanische Kennwerte. Auffällig ist, dass trotz identischer Wärmebehandlung die Proben 6 und 7 mit 10,5\% und 14\% Bruchdehnung weit auseinander liegen.
+
 \chapter{Diskussion der erzielten Ergebnisse in Hinblick auf eine Gefügeoptimierung}
-Dieses Kapitel beschäftigt sich mit der Frage, welche Mechanismen bei der Festigkeitssteigerung von Bedeutung sind. Die einzelnen Wärmebehandlungsschritte werden diskutiert und verglichen.
+In diesem Kapitel werden die erzielten Ergebnisse näher erläutert. Es wird auf die Mechanismen die in den  einzelnen Wärmebehandlungen ablaufen eingegangen.
 
-In jedem der Ansätze ging es um Festigkeitssteigerung durch eine erhöhte Grenzflächendichte. Die Versetzungen können bei einer großen Grenzflächendichte nur unter hohem Energieaufwand durch das Bauteil wandern. So entsteht eine hohe Festigkeit.
-\section{Einfluss des Primäralpha-Anteils}\label{Kapitel einfluss des Primäralphaanteils}
-Die in Kapitel \ref{Kapitel Abhängigkeit der Härte vom Primäralphaanteil} beschriebenen Ergebnisse der ersten Wärmebehandlung sollen nun diskutiert werden. Dabei waren die folgenden Ergebnisse herausgestellt wurden:
-\begin{itemize}
-\item Der Primär-Alpha-Anteil sinkt mit zunehmender Glühtemperatur bei der Wärmebehandlung.
-\item Die Härte der Proben steigt mit abnehmendem Primär-Alpha-Anteil.
-\end{itemize}
+In jedem der Ansätze ging es um Festigkeitssteigerung durch eine erhöhte Grenzflächendichte. Diese wird durch ein feines Gefüge erzeugt. Die Versetzungen können bei einer großen Grenzflächendichte nur unter hohem Energieaufwand durch das Bauteil wandern. 
+\section{Härtesteigerung durch das Primär Alpha-Martensit-Gefüge}\label{Kapitel einfluss des Primäralphaanteils}
+Die in Kapitel \ref{Kapitel Abhängigkeit der Härte vom Primäralphaanteil} beschriebenen Ergebnisse der ersten Wärmebehandlung sollen nun diskutiert werden. Hierbei handelt es sich um ein Gefüge aus Primär Alpha und Martensit. Der Primär Alpha-Anteil sinkt mit steigender Glühtemperatur. Mit abnehmendem Primär Alpha-Anteil steigt die Härte.
 
-Die Steigerung der Härte des $\alpha-\alpha'$-Gefüges lässt sich zum einen auf die Bildung des Martensits zurückführen. Dennoch darf der Titan-Martensit nicht mit dem Stahl-Martensit gleichgesetzt werden. Da beim Titan-Martensit keine Zwangslösung eines Legierungselements auftritt, wie das beim Stahl mit Kohlenstoff der Fall ist, tritt keine nennenswerte Gitterverzerrung bei Titan auf. Damit verbunden sollte auch nur eine geringe Steigerung der Härte einhergehen. Die hier auftretende Erhöhung der Härte auf 343 HV10 (950°C-1h-WQ) ist dagegen signifikant höher als der Ausgangszustand mit 305 HV10. Es scheint also noch ein anderer Effekt aufzutreten.
 
-Dieser Effekt ist ausschlaggebend für die hier beobachtete Härtesteigerung und lässt sich durch die Grenzflächendichte beschreiben. Abbildung \ref{Vergleich Primäralpha martensit}(a) zeigt das Ausgangsgefüge, im Vergleich mit einem $\alpha-\alpha'$-Gefüge in (b). Die Martensit-Platten der Matrix um die Alpha-Körner sind deutlich feiner verteilt als die Gefügebestandteile des Ausgangszustandes. Daraus resultiert eine höhere Anzahl von  Grenzflächen zwischen den Körnern.
+Die Steigerung der Härte des Gefüges lässt sich zum einen auf die Bildung des Martensits zurückführen. Dennoch darf der Titan-Martensit nicht mit dem Stahl-Martensit gleichgesetzt werden. Da beim Titan-Martensit keine Zwangslösung eines Legierungselements auftritt, wie das beim Stahl mit Kohlenstoff der Fall ist, tritt keine nennenswerte Gitterverzerrung bei Titan auf. Damit verbunden sollte auch nur eine geringe Steigerung der Härte einhergehen. Die hier auftretende Erhöhung der Härte auf 343 HV10 (950°C-1h-WQ) ist dagegen signifikant höher als der Ausgangszustand mit 305 HV10. Es tritt also noch ein anderer Effekt auf.
+
+Die erhöhte Grenzflächen, die aus dem feinen Martensit-Gefüge resultiert, erzeugt die Härtesteigeurng. Abbildung \ref{Vergleich Primäralpha martensit}(a) zeigt das Ausgangsgefüge, im Vergleich eingestellten Gefüge in (b). Die Martensit-Nadeln sind deutlich feiner verteilt als die Gefügebestandteile des Ausgangszustandes. Daraus resultiert eine höhere Anzahl von Grenzflächen zwischen Martensit-Nadeln.
 
 \begin{figure}
 \subfigure[Ausgangsgefüge]{\includegraphics[width=0.5\textwidth]{Bilder/Ausgangsgefuege.jpg}}
@@ -859,26 +871,14 @@ Dieser Effekt ist ausschlaggebend für die hier beobachtete Härtesteigerung und
 \end{figure}
 
 
-Durch die erhöhte Grenzflächendichte wird eine Versetzungsbewegung am Voranschreiten gehindert, was sich positiv auf Härte sowie Festigkeit auswirkt. Eine Aufhärtung durch höhere Grenzflächendichte lässt sich auch durch die in Abschnitt \ref{Kapitel Abhängigkeit der Härte vom Primäralphaanteil} gezeigte steigende Härte mit abnehmendem Alpha-Anteil vereinbaren. Die Alphakörner in (b) sind deutlich größer als die feinen Martensit-Platten der Matrix und tragen so negativ zur Verfestigung durch Erhöhung der Grenzflächendichte bei.
+Durch die erhöhte Grenzflächendichte werden die Versetzungsbewegungen am Voranschreiten gehindert. Eine erhöhte Spannung ist nötig damit die Versetzung durch das Gefüge wandert, was die Härte und Festigkeit steigert. Der größere Volumenanteil der Alpha-Körner (siehe Abbildung \ref{Vergleich Primäralpha martensit}(b)) wirkt sich negativ auf die Grenzflächendichte aus. Dies zeigt sich auch durch die Ergebnisse der Härteprüfung in Abschnitt \ref{Kapitel Abhängigkeit der Härte vom Primäralphaanteil}. 
 
-Abbildung \ref{Härteverlaufsdiagramm 950C1hwq} zeigt einen Graphen der Härteprüfung der bei 950°C und einer Stunde geglühten Probe. Auffällig erscheinen hier die nach unten abfallenden Messergebnisse des ersten und fünften Messeindrucks. Vermuten ließe sich hier ein Messfehler. Es sei aber angeführt, dass es sich dabei um Messabweichungen von ca. 10 HV10 handelt. Die, wie in Abschnitt 2.2.4 gesagt, im Rahmen der Messungenauigkeit von 3\% liegen. Des Weiteren erfolgt im Alpha-Case der Randschichten eine Aufhärtung des Werkstoffes durch die Diffusion von Sauerstoff, was zu einer Messabweichung nach oben führen müsste. Gleichzeitig ist durch die geringe Tiefe von einigen Mikrometern (vgl. Abb. \ref{alpha-case-950}) ein unbemerkter Prüfeindruck im Alpha-Case äußerst unwahrscheinlich.
 
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{Bilder/9501hwqrand.jpg}
-\caption{Alpha-Case am Rand der Probe}
-\label{alpha-case-950}
-\end{figure}
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{Bilder/Haerteverlaufsdiagramm.png}
-\caption{Härteverlaufsdiagramm der Härteprüfung von der bei 950°C geglühten Probe}
-\label{Härteverlaufsdiagramm 950C1hwq}
-\end{figure}
 
-\subsection{Abnahme der Zugfestigkeit des Vollmartensites gegenüber dem $\alpha-\alpha'$-Gefüge}
-In Kapitel \ref{Kapitel Abhängigkeit der Härte vom Primäralphaanteil} wurde herausgestellt, dass die ermittelte Härte mit sinkendem Primär-Alpha-Anteil steigt. In Kapitel \ref{Kapitel einfluss des Primäralphaanteils} wurde dann der Zusammenhang der höheren Grenzflächendichte für das Aufkommen höherer Härtewerte gegenüber dem Ausgangsgefüge behandelt. Demnach sind die in der Martensit-Matrix fein verteilten Martensit-Platten für die höhere Härte verantwortlich. Die noch Vorhandenen Alphakörner jedoch kontraproduktiv.
-Die Ergebnisse der Härteprüfung für ein vollmartensitisches Gefüge [in Kapitel?] zeigen jedoch eine Abnahme der Härte auf 346 HV10 gegenüber dem Alpha-Alpha`-Gefüge durch Glühen bei 970°C und Wasserabschrecken. Gleichzeitig liegt die Härte auf dem Niveau der bei 950°C geglühten und wasserabgeschreckten Probe. Einen Überblick gibt Tabelle \ref{Tabelle Mittelwerte Härte für verschiedene Proben}.
+\section{Abnahme der Zugfestigkeit des Vollmartensites gegenüber dem $\alpha-\alpha'$-Gefüge}
+In Kapitel \ref{Kapitel Abhängigkeit der Härte vom Primäralphaanteil} wurde festgestellt, dass die ermittelte Härte mit sinkendem Primär Alpha-Anteil steigt. In Kapitel \ref{Kapitel einfluss des Primäralphaanteils} wurde die Härtesteigerung auf eine erhöhte Grenzflächendichte zurückgeführt. Demnach sind die in der Martensit-Matrix fein verteilten Martensit-Nadeln für die höhere Härte verantwortlich.
+Es sollte somit ein vollmartensitisches Gefüge höhere Härtewerte besitzen.
+Die Ergebnisse der Härteprüfung für ein vollmartensitisches Gefüge  widerlegen diese Aussage (siehe Kapitel \ref{Kapitel Bildung und Zerfall des Vollmartensits}). Die Härte ist im Verhältnis zum Gefüge mit einem geringen Alpha-Anteil um circa 10 HV10 gesunken. Gleichzeitig liegt die Härte auf dem Niveau der bei 950°C geglühten und wasserabgeschreckten Probe. Einen Überblick gibt Tabelle \ref{Tabelle Mittelwerte Härte für verschiedene Proben}.
 \begin{table}
 \begin{tabular}{c|c|c|c|c}
 Probe & 950°C-WQ & 970°C-WQ & 1050°C-10min-WQ & 1050°C-30min-WQ \\
@@ -889,7 +889,9 @@ Härte[HV10] & 343 & 357 & 346 & 342 \\
 \label{Tabelle Mittelwerte Härte für verschiedene Proben}
 \end{table}
 
-Hintergrund ist, dass auch die Länge der Martensit-Platten eine Rolle bei der Verfestigung  spielt. Die Rissausbreitung erfolgt entlang einer geraden Korngrenze relativ ungehindert. Dagegen benötigt ein Richtungswechsel viel Energie, was der Rissausbreitung hinderlich ist. Es liegen also zwei gegenteilige Mechanismen vor, dessen Zusammenspiel gerade die Festigkeit der hier betrachteten Gefüge ausmacht. Der positive Effekt des maximalen Martensitanteils im rein martensitischen Gefüge wird gerade durch die langen Martensit-Platten vermindert. Ähnlich sieht es im der $\alpha-\alpha'$-Aushärtung bei 950°C aus, hier ist der Martensit feiner verteilt und die Länge der Martensit-Platten idealer, dem entgegenstehen große Alpha-Körner. In beiden Fällen wird der, die Härte erhöhende, Mechanismus durch den Gegenteiligen verringert. Das passiert in beiden Fällen im gleichen Maße, sodass eine ähnliche Härte erreicht wird. Die $\alpha-\alpha'$-Aushärtung bei 970°C scheint mit Blick auf die Messergebnisse eine bessere Abwägung der beiden Effekte zu erreichen. 
+Die Martensit-Nadeln im vollmartensitischen Gefüge sind länger als die in dem Gefüge mit einem Rest an Alpha-Anteilen. Die verbliebenen Alpha-Körner behindern das Wachstum der Martensit-Nadeln. Ein hoher Anteil an Primär-Alpha-Phase behindert zwar das Wachstum, jedoch ist die Grenzflächendichte gering. Ein steigender Primär-Alpha-Anteil sowie lange Martensit-Nadeln wirken sich nachteilig auf die Härte aus. Zustände mit größter Härte würden also aus einem Gefüge mit einem geringen Alpha-Anteil entstehen. Die Probe mit einer Glühtemperatur von 970°C und einem Primär-Alpha-Anteil von circa 6\% kommt diesem sehr nahe.
+
+
 
 \begin{figure}
 \subfigure[Vollmartensit]{\includegraphics[width=0.5\textwidth]{Bilder/Vollmartensit.jpg}}
@@ -897,25 +899,24 @@ Hintergrund ist, dass auch die Länge der Martensit-Platten eine Rolle bei der V
 \caption{Vollmartensit neben Primäralpha + Martensit Gefüge}
 \label{Vollmartensit neben 960}
 \end{figure}
-Abbildung \ref{Vollmartensit neben 960} zeigt links eine oberhalb Beta-Transus lösungsgeglühte und abgeschreckte Probe. Im Vergleich zur rechten Abbildung ist die deutlich gröbere Martensit-Matrix zu erkennen. Für die Feinheit des Martensit ist die Dauer und Temperatur des Lösungsglühens ausschlaggebend. Die Länge der Martensit-Platten ist maximal die Länge eines ehemaligen Beta-Korns. Beim Lösungsglühen oberhalb von Beta-Transus ergibt sich nun folgende Schwierigkeit. Einerseits wird eine Temperatur oberhalb von Beta-Transus und ausreichend Zeit benötigt, um das gesamte Gefüge in die Beta-Phase umzuwandeln. Andererseits dürfen Temperatur und Haltezeit nicht zu hoch gewählt werden um das Wachstum der Beta-Körner zu minimieren. Die Temperatur hat einen größeren Einfluss auf die Diffusionsvorgänge und damit das Wachstum der Beta-Körner. [Mk2] Daher ist eine genaue Kenntnis der Beta-Transus-Temperatur des vorliegenden Materials für das Einstellen möglichst kleiner Beta-Körner notwendig.
+Abbildung \ref{Vollmartensit neben 960} zeigt links eine oberhalb der Betatransus Temperatur geglühte und abgeschreckte Probe. Im Vergleich zur rechten Abbildung ist die deutlich gröbere Martensit-Matrix zu erkennen. Für die Länge des Martensit ist die Dauer und Temperatur des Glühens ausschlaggebend. Die maximale Länge der Martensit-Nadeln ist die eines ehemaligen Beta-Korns. Beim glühen oberhalb der Betatransus Temperatur ergibt sich nun folgende Schwierigkeit: Einerseits wird eine Temperatur oberhalb von Beta-Transus und ausreichend Zeit benötigt, um das gesamte Gefüge in die Beta-Phase umzuwandeln. Andererseits dürfen Temperatur und Haltezeit nicht zu hoch gewählt werden um das Wachstum der Beta-Körner zu minimieren. Die Temperatur hat einen größeren Einfluss auf die Diffusionsvorgänge und damit das Wachstum der Beta-Körner. [Mk2] Daher ist eine genaue Kenntnis der Beta-Transus-Temperatur des vorliegenden Materials für das Einstellen möglichst kleiner Beta-Körner notwendig.
 Im Verlauf dieser Arbeit konnte die genaue Beta-Transus-Temperatur des Materials nicht bestimmt werden, weshalb für die rein martensitischen Proben Beta-Transus mit 1000°C angenommen wurde. Ein Lösungsglühen bei 50°C oberhalb Beta-Transus sollte die vollständige Umwandlung der Alpha-Phase bewirken. Vermuten lässt sich, dass die tatsächliche Beta-Transus-Temperatur unterhalb von 1000°C liegt. Eine Wärmebehandlung bei geringerer Temperatur als 1050°C wäre folglich ausreichend gewesen das Phasengemisch in Beta-Phase umzuwandeln. Daraus hätte demnach ein feiner verteilter Martensit erzeugt werden können. 
 
 \section{Alterung des Martensits}
-In der in Abschnitt \ref{Festigkeitssteigerung durch Martensitbildung} behandelten Wärmebehandlung ging es um einen Zerfall des Martensits. Dieser sollte in möglichst kleine Bereiche von Alpha- und Beta-Phase zerfallen. Nur so kann die Grenzflächendichte gegenüber dem Martensit erhöht werden. Der kritische Faktor war hierbei, inwiefern der Martensit zerfällt, während die Vergröberung als festigkeitsverringernder Prozess parallel läuft. Ziel war es, diese konkurrierenden Prozesse so zu steuern, dass ein maximaler Festigkeitsgewinn entsteht. 
+In der in Abschnitt \ref{Festigkeitssteigerung durch Martensitbildung} behandelten Wärmebehandlung ging es um den Zerfall des Martensits im Primär Alpha-Martensit-Gefüge. Dieser sollte in möglichst kleine Bereiche von Alpha- und Beta-Phase zerfallen. Nur so kann die Grenzflächendichte gegenüber dem Martensit erhöht werden. Der kritische Faktor war hierbei, inwiefern der Martensit zerfällt, während die Vergröberung als festigkeitsverringernder Prozess parallel abläuft. Ziel war es, diese konkurrierenden Prozesse so zu steuern, dass ein maximaler Festigkeitsgewinn entsteht. 
 
-Ausgehend von den Ergebnissen der ersten Wärmebehandlung wurde festgestellt, dass ein niedriger Primäralpha-Anteil für eine Festigkeitssteigerung sorgt. Es würde also Sinn ergeben, mit dem mit den geringsten Alpha-Anteil enthaltenen Gefüge die Alterung durchzuführen. Wie bereits erwähnt entscheidet jedoch die Konzentration an Beta stabilisierenden Elementen in der Martensit-Phase über einen festigkeitssteigernden Zerfall. In dem Gefüge mit wenig Primäralpha ist die Konzentration an Beta stabilisierenden Elementen auf Grund des großen Volummenanteils der Beta-Phase geringer als in Gefügen mit viel Primär-Alpha. Dies lässt darauf schließen, dass eine Auslagerung von Proben mit einer geringeren Glühtemperatur zu einer größeren Festigkeitssteigerung führt. Die Ergebnisse der Härteprüfungen zeigen genau den Fall. Proben mit einer Glühtemperatur von 970°C haben keine Festigkeitssteigerung erfahren, während die Proben mit einer Glühtemperatur von 950°C deutliche Festigkeitssteigerungen zeigen. So wird die am Anfang aufgestellte These bestätigt, dass für höhere Konzentrationen an Beta stabilisierenden Elementen eine Festigkeitssteigerung bei einer Alterung resultiert. 
+Ausgehend von den Ergebnissen der ersten Wärmebehandlung wurde festgestellt, dass ein niedriger Primäralpha-Anteil für eine Festigkeitssteigerung sorgt. Es würde also Sinn ergeben, mit dem geringsten Alpha-Anteil enthaltenen Gefüge die Alterung durchzuführen, um eine noch Höhere Härte zu erzielen. Wie bereits erwähnt entscheidet jedoch die Konzentration an Beta stabilisierenden Elementen in der Martensit-Phase ob ein festigkeitssteigernden Zerfall statt findet. In dem Gefüge mit wenig Primäralpha ist die Konzentration an Beta stabilisierenden Elementen auf Grund des großen Volummenanteils der Beta-Phase geringer als in Gefügen mit viel Primär-Alpha-Anteil. Dies lässt darauf schließen, dass eine Auslagerung von Proben mit einer geringeren Glühtemperatur zu einer größeren Festigkeitssteigerung führt. Die Ergebnisse der Härteprüfungen zeigen genau den Fall. Proben mit einer Glühtemperatur von 970°C haben keine Festigkeitssteigerung erfahren, während die Proben mit einer Glühtemperatur von 950°C deutliche Festigkeitssteigerungen zeigen. So wird die am Anfang aufgestellte These bestätigt, dass für höhere Konzentrationen an Beta stabilisierenden Elementen eine Festigkeitssteigerung bei einer Alterung resultiert. 
 
-Werden die Gefügebilder betrachtet, lässt sich das Ergebnis erklären. Für die Glühtemperaturen sind unterschiedliche Gefüge entstanden. Bei der Auslagerung von einer Glühtemperatur von 970°C zeigt sich ein Zerfall des Martensits. Die ehemaligen Nadeln sind an vielen Stellen unterbrochen und es hat sich sekundäre Alpha- und Beta-Phase gebildet. Dieser Effekt ist bei der Haltezeit von acht Stunden noch stärker ausgebildet. Es ist allerdings auch zu beobachten, dass noch einige Nadeln unverändert vorliegen. Dies spricht für eine zu niedrige Haltezeit, da die Nadeln bei steigender Haltezeit eher zerfallen als bei einer kürzeren. Bei längeren Haltezeiten ist aber auch der konkurrierende Prozess stärker ausgeprägt. Bereits nach acht Stunden ist eine starke Vergröberung der Platten zu erkennen. Eine noch längere Haltezeit würde zu einem noch größeren Wachstum dieser Platten führen, sodass sich die Grenzflächendichte verringert und so die Festigkeit abnimmt. Eine Festigkeitssteigerung durch den Zerfall des verbleibenden Martensits ist also unwahrscheinlich, da die Vergröberung als Nebenprozess vorliegt. So ist auch die nicht vorhandene Festigkeitssteigerung zu erkären. Der Zerfall des Martensits liegt zwar vor und führt zu einer größeren Grenzflächendichte. Aber gleichzeitig resultiert durch die Vergröberung eine Abnahme der Grenzflächendichte. Es lässt sich also schließen, dass die beiden Prozesse aufgrund der konstanten Härtewerte in gleichen Maßen aufgetreten sind. 
+Werden die Gefügebilder betrachtet, lässt sich das Ergebnis erklären. Bei der Auslagerung ausgehend einer Glühtemperatur von 970°C zeigt sich ein Zerfall des Martensits. Die ehemaligen Nadeln sind an vielen Stellen unterbrochen und es hat sich sekundäre Alpha- und Beta-Phase gebildet. Die entstandene Beta-Phase lässt sich den weißen Bereichen der REM Abbildungen zuordnen. Dieser Effekt ist bei der Haltezeit von acht Stunden noch stärker ausgebildet. Es ist allerdings auch zu beobachten, dass noch einige Nadeln unverändert vorliegen. Dies spricht für eine zu niedrige Haltezeit, da die Nadeln bei steigender Haltezeit eher zerfallen als bei einer kürzeren. Bei längeren Haltezeiten ist aber auch der konkurrierende Prozess stärker ausgeprägt. Bereits nach acht Stunden ist eine starke Vergröberung der Platten zu erkennen. Eine noch längere Haltezeit würde zu einem noch größeren Wachstum dieser Platten führen, sodass sich die Grenzflächendichte verringert und so die Festigkeit abnimmt. Eine Festigkeitssteigerung durch den Zerfall des verbleibenden Martensits ist also unwahrscheinlich, da die Vergröberung als Nebenprozess vorliegt. So ist auch die nicht vorhandene Festigkeitssteigerung zu erklären. Der Zerfall des Martensits liegt zwar vor und führt zu einer größeren Grenzflächendichte. Aber gleichzeitig resultiert durch die Vergröberung eine Abnahme der Grenzflächendichte. Es lässt sich also schließen, dass die beiden Prozesse aufgrund der konstanten Härtewerte in gleichen Maßen aufgetreten sind. 
 
-Bei der Auslagerung von einer Glühtemperatur von 950°C zeigt sich ein anderes Ergebnis. Die Härteprüfungen zeigen, dass aufgrund der Auslagerung eine Härtesteigerung von circa 3\%  resultiert ist. Bei einer  Analyse der Gefügebilder dieser Proben werden die Unterschiede gegenüber den Proben mit einer Glühtemperatur von 970°C sichtbar. Bei einem Vergleich der Gefügebilder bei gleicher Haltezeit fällt auf, das die Nadeln bei der niedrigeren Glühtemperatur einen höheren Teilungsgrad besitzen. Außerdem sind die Nadeln nicht so grob geworden, wie die der hohen Temperatur. Die Aufteilung der Nadeln in kleine Bereiche erklärt die Festigkeitssteigerung der ausgelagerten Proben. Die Grenzflächendichte wird dadurch stark erhöht und so ist eine Ausbreitung der Versetzungen nur mit einem großen Energieaufwand möglich. 
+Bei der Auslagerung ausgehend von einer Glühtemperatur von 950°C zeigt sich ein anderes Ergebnis. Die Härteprüfungen zeigen, dass aufgrund der Auslagerung eine Härtesteigerung von circa 3\%  resultiert ist. Bei einer  Analyse der Gefügebilder dieser Proben werden die Unterschiede gegenüber den Proben mit einer Glühtemperatur von 970°C sichtbar. Bei einem Vergleich der Gefügebilder bei gleicher Haltezeit fällt auf, das die Nadeln bei der niedrigeren Glühtemperatur einen höheren Teilungsgrad besitzen. Außerdem sind die Nadeln nicht so grob geworden, wie die der hohen Temperatur. Die Aufteilung der Nadeln in kleine Bereiche erklärt die Festigkeitssteigerung der ausgelagerten Proben. Die Grenzflächendichte wird dadurch stark erhöht und so ist eine Ausbreitung der Versetzungen nur mit einem großen Energieaufwand möglich. 
 
-Allerdings ist auch bei der niedrigeren Temperatur das Martensit-Gefüge noch deutlich zu erkennen. Bei einer Haltezeit von 24 Stunden ist der Martensit jedoch vollständig zerfallen. Die entstandene Beta-Phase ist in den Gefügebildern als helle Bereiche zu erkennen. Innerhalb der entstandenen Beta-Phase hat sich auch Alpha-Phase gebildet. Diese ist durch die dunklen Bereiche zu erkennen. Die Martensitnadeln haben sich also so geteilt, dass die entstandenen Phasen immer abwechselnd vorliegen. So entsteht im Verhältnis zum nicht ausgelagerten Gefüge ein Gefüge mit mehr Grenzflächen, was zu der Festigkeitszunahme führt.
+Allerdings ist auch bei der niedrigeren Temperatur das Martensit-Gefüge noch deutlich zu erkennen. Bei einer Haltezeit von 24 Stunden ist der Martensit jedoch in großen Anteilen zerfallen. Die entstandene Beta-Phase ist in den Gefügebildern als helle Bereiche zu erkennen. Vermutlich wird sich auch sekundäre Alpha-Phase gebildet haben. Diese sind in der REM Aufnahme jedoch nicht zu erkennen. Die Martensit-Nadeln haben sich also so geteilt, dass die entstandenen Phasen immer abwechselnd vorliegen. So entsteht im Verhältnis zum nicht ausgelagerten Gefüge ein Gefüge mit mehr Grenzflächen, was zu der Festigkeitszunahme führt.
 
-Der Martensit ist wegen der Instabilität der Phase zerfallen. Je mehr Beta stabilisierende Elemente der Martensit enthält, desto eher zerfällt dieser nach Alpha- und Beta-Phase. Dadurch ist auch der Zerfall bei der niedrigeren Glühtemperatur stärker ausgeprägt als der der hohen Temperaturen. Der konkurrierende Prozess ist bei beiden Ausgangstemperaturen aufgetreten. Die Vergröberung hatte jedoch weniger Einfluss auf die Probe mit einer Glühtemperatur von 950°C, da diese den höheren Teilungsgrad der Nadeln besitzt. Ein Wachstum dieser Bereiche würde zwar zu einer Festigkeitsabnahme führen, hat jedoch nicht so einen negativen Einfluss wie eine Verbreiterung der noch vorhandenen Martensitnadeln bei einer von einer Glühtemperatur von 970°C ausgehenden Alterung.
+Der Martensit ist wegen der metastabilität der Phase zerfallen. Je mehr Beta stabilisierende Elemente der Martensit enthält, desto eher zerfällt dieser in Alpha- und Beta-Phase. Dadurch ist auch der Zerfall bei einer Probe mit geringerem Martensit-Anteil stärker ausgeprägt als der der hohen Temperaturen. Der konkurrierende Prozess tritt bei jeder Alterung. Die Vergröberung hatte jedoch geringeren Einfluss auf die Probe mit weniger Martensit-Phase, da die Martensit-Nadeln vorher zerfallenden sind. 
 
-Abschließend ist die Wärmebehandlung so gelaufen wie erwartet. Das Martensit ist unabhängig von dessen Primäralpha-Anteil zerfallen. Aufgrund der niedrigen Konzentration an Beta stabilisierenden Elementen hat jedoch der Zerfall des Martensits bei einem Glühvorgang von 970°C keine festigkeitssteigernde Wirkung. Dies liegt an dem konkurrierenden Prozess, der zu einer Festigkeitsabnahme führt. Die Probe mit einer Glühtemperatur von 950°C konnte hingegen eine deutliche Steigerung der Festigkeit aufweisen. Hier ist das Verhältnis der Bildung von sekundärer Alpha- und Beta-Phase gegenüber der Vergröberung so, dass die Bildung der stabilen Phasen überwiegt und so die Festigkeit gesteigert werden kann.
 
-Die Ergebnisse des Zugversuchs zeigen hervorragende mechanische Eigenschaften. Die Steigerung der Festigkeit wurde bereits erläutert. Die hohe Bruchdehnung ergibt sich aus der Duktilität der Probe. Diese ist aufgrund des Zerfalls des Martensits entstanden. Aus langen Nadeln haben sich kleine Bereiche an Alpha- und Beta-Phase gebildet. Die sind deutlich duktiler als die vorher vorhandene Martensit-Phase.
+Die Ergebnisse des Zugversuchs zeigen gute mechanische Eigenschaften. Die Steigerung der Festigkeit wurde bereits erläutert. Die hohe Bruchdehnung ergibt sich aus der Duktilität der Probe. Diese ist aufgrund des Zerfalls des Martensits entstanden. Aus langen Nadeln haben sich kleine Bereiche an Alpha- und Beta-Phase gebildet. Die sind deutlich duktiler als die vorher vorhandene Martensit-Phase.
 \bibliographystyle{plain}
 \bibliography{literatur}
 \listoffigures

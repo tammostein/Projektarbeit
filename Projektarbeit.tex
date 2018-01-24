@@ -7,7 +7,7 @@
 \usepackage{subfigure}
 \usepackage{hyperref}
 \usepackage{blindtext}
-\title{Wärmebehandlung}
+\title{Gefügeoptimierung einer Fanschaufel aus der Titanlegierung Ti 6Al 4V}
 \date{Wintersemester 17/18}
 \author{J. Hansen, S. Vodde,
  J. Veer, T. Stein}
@@ -18,6 +18,27 @@
 
 \begin{document}
 \maketitle
+\newpage
+\chapter*{Eidesstattliche Erklärung}
+
+Wir erklären hiermit an Eides statt, dass wir die vorliegende Projektarbeit ''Gefügeoptimierung einer Fanschaufel aus der Titanlegierung Ti 6Al 4V'' selbstständig verfasst sowie alle
+benutzten Quellen und Hilfsmittel vollständig angegeben haben und dass die Arbeit nicht bereits als Prüfungsarbeit vorgelegen hat.\\
+
+\ \\
+\ \\
+\ \\
+
+
+
+Braunschweig, den 26.01.2017
+
+
+\ \\
+\ \\
+\ \\
+\ \\
+
+(Unterschriften mit Vor- und Zuname) 
 \tableofcontents
 \addcontentsline{toc}{chapter}{Einleitung}
 \chapter*{Einleitung}
@@ -95,6 +116,63 @@ Globulare Phase besteht aus runden Alpha-Bereichen. Dieses Gefüge resultiert au
 \label{globular}
 \end{figure}
 
+\subsection{Bi-Modal}
+Bi-Modal-Gefüge (Duplex-Gefüge) sind durch globularer $\alpha$-Phase und Lamellen aus $\alpha$- und $\beta$-Phase gekennzeichnet. Es resultiert meist aus einer geglühten Probe.  In Abbildung \ref{bimodal} ist ein solches Gefüge zu erkennen. 
+\begin{figure}
+\centering
+\includegraphics[width=0.4\textwidth]{Bilder/Duplexgefuege.PNG}
+\caption[Bi-Modal-Gefüge]{Bi-Modal-Gefüge\cite{Werkstoffdesign2012}}
+\label{bimodal}
+\end{figure}
+
+\section{Legierungselemente}
+
+\subsection{Neutrale Legierungselemente}
+\begin{figure}
+\subfigure[Einfluss auf die Betatransus Temperatur]{\includegraphics[width=0.33\textwidth]{Bilder/Neutralelegierungselemente.png}}
+\subfigure[Titan-Hafnium Phasendiagramm]{\includegraphics[width=0.33\textwidth]{Bilder/Titanhafniumphasendiagramm.png}}
+\caption{Neutrale Legierungselemente}
+\label{Abbildung neutrale legierungselemente}
+\end{figure}
+
+Zu den neutrale Legierugselementen gehören Zirkonium, Hafnium und Zinn. Sie haben bei niedrigen Konzentrationen keine große Auswirkung auf die Alpha-Beta-Umwandlungstemperatur. Erst bei größeren Konzentrationen zeigt sich ein Einfluss auf die Transformationstemperatur, wie bei Hafnium bei dem die Betatransus-Temperatur zunächst ein Minimum durchläuft um bei sehr großen Konzentrationen wieder zu steigen(siehe Abbildungen \ref{Abbildung neutrale legierungselemente}.
+
+\subsection{Alpha stabilisierende Legierungselemente}
+\begin{figure}
+\subfigure[Einfluss auf die Betatransus Temperatur]{\includegraphics[width=0.33\textwidth]{Bilder/alphastabilisierendelegierungselemente.png}}
+\subfigure[Titan-Aluminium Phasendiagramm]{\includegraphics[width=0.33\textwidth]{Bilder/Titanaluminide.png}}
+\caption{Alpha stabilisierende Legierungselemente}
+\label{Alpha stabilisierende Legierungselemente}
+\end{figure}
+Alpha stabilisierende Legierungselemente zeichnen sich dadurch aus, dass sie die Betatransus Temperatur erhöhen und so die Alpha-Phase bei höheren Temperaturen stabilisieren. Mit steigender Konzentration der Alpha stabilisierenden Elementen steigt die stabilisierende Wirkung und die Betatransus Temperatur erhöht sich weiter (siehe Abbildung \ref{Alpha stabilisierende Legierungselemente}).
+
+Wichtige Vertreter sind hierbei das Substitutionselement Aluminium und die Einlagerungselemente Sauerstoff, Stickstoff und Kohlenstoff.
+Um die Alpha stabilisierende Wirkung der Legierungselemente auf die Titanlegierung allgemein auszudrücken wurde das Aluminium-Äquivalent entwickelt (Gleichung \ref{aluminiumequivalent}).
+\begin{equation}
+[AL]_{eq}=[AL]+0,17[Zr]+0.33[Zn]+10[O]
+\label{aluminiumequivalent}
+\end{equation}
+
+Es enthält neben Aluminium und Sauerstoff auch die neutralen Elemente Zirkonium und Zinn. Sie haben alleine keinen Einfluss auf die Umwandlungstemperatur, jedoch hat Zirkonium ähnliche chemische Eigenschaften wie Titan und Zinn kann in der intermetallischen Phase Ti$_{3}$Al Aluminium ersetzen.
+
+\subsection{Beta stabilisierende Legierungselemente}
+
+\begin{figure}
+\subfigure[Einfluss auf die Betatransus Temperatur]{\includegraphics[width=0.6\textwidth]{Bilder/BetastabilisierendeLegierungselemente.png}}
+\subfigure[Titan-Vanadium-Phasendiagramm]{\includegraphics[width=0.4\textwidth]{Bilder/Titanvanadium.png}}
+\caption{Beta eutektoide und isomorphe Legierungselemente}
+\label{Beta eutektisch isomorphe legierungselemente}
+\end{figure}
+
+Durch die Zugabe von Beta stabilisierenden Legierungselementen wird der Beta-Transus von den bei reinem Titan üblichen 882°C gesenkt und erlaubt es bei größerer Konzentration auch bei niedrigen Temperaturen die Beta-Phase zu stabilisieren. Dabei unterteilen sich die Beta-Stabilisatoren in die Gruppen der isomorphen und der eutektoiden Beta-Stabilisatoren.
+Wichtige Vertreter der isomorphen Beta-Stabilisatoren sind Vanadium, Molybdän, Niob und Tantal. Durch die Zugabe dieser Elemente ist es möglich die Beta-Phase auf Raumtemperatur zu stabilisieren (siehe Abbildung \ref{Beta eutektisch isomorphe legierungselemente}).
+Die Beta-eutektoiden Elemente mit technischer Relevanz sind Eisen, Chrom, und Silizium. Bei Raumtemperatur bilden sie eine Gleichgewichtsphase aus Alpha-Phase und intermetallischen Verbindungen zwischen Titan und dem Legierungselement aus.
+
+\subsection{Diffusion von Legierungselementen}
+Durch die unterschiedliche Löslichkeit der Liegierungselemente in den verschiedenen Kristallgittern der Alpha- beziehungsweise Beta-Phase kommt es im Titan durch Diffusion zum sogenannten ''element partitioning''. Aluminium besitzt eine gute Löslichkeit in der Alpha- wie auch in der Beta-Phase und ist somit eher wenig vom element partioning betroffen.
+Da Beta stabilisierende Elemente eine geringe Löslichkeit in der Alpha-Phase besitzen, haben sie die Eigenschaft bei hohen Temperaturen durch Diffusion in die Beta-Phase der Alpha+Beta-Legierung zu fließen. Dies erlaubt weitreichende Wärmebehandlungen, da die Bildung der $\alpha$2- Phase im Primär-Alpha von der Konzentration von Alpha stabilisierenden Elementen wie auch die Möglichkeit der Martensitbildung von der Konzentration Beta-Stabilisatoren in der metastabilen Beta-Phase abhängt.
+
+
 \section{Intermetallische Verbindungen}
 Titanlegierungen können, wie alle anderen Metalllegierungen, intermetallische Verbindungen bzw. Phasen bilden. Der Gittertyp der Phase passt meist nicht zu den Gittertypen der einzelnen Komponenten \cite[vgl.]{Domke1986}. Abhängig von den Gittertypen und der Größe der intermetallischen Verbindung können kohärente, teilkohärente oder inkohärente Ausscheidungen entstehen. Die Grenzflächenenergie der kohärenten Teilchen ist gering. Sie verzerren das Kristallgitter nur etwas. Wachsen diese zu inkohärenten Teilchen heran, steigt die Grenzflächenenergie und das Kristallgitter wird stärker verzerrt. 
 Bestimmte Titanlegierungen nutzen diese intermetallischen Phasen, um die mechanischen Eigenschaften der Legierung zu verbesseren. Durch eine Ausscheidungshärtung kann die Festigkeit gesteigert werden [vgl. \cite{Luetjering2007}. Reines Titan kann keine intermetallischen Phasen bilden. Ausschlaggebend hierfür sind die Legierungselemete. Diese Phasen lassen sich in Alpha- und Beta-Phasen aufteilen.  
@@ -152,14 +230,6 @@ Allgemein & 800-1100 & 900-1200 & 13-16 \\
 \label{Tabelle Spannungen Gefüge}
 \caption{Werkstoffkennwerte für verscheide Gefüge}
 \end{table}
-\subsection{Bi-Modal}
-Bi-Modal-Gefüge (Duplex-Gefüge) sind durch globularer $\alpha$-Phase und Lamellen aus $\alpha$- und $\beta$-Phase gekennzeichnet. Es resultiert meist aus einer geglühten Probe.  In Abbildung \ref{bimodal} ist ein solches Gefüge zu erkennen. 
-\begin{figure}
-\centering
-\includegraphics[width=0.4\textwidth]{Bilder/Duplexgefuege.PNG}
-\caption[Bi-Modal-Gefüge]{Bi-Modal-Gefüge\cite{Werkstoffdesign2012}}
-\label{bimodal}
-\end{figure}
 
 \chapter{Methodik}
 \section{Intermetallische Verbindung}
@@ -445,7 +515,50 @@ Die die Variation der Phasenanteile einen Einfluss auf die Verteilung der Legier
 Die erzielten Ergebnisse korrelieren mit den Ergebnissen und Daten aus der Literatur. Aufbauend wird das Vollmartensitische Gefüge näher untersucht und eine Alterungsstrategie verfolgt.   
 
 
-\section{Festigkeitssteigerung durch Auslagern des Vollmatensits}
+\section{Festigkeitssteigerung durch Zerfall des Vollmatensits}
+Die Härtemessung nach der ersten Wärmebehandlung lässt den Schluss zu, dass je weniger primär Alphaphase in dem Gefüge enthalten ist, desto härter wird das Gefüge sein also sollte ein rein martensitisches Gefüge die besten Werte bei der Härte aufweisen. 
+Als Grundlage für die Strategie dienen die Quellen \cite{Mur1995} und \cite{Tarin1995}. In beiden Arbeiten wird der Zerfall von einem martensitischem Gefüge behandelt. Die Proben werden in der ersten Wärmebehandlung bei 1050°C lösungsgeglüht und in Wasser abgekühlt um einen reinen $\alpha'$-Martensit einzustellen. Nach diesem Schritt besitzt die Probe eine Härte von 330 HV10. Im zweiten Schritt werden die Proben bei 400°C, 600°C, 700°C und 800°C und zu unterschiedlichen Haltezeiten geglüht um den Martensit in Alpha+Beta-Phase zerfallen zu lassen. 
+
+\begin{figure}
+\centering
+\includegraphics[width=0.5\textwidth]{Bilder/HaerteHaltezeitdiagramm.png}
+\caption[Härte-Haltezeit Diagramm]{Härte-Haltezeit Diagramm für 400°C, 600°C, 700°C und 800°C \cite{Mur1995}}
+\end{figure}
+
+Die Transformation der $\alpha'$-Phase zu ALpha+Beta-Phase ist temperatur- und zeitabhängig. Die beste Härte ergibt sich bei 800°C und einer Haltezeit von bis zu zwei Stunden und liegt bei 410 HV10. Erkennbar ist, dass die Umwandlung von Martensit zu Alpha+Beta unvollständig ist und auch bei einer längeren Haltezeit nicht weiter voranschreitet, weshalb die Härte nach ungefähr 30 Minuten bei 350 HV10 einen Höhepunkt erreicht und bei längeren Zeiten nicht weiter ansteigt. Bei Temperaturen über 600°C schreitet die Transformation weiter voran, was sich auch in den Härtewerten von bis zu 410 HV10 wiederspiegelt. Aus den Quellen lässt sich schließen, dass eine zweistufige Wärmebehandlung aus Lösungsglühen bei 1050°C für 30 Minuten und einem Martensitzerfall bei 800°C für bis zu zwei Stunden eine hohe Härte und Festigkeit aufweisen. Ziel ist es durch die Martensitplatten eine hohe Grenzflächendichte zu erzeugen und im zweiten Schritt diese Platten zu unterteilen, sodass der Martensit durch Zwillinge unterbrochen wird, was in Abbildung \ref{Gefügestruktur zweier Martensit Auslageungen}(b) zu sehen ist, und so die Versetzungsbewegung durch die Martensit-Phase zu stören.
+
+\begin{figure}
+\subfigure[Gefügestruktur einer Probe geglüht bei 400°C für 60min]{\includegraphics[width=0.4\textwidth]{Bilder/Gefuegestruktur4001h.png}}
+\subfigure[Gefügestruktur einer Probe geglüht bei 700°C für 30min]{\includegraphics[width=0.4\textwidth]{Bilder/Gefuegestruktur70030min.png}}
+\caption{Gefüge zweier Martensit-Auslagerungen}
+\label{Gefügestruktur zweier Martensit Auslageungen}
+\end{figure}
+
+Um ein solches Gefüge einzustellen muss zunächst über der Betatransus-Temperatur lösungsgeglüht werden, sodass eine vollständige Umwandlung von Alpha- zu Beta-Phase stattfindet. Bei hohen Glühtemperaturen wird das Kornwachstum zu einem Problem, weshalb die Temperatur nur für eine kurze Zeit gehalten wird und sie sollte so niedrig wie möglich gewählt werden. Auf Grund von unterschiedlichsten Werten der Betatrasus-Temperatur, die in der Literatur bei bis zu 1020°C liegt, werden die Proben bei 1050°C geglüht und im Nachhinein mit Wasser abgeschreckt. Um das Kornwachstum zu steuern betragen die Haltezeiten 10 min und 30 min. 
+Es zeigt sich in der lichtmikroskopischen Untersuchung, dass der Einfluss der Glühzeiten auf das Beta-Kornwachstum sehr gering ist, da die Korngrößen im Martensit bei beiden Proben etwa bei 600 $\mu$m liegen (siehe Abbildung \ref{Korngroessenbestimmung Martensit}). Auch die Härtewerte sind mit 342HV10 (30min) und 346HV10 (10min) ungefähr gleich. 
+
+
+\begin{figure}
+\subfigure[1050°C 30min Wasser abgeschreckt]{\includegraphics[width=0.4\textwidth]{Bilder/Korngroessemartensit.jpg}}
+\subfigure[1050°C 30min Wasser Abgeschreckt]{\includegraphics[width=0.4\textwidth]{Bilder/Korngroessemartensit1.jpg}}
+\caption{Korngrößenbestimmung der ehemaligen Betakörner im Martensit}
+\label{Korngroessenbestimmung Martensit}
+\end{figure}
+
+
+Die Härtesteigerung um ca. 40 HV10 im Vergleich zum Ausgangsgefüge entsteht durch eine erhöhte Grenzflächendichte. Anders als im Eisen, in dem die Zwangslösung von Kohlenstoffatomen in einem tetragonal-raumzentrierten Gitter eine festigkeitssteigernde Wirkung hat, kommt es im martensitischem Titan nur marginal zu Gitterverzerrung durch die Zwangslösung von Vanadium in der Alpha-Phase die keinen Einfluss auf die Festigkeit hat. Entgegen der Erwartungen ist die Härte im Gegensatz zum $\alpha/\alpha'$-Gefüge nicht weiter gestiegen, sondern ist um ca. 10 - 15 HV10 niedriger als die Probe 970°C-1h-WQ. Zu erklären ist das durch die langen Martensitplatten, welche nicht mehr durch Primär-Alpha-Körner unterbrochen werden (siehe Abbildung \ref{Auslagerung des Vollmartensits}).
+Bei den geglühten Proben ergibt die Härtemessung Werte von 325 HV10. Dieses Ergebnis liegt 20 HV10 unter dem reinen Martensitgefüge und 85 HV10 unter der Härte aus den Quellen. Unter dem REM ist zu erkennen, dass sich der Martensit vollständig in die Alpha+Beta-Gleichgewichtsphase umgewandelt hat. 
+
+\begin{figure}
+\subfigure[Probe Vollmartensit]{\includegraphics[width=0.5\textwidth]{Bilder/REMVollmartensit.jpg}}
+\subfigure[Probe Martensitzerfall]{\includegraphics[width=0.5\textwidth]{Bilder/REMVollmartensitzerfall.jpg}}
+\caption{Auslagerung des Vollmartensits}
+\label{Auslagerung des Vollmartensits}
+\end{figure}
+
+
+
+
 \section{Festigkeitssteigerung durch Auslagern von Primäralpha und Martensit}\label{Primäralpha und martensit}
 In zahlreichen vergleichbaren Untersuchungen wurde bereits eine Festigkeitssteigerung durch Auslagerung von $\alpha + \alpha'$-Gefügen festgestellt. Auf Basis dieser Untersuchungen und von Ergebnissen aus vorherigen Behandlungen werden die Parameter für diese Wärmebehandlung gewählt. Ziel dieser Behandlung ist, den metastabilen Martensit in sekundäre Alpha- und Beta-Phase zerfallen zu lassen. Es ergeben sich so größere Festigkeiten und bessere mechanische Eigenschaften \cite{Gilbert2004}. Es konkurrieren jedoch zwei Mechanismen bei einer Alterung des Martensits. Zum einen werden die Nadeln innerhalb des Martensits breiter, sodass eine Abnahme der Härte aufgrund geringerer Grenzflächendichte folgt. Der andere Mechanismus ist der Zerfall des Martensits in feine Alpha- und Betakörner die sich innerhalb des Gefüges bilden. Diese feinen Körner sorgen für eine Festigkeitssteigerung. Es ist also das Ziel, die Vergröberung des Gefüges zu minimieren, während der Zerfall maximiert werden soll. 
 \subsection{1. Wärmebehandlung}

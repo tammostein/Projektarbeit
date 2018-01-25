@@ -20,8 +20,12 @@
 }
 
 \begin{document}
+\pagenumbering{roman}
 \maketitle
+\ \\
 \newpage
+
+
 \chapter*{Eidesstattliche Erklärung}
 
 Wir erklären hiermit an Eides statt, dass wir die vorliegende Projektarbeit ''Gefügeoptimierung einer Fanschaufel aus der Titanlegierung Ti 6Al 4V'' selbstständig verfasst sowie alle
@@ -42,61 +46,85 @@ Braunschweig, den 26.01.2017
 \ \\
 
 (Unterschriften mit Vor- und Zuname) 
+
+\ \\
+\newpage
+\ \\
+
 \tableofcontents
+
+
+
+
+
+\chapter*{Einleitung (Steffen Vodde)}
+\pagenumbering{arabic}
 \addcontentsline{toc}{chapter}{Einleitung}
-\chapter*{Einleitung}
 Titanwerkstoffe gewinnen in der heutigen Zeit zunehmend an Bedeutung. In der Luft- und Raumfahrttechnik sowie der Medizintechnik kann auf die Verwendung von Titanlegierungen nur noch schwer verzichtet werden. Eine geringe Dichte, gute Festigkeitswerte und der Einsatz unter hohen Temperaturen ermöglichen einen vielfältigen Gebrauch dieses Werkstoffes. Insbesondere die Luft-und Raumfahrt profitiert von der Forschung an unterschiedlichen Titanlegierungen. Die Gewichtsersparnis spielt in dieser Thematik eine entscheidende Rolle. Eine Festigkeitssteigerung der verwendeten Titanlegierungen wird angestrebt. Durch diese Steigerung können belastete Bauteile aus Titan geringer dimensioniert werden. Die auftretenden Spannung werden durch einen verringerten Bauteilquerschnitt ertragen und Gewicht wird eingespart. 
   
 Im Folgenden befasst sich auch diese Projektarbeit mit der Festigkeitssteigerung einer Titanlegierung. Die Zugfestigkeit der Legierung Ti 6Al 4V soll durch eine Gefügeoptimierung gesteigert werden. Eingesetzt wird diese Legierung in einer Fanschaufel für Flugzeugtriebwerke. Die notwendigen Grundlagen über die Titanlegierung und deren Wärmebehandlung müssen aus geeigneter Literatur erfasst und angewandt werden. Mehrere Gefügezustände sind einzustellen und zu analysieren. Die mechanischen Eigenschafften der einzelnen Gefüge sollen abgeschätzt und erprobt werden. Die erzielten Ergebnisse sollen umfassend beschrieben und ausgewertet werden. Aufbauend auf diese Ergebnisse gilt es diese Zustände zu optimieren.  
  
 Die Ausarbeitung befasst sich zunächst mit dem Werkstoff Titan. Anschließend wird insbesondere die Legierung Ti 6Al 4V betrachtet. Der Fokus liegt dabei auf den Gefügemerkmalen, den mechanischen Eigenschaften, sowie den Legierungselementen. Ausgehend von den für die Auswertung notwendigen Methoden und Anwendungen werden die einzelnen Wärmebehandlungen und Strategien dargestellt. Die daraus resultierenden Ergebnisse werden vorgestellt und mit der verwendeten Literatur abgeglichen. Aus den Erklärungen der Festigkeitssteigerung gehen abschließend Schlussfolgerungen hervor.
-
-\chapter{Titanwerkstoffe}
+\newpage
+\ \\
+\newpage
+\chapter{Titanwerkstoffe}\label{Kapitel Titanwerkstoffe}
 Dieses Kapitel behandelt die für Titan charakteristischen Eigenschaften. Es wird vorerst auf generelle Eigenschaften eingegangen und dann auf die der Legierung Ti 6Al 4V. Gefügemerkmale, intermetallische Verbindungen und die Eigenschaften der einzelnen Legierungselemente sind Teil dieses Kapitels.
-\section{Gefügemerkmale}\label{Abschnitt Gefügemerkmale}
+\section{Gefügemerkmale (Tammo Stein)}\label{Abschnitt Gefügemerkmale}
 Wie andere Metalle liegt Titan in verschiedenen Gittermodifikationen beziehungsweise Phasenzuständen vor (Allotropie). Der Zustand ist von der Temperatur und den vorliegenden Legierungselementen abhängig. Bei reinem Titan liegt zwischen 1668°C und 882°C ein kubisch raumzentriertes Kristallgitter vor. Diese Phase wird als Beta-Phase ($\beta$-Phase) bezeichnet. Bei 882°C erfährt Titan eine Phasenumwandlung zu einem hexagonalen Gitter. Diese Phasenumwandlungstemperatur wird als Betatransus Temperatur bezeichnet und ist für jede Legierung unterschiedlich, denn die Legierungselemente haben Einfluss auf diese Temperatur \cite{Luetjering2007}.
 
 Das hexagonale Gitter wird als Alpha-Phase ($\alpha$-Phase) bezeichnet. Wenn das Material langsam abgekühlt ist, liegt reines Titan bei Raumtemperatur nahezu vollständig als Alpha-Phase vor. 
 
 Dieses Gitter ist annähernd am dichtesten gepackt. Das Verhältnis in der Zelle ist etwas kleiner, als das in der ideal am dichtesten gepackten Zelle, c/a von Alpha-Titan liegt bei 1.586, wobei c und a die Längen innerhalb einer Zelle sind. Die hexagonal dichteste Packung hat ein Verhältnis von 1.624 \cite{Luetjering2007}. Je nach Aufbau der Zelle sind diese Längen unterschiedlich groß.
 
-Die Phasenumwandlung zwischen Beta- und Alpha-Phase kann auch martensitisch erfolgen. Dabei muss das Material aus einer ausreichend hohen Temperatur abgeschreckt werden. Diese Temperatur wird als Martensitstart-Temperatur bezeichnet. Sie ist wie die Betatransus-Temperatur von den Legierungselementen abhängig.  
+Die Phasenumwandlung zwischen Beta- und Alpha-Phase kann auch martensitisch erfolgen. Dabei muss das Material aus einer ausreichend hohen Temperatur abgeschreckt werden. Diese Temperatur wird als Martensitstart Temperatur bezeichnet. Sie ist wie die Betatransus Temperatur von den Legierungselementen abhängig \cite{Luetjering2007}.
 
 \subsection{Alpha-Phase}
-Die Alpha-Titan Phase ist durch eine hexagonale Gitterstruktur gekennzeichnet. Dadurch entsteht ein anisotropes Werkstoffverhalten in einem Korn beziehungsweise Einkristall.
-Ein Einkristall ist über ein homogenes, einheitliches Kristallgitter definiert.
+Die Alpha-Phase des Titans ist durch eine hexagonale Gitterstruktur gekennzeichnet. Dadurch entsteht ein anisotropes Werkstoffverhalten in einem Korn beziehungsweise Einkristall. In Abbildung \ref{Hexagonale Gitterstruktur} ist das Gitter dargestellt. 
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\textwidth]{Bilder/HexagonalesGitter.jpg}
+\caption{Hexagonale Gitterstruktur \cite{Luetjering2007}}
+\label{Hexagonale Gitterstruktur}
+\end{figure}
+Ein Einkristall ist über ein homogenes, einheitliches Kristallgitter definiert \cite{Luetjering2007}.
 In einem Belastungsfall dieses Einkristalls ist das Werkstoffverhalten abhängig von der Belastungsrichtung im Verhältnis zur Gitterrichtung. Eine Kenngröße, die das elastische Verhalten eines Werkstoffes definiert, ist der Elastizitätsmodul: 
 \begin{equation}
-E=\sigma*\epsilon
+E=\sigma*\epsilon.
 \end{equation}
 Der Elastizitätsmodul ist das Verhältnis zwischen der anliegenden Spannung $\sigma$ und der daraus resultierende Dehnung $\epsilon$.
-Es wird in Pascal angegeben. Das Elastizitätsmodul $E$ reicht je nach Verhältnis von minimal 100 GPa bis maximal 145 GPa. 
+Es wird in Pascal angegeben. Das Elastizitätsmodul $E$ reicht je nach Verhältnis von minimal 100 GPa bis maximal 145 GPa \cite{Luetjering2007}.
 
-Allerdings wird Titan sehr selten als Einkristall hergestellt, sodass die unterschiedliche Kornorientierung dafür sorgt, dass die Anisotropie der einzelnen Körner sich gegenseitig aufhebt. Somit kann von einem isotropen Werkstoffverhalten ausgegangen werden.
+Allerdings wird Titan sehr selten als Einkristall hergestellt, sodass die unterschiedliche Kornorientierung dafür sorgt, dass die Anisotropie der einzelnen Körner sich gegenseitig aufhebt. Somit kann von einem isotropen Werkstoffverhalten ausgegangen werden \cite{Luetjering2007}.
 
-
+\newpage
 \subsection{Beta-Phase}
-Eine Beta-Phase ist ein Gefüge mit einer kubisch raumzentrierten Gitteranordnung. Daraus resultiert ein homogenes Werkstoffverhalten.
+Eine Beta-Phase ist ein Gefüge mit einer kubisch raumzentrierten Gitteranordnung. Daraus resultiert ein isotropisches Werkstoffverhalten \cite{Luetjering2007}. Abbildung \ref{Kubischraumzentriertes Gitter} zeigt ein solches Gitter.
 
-Eine große Menge an Beta-Phase existiert in der Regel bei Raumtemperatur nur unter bestimmten Bedingungen. Sie kann als metastabile Phase auftreten, was bedeutet, dass das Material nicht vollständig den Phasenübergang abschließen konnte und so in dem Zustand aus höheren Temperaturen verblieben ist.  
-
-Durch Zusatz bestimmter Legierungselemente kann die Beta-Phase auch in größeren Mengen vorliegen. Dies wird im Kapitel ''betastabilisierende Legierungselemente'' näher erläutert.
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\textwidth]{Bilder/KubischraumzentriertesGitter.jpg}
+\caption[Kubisch raumzentriertes Gitter]{Kubisch raumzentriertes Gitter \cite{Luetjering2007}}
+\label{Kubischraumzentriertes Gitter}
+\end{figure}
+Eine große Menge an Beta-Phase existiert in der Regel bei Raumtemperatur nur unter bestimmten Bedingungen. Der aus einem diffusionslosen Umklappvorgang entstehende Martensit wird auch als metastabile Beta-Phase bezeichnet. Durch Zusatz bestimmter Legierungselemente kann die Beta-Phase auch stabil in Raumtemperatur vorliegen. Dies wird im Kapitel  \ref{Kapitel Betastabilisierende Legierungselemente} näher erläutert.
 \ \\
-
-Ausgehend von grundlegend verschiedenen Gefügen können diese durch Wärmebehandlung hinsichtlich ihrer mechanischen Eingenschaften optimiert werden. Eine Kombination aus mehreren Gefügeausprägungen können die Vorteile der einzelnen kombinieren. Dazu werden mehrstufige Wärmebehandlungen eingesetzt. Die Proben, die in dieser Arbeit verwendet werden, können nicht mehr rekristallisiert werden, sodass die verbleibenden Wärmebehandlungen auf Parameter wie Korngröße kaum Einfluss nehmen können. Mögliche sind Gefüge somit von dem Ausgangsgefüge abhängig.  
+Ausgehend von grundlegend verschiedenen Gefügen können diese durch Wärmebehandlung hinsichtlich ihrer mechanischen Eingenschaften optimiert werden. Eine Kombination aus mehreren Gefügeausprägungen können die Vorteile der einzelnen kombinieren. Dazu werden mehrstufige Wärmebehandlungen eingesetzt. Die Proben, die in dieser Arbeit verwendet werden, können nicht mehr rekristallisiert werden, sodass die verbleibenden Wärmebehandlungen auf Parameter wie Korngröße kaum Einfluss nehmen können. Mögliche Gefüge sind also von dem Ausgangsgefüge abhängig.  
+\newpage
 \subsection{Lamellar} \label{section Gefüge Lamellar}
 Rein lamellare Gefüge sind unabhängig von dem Ausgangsgefüge einstellbar. Sie entstehen aus einer langsamen Abkühlung aus dem Beta-Gebiet. Während des Abkühlens bilden sich in den Korngrenzen der Beta-Phase Alpha-Bereiche, die in das Beta-Korn hinein wachsen. Die Alphabereiche wachsen erst in eine Richtung bevor sie ihre Dicke erhöhen. Je nach Abkühlgeschwindigkeit entstehen so dünne oder dickere Bereiche. Die Abbildung \ref{lamellar} zeigt ein beispielhaftes Gefüge, indem voll lamellare Strukturen zu sehen sind \cite{Luetjering2007}.
 
 
 \begin{figure}
 	\centering
-		\includegraphics[scale=1]{Bilder/lamellar.jpg}
+		\includegraphics[width=0.5\textwidth]{Bilder/lamellar.jpg}
 		\captionof{figure}[lamellares Gefüge]{Volllamellares Gefüge \cite{Leyens2002}}
 		\label{lamellar}
 		
 \end{figure}
 \subsection{Martensit}
-Der Martensit ist eine metastabile Phase, die unter bestimmten Umständen entstehen kann. Aufgrund von Diffusionsvorgängen während eines Glühvorganges verändert sich der Anteil an Legierungselementen innerhalb einer Phase. Dementsprechend reichert sich die Betaphase mit Beta stabilisierenden Legierungselementen an. Ist diese Anreicherung zu groß, kann eine martensitische Umwandlung der Beta Phase nicht statt finden. Um diese Anreicherung zu regulieren, kann die Temperatur verwendet werden. Für eine Martensitbildung muss die Temperatur oberhalb der Martensitstart Temperatur liegen. Bei dieser wird eine zu große Anreicherung vermieden, da die Betaphase bei steigendem Volumenanteil eine geringere Konzentration an Beta stabilisierenden Legierungslementen besitzt. Die Martensitstart Temperatur sinkt, je höher die Konzentration an Beta stabilisierenden Elemente in der Phase ist, sodass sie unterhalb der Raumtemperatur liegen kann. Dann ist ein Erzeugen des martensitischen Gefüges nicht mehr möglich.
+Der Martensit ist eine metastabile Phase, die unter bestimmten Umständen entstehen kann. Aufgrund von Diffusionsvorgängen während eines Glühvorganges verändert sich der Anteil an Legierungselementen innerhalb einer Phase. Dementsprechend reichert sich die Beta-Phase mit Beta stabilisierenden Legierungselementen an. Ist diese Anreicherung zu groß, kann eine martensitische Umwandlung der Beta-Phase nicht statt finden. Um diese Anreicherung zu regulieren, kann die Temperatur verwendet werden. Für eine Martensitbildung muss die Temperatur oberhalb der Martensitstart Temperatur liegen. Bei dieser wird eine zu große Anreicherung vermieden, da die Beta-Phase bei steigendem Volumenanteil eine geringere Konzentration an Beta stabilisierenden Legierungslementen besitzt. Die Martensitstart Temperatur sinkt, je höher die Konzentration an Beta stabilisierenden Elemente in der Phase ist, sodass sie unterhalb der Raumtemperatur liegen kann. Dann ist ein Erzeugen des martensitischen Gefüges nicht mehr möglich.
 
 Neben der Glühtemperatur ist auch die Abkühlgeschwindigkeit entscheidend. Diffusionsvorgänge, die bei einer langsamen Abkühlung stattfinden, finden bei einer martensitischen Umwandlung nicht statt, da Abkühlgeschwindigkeiten von über 500 K/s durch eine Wasserabschreckung vorherschen. Aufgrund der unterschiedlichen Gitterstrukturen der Alpha- und Beta-Phase kommt es so zu einem scherartigen, diffusionslosen Umklappvorgang von einem kubisch raumzentrierten Gitter zu einem hexagonalen Gitter. Anders als bei Stahl kommt es nur zu einer minimalen Gitterverzerrung, da es keine zwangsgelösten Elemente in der Martensit-Phase gibt, die eine Gitterverzerrung verursachen würden. Die entstehende Verzerrung resultiert ausschließlich aus der Umwandlung des Gitters. Das hexagonale Gitter besitzt eine andere Raumausdehnung als das kubisch raumzentrierte Gitter. Durch den Umklappvorgang wandelt sich das Gitter bei konstantem Volumen. Daraus resultiert eine geringe Verzerrung des Gitters \cite{Luetjering2007}. Das charakteristische Martensit-Gefüge wie in Abbildung \ref{vollmartensit} resultiert aus dem Umwandlungsvorgang. Wie bei lamellaren Strukturen entstehen ausgehend von den ehemaligen Korngrenzen des Beta-Korns Nadeln, die in das Korn hinein wachsen. Im Gegensatz zu lamellaren Gefügen sind die Nadeln im Martensit wesentlich feiner \cite{Luetjering2007}.
 
@@ -109,41 +137,37 @@ Liegt eine bestimmte Konzentration an Beta stabilisierenden Elemente vor, verzer
 \label{vollmartensit}
 \end{figure}
 \subsection{Globular}
-Die globulare Phase besteht aus runden Alpha-Bereichen. Dieses Gefüge resultiert aus einer Rekristallisation. Die Größe der einzelnen Körner ist von der Versetzungsdichte innerhalb des Gefüges vor der Rekristallisation abhängig. Nach einer Rekristallisation ist nur noch eine Zunahme der Korngröße realisierbar. Ausgehend aus diesem Gefüge lassen sich alle anderen Gefüge einstellen. In Abbildung \ref{globular} erkennt man ein solches Gefüge. 
+Die Globulare-Phase besteht aus runden Alpha-Bereichen. Dieses Gefüge resultiert aus einer Rekristallisation. Die Größe der einzelnen Körner ist von der Versetzungsdichte innerhalb des Gefüges vor der Rekristallisation abhängig. Nach einer Rekristallisation ist nur noch eine Zunahme der Korngröße realisierbar. Ausgehend aus diesem Gefüge lassen sich alle relevanten Gefüge einstellen. In Abbildung \ref{globular} erkennt man ein solches Gefüge. 
 \begin{figure} %Globulares Gefüge
-\centering
-\includegraphics[width=0.4\textwidth]{Bilder/Ausgangsgefuege.jpg}
-\caption{Globulares Gefüge}
+\subfigure[Globulares Gefüge]{\includegraphics[width=0.5\textwidth]{Bilder/Ausgangsgefuege.jpg}}
+\subfigure[Bi-Modal-Gefüge \cite{Werkstoffdesign2012}]{\includegraphics[width=0.5\textwidth]{Bilder/Duplexgefuege.PNG}}
+\caption{Globular- und Bi-Modal-Gefüge}
 \label{globular}
+\label{bimodal}
 \end{figure}
 
 \subsection{Bi-Modal}
 Bi-Modal-Gefüge (Duplex-Gefüge) sind durch globulare Alpha-Phase und Lamellen aus Alpha- und Beta-Phase gekennzeichnet. In Abbildung \ref{bimodal} ist ein solches Gefüge zu erkennen. 
-\begin{figure}
-\centering
-\includegraphics[width=0.4\textwidth]{Bilder/Duplexgefuege.PNG}
-\caption[Bi-Modal-Gefüge]{Bi-Modal-Gefüge\cite{Werkstoffdesign2012}}
-\label{bimodal}
-\end{figure}
 
-\section{Legierungselemente}
+
+\section{Legierungselemente (Jonas Veer)}
 Titanwerkstoffe können durch Zugabe von Legierungselementen in ihren Eigenschaften beeinflusst werden. 
 Unterschiedliche Legierungselemente können die Gefügezustände und Umwandlungstemperaturen variieren. 
 \subsection{Neutrale Legierungselemente}
 \begin{figure}
-\subfigure[Einfluss neutraler Elemente auf die Betatransus Temperatur \cite{Luetjering2007}]{\includegraphics[width=0.4\textwidth]{Bilder/Neutralelegierungselemente.png}}
-\subfigure[Titan-Hafnium~ Phasendiagramm \cite{Zwicker1974}]{\includegraphics[width=0.33\textwidth]{Bilder/Titanhafniumphasendiagramm.png}}
+\subfigure[Einfluss neutraler Elemente auf die Betatransus Temperatur \cite{Luetjering2007}]{\includegraphics[width=0.3\textwidth]{Bilder/Neutralelegierungselemente.png}}
+\subfigure[Titan-Hafnium~ Phasendiagramm \cite{Zwicker1974}]{\includegraphics[width=0.3\textwidth]{Bilder/Titanhafniumphasendiagramm.png}}
 \caption{Neutrale Legierungselemente}
 \label{Abbildung neutrale legierungselemente}
 \end{figure}
 
-Zu den neutrale Legierugselementen gehören Zirkonium, Hafnium und Zinn. Sie haben bei niedrigen Konzentrationen keine große Auswirkung auf die Alpha-Beta-Umwandlungstemperatur. Erst bei größeren Konzentrationen zeigt sich ein Einfluss auf die Transformationstemperatur, wie bei Hafnium bei dem die Betatransus-Temperatur zunächst ein Minimum durchläuft um bei sehr großen Konzentrationen wieder zu steigen(siehe Abbildungen \ref{Abbildung neutrale legierungselemente}).
+Zu den neutrale Legierugselementen gehören Zirkonium, Hafnium und Zinn. Sie haben bei niedrigen Konzentrationen keine große Auswirkung auf die Alpha-Beta-Umwandlungstemperatur. Erst bei größeren Konzentrationen zeigt sich ein Einfluss auf die Transformationstemperatur, wie bei Hafnium bei dem die Betatransus Temperatur zunächst ein Minimum durchläuft um bei sehr großen Konzentrationen wieder zu steigen(siehe Abbildungen \ref{Abbildung neutrale legierungselemente}).
 
 \subsection{Alpha stabilisierende Legierungselemente}
 \begin{figure}
 
 
-\includegraphics[width=0.5\textwidth]{Bilder/alphastabilisierendelegierungselemente.png}
+\includegraphics[width=0.3\textwidth]{Bilder/alphastabilisierendelegierungselemente.png}
 
 \caption[Einfluss Alpha stabilisierender Elemente auf die Betatransus Temperatur]{Einfluss Alpha stabilisierender Elemente auf die Betatransus Temperatur \cite{Luetjering2007}}
 \label{Alpha stabilisierende Legierungselemente}
@@ -153,13 +177,13 @@ Alpha stabilisierende Legierungselemente zeichnen sich dadurch aus, dass sie die
 Wichtige Vertreter sind hierbei das Substitutionselement Aluminium und die Einlagerungselemente Sauerstoff, Stickstoff und Kohlenstoff.
 Um die Alpha stabilisierende Wirkung der Legierungselemente auf die Titanlegierung allgemein auszudrücken wurde das Aluminium-Äquivalent entwickelt (Gleichung \ref{aluminiumequivalent} \cite{Luetjering2007}).
 \begin{equation}
-[AL]_{eq}=[AL]+0,17[Zr]+0.33[Zn]+10[O]
+[AL]_{eq}=[AL]+0,17[Zr]+0.33[Zn]+10[O].
 \label{aluminiumequivalent}
 \end{equation}
 
 Es enthält neben Aluminium und Sauerstoff auch die neutralen Elemente Zirkonium und Zinn. Sie haben alleine keinen Einfluss auf die Umwandlungstemperatur, jedoch hat Zirkonium ähnliche chemische Eigenschaften wie Titan und Zinn kann in der intermetallischen Phase Ti$_{3}$Al Aluminium ersetzen.
 
-\subsection{Beta stabilisierende Legierungselemente}
+\subsection{Beta stabilisierende Legierungselemente}\label{Kapitel Betastabilisierende Legierungselemente}
 
 \begin{figure}
 \subfigure[Einfluss auf die Betatransus Temperatur]{\includegraphics[width=0.6\textwidth]{Bilder/BetastabilisierendeLegierungselemente.png}}
@@ -168,14 +192,14 @@ Es enthält neben Aluminium und Sauerstoff auch die neutralen Elemente Zirkonium
 \label{Beta eutektisch isomorphe legierungselemente}
 \end{figure}
 
-Durch die Zugabe von Beta stabilisierenden Legierungselementen wird der Beta-Transus von den bei reinem Titan üblichen 882°C gesenkt und erlaubt es bei größerer Konzentration auch bei niedrigen Temperaturen die Beta-Phase zu stabilisieren. Dabei unterteilen sich die Beta-Stabilisatoren in die Gruppen der isomorphen und der eutektoiden Beta-Stabilisatoren.
+Durch die Zugabe von Beta stabilisierenden Legierungselementen wird die Betatransus Temperatur von den bei reinem Titan üblichen 882°C gesenkt und erlaubt es bei größerer Konzentration auch bei niedrigen Temperaturen die Beta-Phase zu stabilisieren. Dabei unterteilen sich die Beta-Stabilisatoren in die Gruppen der isomorphen und der eutektoiden Beta-Stabilisatoren.
 Wichtige Vertreter der isomorphen Beta-Stabilisatoren sind Vanadium, Molybdän, Niob und Tantal. Durch die Zugabe dieser Elemente ist es möglich die Beta-Phase auf Raumtemperatur zu stabilisieren (siehe Abbildung \ref{Beta eutektisch isomorphe legierungselemente}).
 Die Beta-eutektoiden Elemente mit technischer Relevanz sind Eisen, Chrom, und Silizium. Bei Raumtemperatur bilden sie eine Gleichgewichtsphase aus Alpha-Phase und intermetallischen Verbindungen zwischen Titan und dem Legierungselement aus. Das Molybdenequivalent
 
 \begin{equation}
 \begin{split}
 [Mo]_{eq}=[Mo]+0,2[Ta]+0,28[Nb]+0,4[W]+0,67[V]+1,25[Cr]+ \\
-1,25[Ni]+1,7[Mn]+1,7[Co]+2,5[Fe]
+1,25[Ni]+1,7[Mn]+1,7[Co]+2,5[Fe].
 \end{split}
 \label{Molybdenequivalent}
 \end{equation}
@@ -185,9 +209,9 @@ beschreibt den quantitativen Einfluss der Beta-Stabilisatoren auf die Legierung 
 Durch die unterschiedliche Löslichkeit der Liegierungselemente in den verschiedenen Kristallgittern der Alpha- beziehungsweise Beta-Phase kommt es im Titan durch Diffusion zum sogenannten ''element partitioning''. Aluminium besitzt eine gute Löslichkeit in der Alpha- wie auch in der Beta-Phase und ist somit eher wenig vom element partioning betroffen.
 
 Da Beta stabilisierende Elemente eine geringe Löslichkeit in der Alpha-Phase besitzen, haben sie die Eigenschaft bei hohen Temperaturen durch Diffusion in die Beta-Phase der Alpha+Beta-Legierung zu fließen. Dies erlaubt weitreichende Wärmebehandlungen, da die Bildung der Ti$_{3}$Al-Phase im Primär-Alpha von der Konzentration von Alpha stabilisierenden Elementen wie auch die Möglichkeit der Martensitbildung von der Konzentration der Beta-Stabilisatoren in der metastabilen Beta-Phase abhängt.
+\newpage
 
-
-\section{Intermetallische Verbindungen}
+\section{Intermetallische Verbindungen (Steffen Vodde)}
 Titanlegierungen können, wie alle anderen Metalllegierungen, intermetallische Verbindungen bzw. Phasen bilden. Der Gittertyp der Phase passt meist nicht zu den Gittertypen der einzelnen Komponenten \cite[vgl.]{Domke1986}. Abhängig von den Gittertypen und der Größe der intermetallischen Verbindung können kohärente, teilkohärente oder inkohärente Ausscheidungen entstehen. Die Grenzflächenenergie der kohärenten Teilchen ist gering. Sie verzerren das Kristallgitter nur etwas. Wachsen diese zu inkohärenten Teilchen heran, steigt die Grenzflächenenergie und das Kristallgitter wird stärker verzerrt. 
 Bestimmte Titanlegierungen nutzen diese intermetallischen Phasen, um die mechanischen Eigenschaften der Legierung zu verbesseren. Durch eine Ausscheidungshärtung kann die Festigkeit gesteigert werden \cite{Luetjering2007}. Reines Titan kann keine intermetallischen Phasen bilden. Ausschlaggebend hierfür sind die Legierungselemete. Diese Phasen lassen sich in Alpha- und Beta-Phasen aufteilen.  
  
@@ -203,11 +227,12 @@ Werden noch größere Anteile Aluminium zum Titan legiert, kann sich TiAl ($\gam
 \caption[Titan Aluminium Phasendiagramm]{Titan Aluminium Phasendiagram\cite{Luetjering2007}}
 \label{Titan Aluminium Phasendiagramm}
 \end{figure}
- 
+
+ \newpage
 \subsection{Intermetallische Beta-Phasen}
 Intermetallische Beta-Phasen sind in Titanlegierungen unerwünscht, da sie meist die mechanischen Eigenschaften verschlechtern. Die isomorphen Stabilisatoren, wie Molybdän, Vanadium oder Niob, bilden in gewöhnlichen Legierungen keine intermetallischen Phasen. Ihre Legierungsanteile sind zu gering. Die eutektoiden Stabilisatoren, wie Chrom oder Eisen hingegen, können schon bei geringen Gehalten intermetallische Phasen bilden. TiFe und Ti$_{2}$Cr Phasen sollen in Titanlegierungen nicht entstehen \cite{Luetjering2007}.   
 
-\section{Ti 6Al 4V}\label{Kapitel ti64}
+\section{Ti 6Al 4V (Jannik Hansen)}\label{Kapitel ti64}
 Im Mittelpunkt der Aufgabenstellung dieser Arbeit steht der Werkstoff Titan mit den Legierungszusätzen von sechs Gewichtsprozent Aluminium und vier Gewichtsprozent Vanadium (Ti 6Al 4V). Im Folgenden soll demnach ein wenig näher auf die Eigenschaften dieser Legierung eingegangen werden.  
 \subsection{Legierungselemente und Verwendung}
 Ti 6Al 4V ist die am häufigsten verwendete Titanlegierung weltweit. Sie wurde bereits in den 1950er Jahren entwickelt und zählt zu den am besten erforschten Titanlegierungen \cite{Leyens2002}. Ti 6Al 4V macht etwa 60\% des in Europa und den USA produzierten Titans aus \cite{Sieniawski2013}. Durch seine Legierungselemente Aluminium als Stabilisator der Alpha-Phase und Vanadium als Beta stabilisierendes Element, lässt sich Ti 6Al 4V zu den Alpha + Beta Legierungen zählen. Die genaue Zusammensetzung von Ti 6Al 4V hängt vom Anwendungsbereich und der damit verbundenen Norm ab. Allen gemeinsam liegt aber der Namensgebende Anteil von 6\% Aluminium und 4\% Vanadium zugrunde. Nach DIN EN ISO 5832 sind die in Tabelle \ref{Tabelle Norm Legierungselemente Ti64} aufgeführten Legierungselemente bis zum angegeben Anteil zulässig.
@@ -250,7 +275,7 @@ Ein weiteres mögliches Gefüge stellt das lamellare Gefüge dar. Als lamellare 
 \chapter{Angewandte Methodik und Analyseverfahren}
 
 In diesem Kapitel werden die für die Arbeit relevanten Methoden beschrieben und die benötigten Analyseverfahren erläutert.
-\section{Wärmebehandlung}
+\section{Wärmebehandlung (Tammo Stein)}
 
 Die Wärmebehandlung nach der Rekristallisation ist die letzte Methode, um das Gefüge des Titans einzustellen. Hierbei kommt es auf Parameter wie Temperatur, Haltezeit und Abkühlmethode an. Um die bereits erwähnten Gefüge zu realisieren, ist eine spezifische Abfolge von einer beziehungsweise mehreren Stufen einer Wärmebehandlung nötig. Die grundlegenden Behandlungen werden in diesem Kapitel behandelt, die speziellen, mehrstufigen, soweit für das Projekt relevanten, im dritten.
 \subsection{Temperaturkontrolle}
@@ -265,7 +290,7 @@ Da der Ofen nicht überaus schnell abkühlen kann, wird zur schnelleren Abkühlu
 Um noch schnellere Abkühlungen zu realisieren, wird Wasser oder Öl verwendet. So werden zum Beispiel Abkühlgeschwindigkeiten für eine Martensitbildung ermöglicht.
 
 
-\section{Anpassung der Gefüge durch Wärmebehandlung}
+\section{Anpassung der Gefüge durch Wärmebehandlung (Tammo Stein)}
 \begin{figure}
 	\centering
 	\includegraphics[width=0.5\textwidth]{Bilder/Phasendiagram.PNG}
@@ -287,12 +312,12 @@ Martensit entsteht mit Glühtemperaturen höher als die Martensitstart  Temperat
 Diese Strukturen bestehen aus einer Kombination von Primär-Alpha und lamellaren Strukturen aus Alpha und Beta in den ehemaligen Betakörnern. Dies lässt sich durch eine Wärmebehandlung einstellen, in der die Glühungstemperatur unterhalb der Betatransus-Temperatur liegt. Die Temperatur entscheidet über die Ausprägung der primären Alphakörner. Aus dem Phasendiagramm aus Abbildung \ref{Phasendiagram} erklärt sich, dass, je höher die Glühungstemperatur ist, desto geringer ist der primäralpha-Gehalt in dem resultierenden Gefüge. Die Abkühlgeschwindigkeit entscheidet über die Breite der während des Abkühlvorgangs entstehenden Lamellen \cite{Luetjering2007}.
 
 \subsection{Globular}
-Wie in Kapitel ''Titanwerkstoffe'' bereits erwähnt, lässt sich ein globulares Gefüge nur durch eine Rekristallisierung ermöglichen. Es ist hierbei wichtig, dass die Glühtempteratur gering und die Haltezeit kurzgehalten werden, um ein Kornwachstum zu verhindern \cite{Luetjering2007}.
+Wie in Kapitel \ref{Kapitel Titanwerkstoffe} bereits erwähnt, lässt sich ein globulares Gefüge nur durch eine Rekristallisierung ermöglichen. Es ist hierbei wichtig, dass die Glühtempteratur gering und die Haltezeit kurzgehalten werden, um ein Kornwachstum zu verhindern \cite{Luetjering2007}.
 
 
 
 \section{Auswertung der Proben}
-\subsection{Probenpräparation}\label{Kapitel Probenpräperation}
+\subsection{Probenpräparation (Jannik Hansen)}\label{Kapitel Probenpräperation}
 Im Folgenden wird auf die Probenpräparation im Anschluss an die Wärmebehandlung im Ofen eingegangen. Ziel der Präparation ist das Erhalten einer geeignete Oberfläche für die Auswertungsverfahren. 
 
 \subsubsection{Trennen}
@@ -318,19 +343,19 @@ Im Gegensatz zu einigen anderen Werkstoffen wie zum Beispiel Stahl, kann bei Tit
 \subsubsection{Ätzen}
 Das Ätzen erfolgt mithilfe eines Ätzmediums nach Kroll (3 ml HF, 6 ml HNO$_{3}$, 100 ml H$_{2}$O). Da die Lösung Flusssäure enthält ist dieser Schritt von geeignetem Personal durchzuführen. Die Probe verbleibt im Falle von Gefügen mit Alpha- und Beta-Phasenanteilen für sechs Sekunden im Ätzmedium und wird anschließend unter Wasser abgewaschen. Bei Proben mit rein martensitischen Gefügen wurde der Verbleib im Ätzmedium auf zehn Sekunden ausgedehnt um bei der späteren Mikroskopie bessere Kontraste zwischen den einzelnen Martensitplatten zu erhalten.
 
-\subsection{Lichtoptische Analyse}
+\subsection{Lichtoptische Analyse (Jonas Veer)}
 
 Um herauszufinden, ob die Wärmebehandlung ein Erfolg war, ist der erste Schritt die lichtoptische Analyse der Probenoberfläche am Auflichtmikroskop. Im Labor des IfW steht ein Zeiss Axio Imager 2 zur Verfügung. Das Licht wird aus dem Lichthaus heraus auf einen halbdurchlässigen Spiegel, welcher in einen 45° Winkel befestigt ist, geleuchtet. Von hier aus wird es durch einen Bereich, indem verschiedene Filter eingesetzt werden können, nach unten aus dem auf den Objekttisch reflektiert. Von der Probe wird es zurück in das Objektiv zurückgestrahlt. Hier durchläuft es den halbdurchlässigen Spiegel und wird in das Auge des Betrachters projiziert. 
 Zusätzlich verfügt das Mikroskop die Möglichkeit das gesehene Bild mit einer Kamera aufzunehmen und so weitere Bildanalysen durchzuführen. 
 Um Martensit in der lichtoptischen Analyse sichtbar zu machen wird ein Polarisationsfilter in das Mikroskop eingesetzt. Dieser Filter polarisiert das Licht linear. Das polarisierte Licht wird auf die Probenoberfläche geführt an welcher es dann reflektiert wird. Hierbei erfährt es einen strukturabhängigen Gangunterschied, welcher sich auf dem Bild als unterschiedliche Graustufen bemerkbar macht.
 
-\subsection{Auszählverfahren} \label{Kapitel Auszählverfahren}
+\subsection{Auszählverfahren (Steffen Vodde)} \label{Kapitel Auszählverfahren}
 Das Auszählverfahren ist ein manuelles Hilfsmittel um die Phasenanteile von Gefügen zu ermitteln. Metalllegierungen, wie auch Titan, können unterschiedliche Gefüge mit mehreren Phasen ausbilden. Deren Anteile können mit diesem Verfahren bestimmt werden.
 
 Das zu analysierende Gefüge wird mit einem Mikroskop abgebildet. Fünf zufällig ausgewählte Bildbereiche werden ausgedruckt und mit einem gleichmäßigen Raster versehen. Die Abbildung \ref{Raster für das Auszählverfahren} zeigt ein beispielhaftes Raster.
 \begin{figure} %Raster für das Auszählverfahen
 \centering
-\includegraphics[width=0.5\textwidth]{Bilder/Raster.png}
+\includegraphics[width=0.4\textwidth]{Bilder/Raster.png}
 \caption{Raster für das Auszählverfahren}
 \label{Raster für das Auszählverfahren}
 \end{figure}
@@ -338,7 +363,7 @@ Das zu analysierende Gefüge wird mit einem Mikroskop abgebildet. Fünf zufälli
 Für eine gleichmäßige Verteilung der Phasen reichen die äußeren Ringe der Felder. Liegen die Anteile allerdings bei wenigen Prozent müssen alle Kreuze berücksichtigt werden. 
 Anschließend erfolgt das Auszählen. Die Kreuze die auf der Phase liegen, die bestimmt werden soll, werden mit '1' gezählt. Liegen die Kreuze an einer Phasengrenze, werden sie mit '0,5' gezählt. Berühren die Kreuze die Phase nicht werden sie mit '0' gezählt. Alle Werte werden aufsummiert und durch die Anzahl aller gezählten Kreuze geteilt. Das Ergebnis ist der Phasenanteil. Dieses Verfahren wird an fünf unterschiedlichen Bildbereichen durchgeführt und der Mittelwert gebildet.
 
-\subsection{Rasterelektronenmikroskopie}\label{Kapitel Rasterelektrodenmikroskopie}
+\subsection{Rasterelektronenmikroskopie (Steffen Vodde)}\label{Kapitel Rasterelektrodenmikroskopie}
 Das Rasterelektronenmikroskop (REM) bietet eine bessere Auflösung und eine stärkere Vergrößerung als das Auflichtmikroskop. Es können Vergrößerungen von bis 100000 x erreicht werden. Die Auflösung liegt bei wenigen Nanometern. Durch eingebaute Detektoren am REM können bestimmte analytische Methoden zusätzlich durchgeführt werden. Eine genauere Gefügebeurteilung ist dadurch möglich.  
 
 Die Funktionsweise wird im Folgenden kurz erläutert. Ein Wolframdraht oder ein Lanthanhexaborideinkristall (LaB$_{6}$) dient als Elektronenquelle. Die Elektronen werden emittiert und mittels Beschleunigungsspannung in Richtung Anode abgelenkt. Je nach Auflösung kann die Spannung zwischen 200V und 50kV variieren. Elektromagnetische Linsen bündeln die Elektronen in einem Strahl und lenken ihn auf die Probe. Mit einer Anblenkspule kann der Strahl über die Probe geführt werden (siehe Abbildung \ref{REM Aufbau}).  
@@ -357,7 +382,7 @@ Die SE und RE dienen nun der Bilderzeugung. Die Elektronen werden mit jeweils un
 
 Gute Bildergebnisse können nur durch eine sorgfältige Probepräparation entstehen. Die Oberflächen müssen sauber sein. Die Proben sollten vor der Analyse im Ultraschallbad gereinigt werden.  Zudem muss die gesamte Probe elektrisch leiten. Eingebettete Proben können nicht verwendet werden. Der Kunststoff nimmt die Elektronen auf und würde den Elektronenstrahl ablenken. Alternativ kann eine leitende Gold oder Silberschicht aufgebracht werden.   
 
-\subsection{Energiedisperive Röntgenspektroskopie}\label{Kapitel EDX}
+\subsection{Energiedisperive Röntgenspektroskopie (Steffen Vodde)}\label{Kapitel EDX}
 
 Die Energiedisperive Röntgenspektroskopie (EDX) wird vor allem in der Werkstoff- und Materialtechnik eingesetzt. Die EDX ermöglicht die Elementverteilung in der Oberfläche von unterschiedlichen Materialien  darzustellen. Die Elementverteilung in bestimmten Gefügebereichen kann so visualisiert werden (z.B. element partitioning).
 Wird ein Elektronenstrahl auf eine Probenoberfläche beschleunigt (siehe Kapitel \ref{Kapitel Rasterelektrodenmikroskopie}), entsteht die charakteristische Röntgenstrahlung. Je nach Element besitzt diese Strahlung eine bestimmte Energie. Die Formel
@@ -392,12 +417,12 @@ Jeder Ausschlag im Röntgenspektrum muss eindeutig zugeordnet werden, um eine qu
 
 
 
-\subsection{Härteprüfverfahren nach Vickers (DIN EN ISO 6507-1)} \label{Kapitel Härte}
+\subsection{Härteprüfverfahren nach Vickers (DIN EN ISO 6507-1) (Jannik Hansen)} \label{Kapitel Härte}
 Die im Rahmen dieser Arbeit durchgeführten Härteprüfungen erfolgen alle nach dem Verfahren nach Vickers. Das Verfahren nach Vickers eignet sich besonders für Laborprüfungen, da mit ihm sowohl niedrige als auch hohe Härten ermittelt werden können. Um den Härtewert einer Probe zu ermitteln wird ein LECO LV 100AT verwendet. Der Härtewert einer Probe wird durch die Auswertung von fünf Eindrücken ermittelt. Die Eindrücke werden dabei auf einer Geraden gleichmäßig auf der Probe verteilt. Dabei ist darauf zu achten ausreichend Abstand zum Rand zu lassen, damit Randeinflüsse vermieden werden. Der Abstand von Rand und zwischen den Eindrücken ist genormt.
 Erzeugt werden die Eindrücke unter einer Prüfkraft von 10 Kilopond was etwa 98,1 Newton entspricht. Die Prüfdauer beträgt nach Norm 15 Sekunden. An den ermittelten Härtewert wird die Prüfkraft HV10 angehängt. Der Härtewert ergibt sich als Quotient der aufgebrachten Prüfkraft $F$ und dem Mittelwert der Diagonalen $d$ des quadratischen Prüfeindrucks nach Formel \ref{Vickershärte formel}.
 
 \begin{equation}
-HV = \frac{ 0.102 F * 1.8544 }{ d^{ 2 } }
+HV = \frac{ 0.102 F * 1.8544 }{ d^{ 2 } }.
 \label{Vickershärte formel}
 \end{equation}
 
@@ -428,7 +453,7 @@ Weiter soll der Zusammenhang zwischen Dehngrenze und Zugfestigkeit wie folgt dar
 \end{equation}
 
 Die Autoren beziehen sich in ihrer Arbeit jedoch auf elektronenstrahlgeschweißte Wertstücke \cite{Shi2013}.
-\subsection{Zugversuch (DIN EN ISO 6892-1 Teil B)}
+\subsection{Zugversuch (DIN EN ISO 6892-1 Teil B) (Tammo Stein)}
 \label{Kapitel Zugversuch}
 Bei einem Zugversuch werden Proben bis zum Bruch gedehnt und dabei Werkstoffkennwerte bestimmt. Die Kennwerte sind unter anderem  Elastizitätsmodul, Elastizitätsgrenze, Zugfestigkeit und Bruchdehnung. Unter diesen Kennwerten ist für die Anforderung der Arbeit die Zugfestigkeit interessant, da diese über eine Wärmebehandlung optimiert werden soll. Sie ist die größte zu ertragene Spannung bevor sich das Bauteil einschnürt beziehungsweise reißt. Der Zugversuch wird mit einer Universalprüfmaschine der Firma Zwick Roell nach der Norm DIN EN ISO 6892-1 Teil B durchgeführt. Dabei werden die Zugproben nach DIN 50125-B5x25 angefertigt. Nach der Norm des Zugversuches wird die Spannungsgeschwindigkeit abhängig von dem Elastizitätsmodul des Werkstoffs gewählt. Da Titan ein E-Modul kleiner 150000 $MPa$ besitzt, wird eine Spannungsgeschwindigkeit zwischen 2 und 20 $MPa$~ $s^{-1}$ gewählt. Diese Spannungsgeschwindigkeit wird während der Bestimmung der Dehngrenze verwendet. Danach wird eine Dehngeschwindigkeit von maximal $0,008$ $s^{-1}$ zur weiteren Messung gewählt. Form B der Zugproben sind nach Norm Rundproben mit Gewinde. Der Zusatz ''5x25'' beschreibt die Maße der Probe. Fünf Millimeter im Probendurchmesser und 25 Millimeter in der Anfangsmesslänge.
 
@@ -444,14 +469,14 @@ Die vorliegende Titanlegierung Ti 6Al 4V besitzt ein globulares Ausgangsgefüge,
 \label{ausgangsgefüge Kapitel3}
 \end{figure}
 
-\section{Festigkeitssteigerung durch Martensitbildung}\label{Festigkeitssteigerung durch Martensitbildung}
+\section{Festigkeitssteigerung durch Martensitbildung (Steffen Vodde)}\label{Festigkeitssteigerung durch Martensitbildung}
 Die Literaturrecherchen zeigen, dass sich die mechanischen Eigenschaften der Titanlegierung durch unterschiedliche Gefügestrukturen beeinflussen lassen. Das erste angestrebte Gefüge besteht aus primär Alpha ($\alpha$) und Martensit ($\alpha'$). Ausgehend von diesem Gefüge beeinflusst eine anschließende Alterung die mechanischen Eigenschaften. Ein  Verhältnis aus hoher Festigkeit und guter Duktilität kann so eingestellt werden \cite{Gilbert1990}. Der erste Schritt dieser zweistufigen Wärmebehandlung ist das Einstellen eines Gefüges aus primärer Alpha- und Martensit-Phase.
  
 Einen großen Einfluss auf die mechanischen Eigenschaften hat hierbei die Alpha-Phase. Der Volumenanteil und die Größe der Alpha-Körner beeinflussen diese Eigenschaften und die Verteilung der Legierungselemente, die damit Auswirkungen auf die spätere Alterung des Gefüges haben. Der Anteil ist dabei abhängig von der gewählten Glühtemperatur. In der Quelle \cite{Sahoo2015} wird die Variation der Alpha-Phase in einem Bi-Modal-Gefüge durch unterschiedliche Glühtemperaturen dargestellt. Mit abnehmendem Alpha-Anteil wird die Härte gesteigert und die Elementverteilung gesteuert. Die hier angewandte Methodik wird auf das gewünschte Martensit-Gefüge übertragen.
 Mit einer Wärmebehandlung im Zweiphasengebiet (Alpha + Beta) und anschließendem Wasserabschrecken der Proben, wird das gewünschte Gefüge erzeugt. Bei steigender Glühtemperatur sinkt der Anteil der Alpha-Phase bis die Betatransus Temperatur erreicht und keine Alpha Phase mehr vorhanden ist (siehe Abbildung \ref{Phasendiagram}).  Durch das Abschrecken wird dieser Zustand eingefroren und die Beta-Phase wandelt diffusionslos in den Martensit um. Drei Proben werden bei unterschiedlichen Glühtemperaturen knapp unterhalb Betatransus geglüht und anschließend abgeschreckt.
 
 
-\subsection{Abhängigkeit des Primär Alpha Anteils von der Glühtemperatur}
+\subsection{Abhängigkeit des Primär-Alpha-Anteils von der Glühtemperatur}
 Der Alpha-Anteil wird durch die unterschiedlichen Glühtemperaturen im Zweiphasen Gebiet eingestellt. Dazu wurden drei Proben bei jeweils 950°C, 960°C und 970°C für eine Stunde im Ofen geglüht und anschließend im Wasser abgeschreckt. Nach der Probenpräparation (siehe Kapitel \ref{Kapitel Probenpräperation}) folgt die metallografische Untersuchung. Die Abbildung \ref{Alle Glühen} zeigt die lichtmikroskopischen Aufnahmen. Die durchgeführte Wärmebehandlung erzeugt das gewünschte Gefüge. Primär Alpha-Körner liegen in einer Matrix aus Martensit. Die Alpha-Körner wurden durch das Abschrecken eingefroren. Die Beta-Phase ist komplett in den Martensit umgeklappt. In den Abbildungen sind die unterschiedlichen Alpha-Anteile klar zu erkennen. Mit steigender Glühtemperatur nimmt, wie erwartet, der Anteil ab. 
 
 Die genauen Phasenanteile sind mittels Auszählverfahren (siehe Kapitel \ref{Kapitel Auszählverfahren}) bestimmt worden. Aus der Tabelle \ref{Härte in Abhängigkeit der Glühtemperatur} wird ersichtlich, dass bei einer Glühtemperatur von 950°C circa 20\% Alpha-Phase vorliegt. Dieser Anteil sinkt auf circa 6\% bei einer Temperatur von 970°C. Unter dem Auflichtmikroskop sind diese geringen Anteile nur noch schwer zu erkennen.  
@@ -522,7 +547,7 @@ Die Variation der Phasenanteile hat einen Einfluss auf die Verteilung der Legier
 Die erzielten Ergebnisse korrelieren mit den Ergebnissen und Daten aus der Literatur. Aufbauend wird das Vollmartensitische Gefüge näher untersucht und eine Alterungsstrategie verfolgt.   
 
 
-\section{Festigkeitssteigerung durch Bildung und Zerfall des Vollmatensits}\label{Kapitel Bildung und Zerfall des Vollmartensits}
+\section{Festigkeitssteigerung durch Bildung und Zerfall des Vollmatensits (Jonas Veer)}\label{Kapitel Bildung und Zerfall des Vollmartensits}
 Die Ergebnisse der ersten Wärmebehandlung zeigen, dass mit sinkendem Primär Alpha-Anteil die Härte steigt. Also sollte ein rein martensitisches Gefüge höhere Härtewerte aufweisen. 
 Als Grundlage für die Strategie dienen die Quellen \cite{Mur1995} und \cite{Tarin1995}. In beiden Arbeiten wird ein vollmartensitisches-Gefüge erzeugt und anschließend der Zerfall von einem martensitischem Gefüge behandelt. Die Proben werden in der ersten Wärmebehandlung bei 1050°C geglüht und in Wasser abgekühlt um einen reinen Martensit einzustellen. Nach diesem Schritt besitzt die Probe eine Härte von 330 HV10. Im zweiten Schritt werden die Proben bei 400°C, 600°C, 700°C und 800°C und zu unterschiedlichen Haltezeiten geglüht um den Martensit in Alpha und Beta-Phase zerfallen zu lassen. 
 
@@ -578,11 +603,8 @@ Bei den geglühten Proben ergibt die Härtemessung Werte von 325 HV10. Dieses Er
 
 
 
-\section{Festigkeitssteigerung durch Auslagern von Primäralpha und Martensit}\label{Primäralpha und martensit}
+\section{Festigkeitssteigerung durch Auslagern von Primäralpha und Martensit (Tammo Stein)}\label{Primäralpha und martensit}
 In zahlreichen vergleichbaren Untersuchungen wurde bereits eine Festigkeitssteigerung durch Auslagerung von primär Alpha-Martensit-Gefügen festgestellt. Auf Basis dieser Untersuchungen und von Ergebnissen der Wärmebehandlung aus Kapitel \ref{Festigkeitssteigerung durch Martensitbildung} werden die Parameter für diese Wärmebehandlung gewählt. Ziel dieser Behandlung ist, den metastabilen Martensit in sekundäre Alpha- und Beta-Phase zerfallen zu lassen. Die so entstehenen kleinen Bereiche sollen die mechanischen Eigenschaften beeinflussen und die Festigkeit erhöhen\cite{Gilbert2004}. Es konkurrieren jedoch zwei Mechanismen bei einer Alterung des Martensits. 
-
-
-
 
 Zum einen werden die Nadeln innerhalb des Martensits breiter, sodass eine Abnahme der Härte aufgrund geringerer Grenzflächendichte folgt. Der andere Mechanismus ist der Zerfall des Martensits in feine Alpha- und Betakörner die sich innerhalb des Gefüges bilden. Diese feinen Körner sorgen für eine Festigkeitssteigerung. Es ist also das Ziel, die Vergröberung des Gefüges zu minimieren, während der Zerfall maximiert werden soll. 
 \subsection{1. Wärmebehandlerung: Auslagerung mit dem Ziel eines zerfallenen Martensit}
@@ -825,7 +847,7 @@ Std.-abw.	&	0.803 \\
 \label{REM 950C 24h}
 \end{figure}
 
-\section{Ermittlung der Zugfestigkeit}
+\section{Ermittlung der Zugfestigkeit (Jannik Hansen)}
 
 Für die Ermittlung der Zugfestigkeit wurden drei Gefügezustände ausgewählt. Die Zugversuche werden jeweils an zwei Proben durchgeführt und die gemittelte Zugfestigkeit des Gefüges zu bestimmen (siehe  \ref{Kapitel Zugversuch}). Ausgewählt wurden die Gefüge, mit der höchsten Härte. Das ist zum Einen das bei 970°C geglühte Primär Alpha-Martensit-Gefüge (Proben 4 und 5) und zum Anderen das für 24 Stunden gealtert,bei 950°C geglühte Primär Alpha-Martensit-Gefüge (Proben 6 und 7). Als drittes wurde ein vollmartensitisches Gefüge mit geringerer Härte geprüft (Proben 2 und 3). Zum Vergleich wird das Ausgangsgefüge gezogen (Probe 1).
 \subsection*{Erwartungen}
@@ -855,7 +877,7 @@ Abbildung \ref{Spannungs Dehnungskurven} zeigt die während der Zugversuche aufg
 In diesem Kapitel werden die erzielten Ergebnisse näher erläutert. Es wird auf die Mechanismen die in den  einzelnen Wärmebehandlungen ablaufen eingegangen.
 
 In jedem der Ansätze ging es um Festigkeitssteigerung durch eine erhöhte Grenzflächendichte. Diese wird durch ein feines Gefüge erzeugt. Die Versetzungen können bei einer großen Grenzflächendichte nur unter hohem Energieaufwand durch das Bauteil wandern. 
-\section{Härtesteigerung durch das Primär Alpha-Martensit-Gefüge}\label{Kapitel einfluss des Primäralphaanteils}
+\section{Härtesteigerung durch das Primär-Alpha-Martensit-Gefüge (Jannik Hansen)}\label{Kapitel einfluss des Primäralphaanteils}
 Die in Kapitel \ref{Kapitel Abhängigkeit der Härte vom Primäralphaanteil} beschriebenen Ergebnisse der ersten Wärmebehandlung sollen nun diskutiert werden. Hierbei handelt es sich um ein Gefüge aus Primär Alpha und Martensit. Der Primär Alpha-Anteil sinkt mit steigender Glühtemperatur. Mit abnehmendem Primär Alpha-Anteil steigt die Härte.
 
 
@@ -875,7 +897,7 @@ Durch die erhöhte Grenzflächendichte werden die Versetzungsbewegungen am Voran
 
 
 
-\section{Abnahme der Zugfestigkeit des Vollmartensites gegenüber dem $\alpha-\alpha'$-Gefüge}
+\section{Abnahme der Zugfestigkeit des Vollmartensites gegenüber dem Primär-Alpha-Martensit-Gefüge (Jannik Hansen)}
 In Kapitel \ref{Kapitel Abhängigkeit der Härte vom Primäralphaanteil} wurde festgestellt, dass die ermittelte Härte mit sinkendem Primär Alpha-Anteil steigt. In Kapitel \ref{Kapitel einfluss des Primäralphaanteils} wurde die Härtesteigerung auf eine erhöhte Grenzflächendichte zurückgeführt. Demnach sind die in der Martensit-Matrix fein verteilten Martensit-Nadeln für die höhere Härte verantwortlich.
 Es sollte somit ein vollmartensitisches Gefüge höhere Härtewerte besitzen.
 Die Ergebnisse der Härteprüfung für ein vollmartensitisches Gefüge  widerlegen diese Aussage (siehe Kapitel \ref{Kapitel Bildung und Zerfall des Vollmartensits}). Die Härte ist im Verhältnis zum Gefüge mit einem geringen Alpha-Anteil um circa 10 HV10 gesunken. Gleichzeitig liegt die Härte auf dem Niveau der bei 950°C geglühten und wasserabgeschreckten Probe. Einen Überblick gibt Tabelle \ref{Tabelle Mittelwerte Härte für verschiedene Proben}.
@@ -902,7 +924,7 @@ Die Martensit-Nadeln im vollmartensitischen Gefüge sind länger als die in dem 
 Abbildung \ref{Vollmartensit neben 960} zeigt links eine oberhalb der Betatransus Temperatur geglühte und abgeschreckte Probe. Im Vergleich zur rechten Abbildung ist die deutlich gröbere Martensit-Matrix zu erkennen. Für die Länge des Martensit ist die Dauer und Temperatur des Glühens ausschlaggebend. Die maximale Länge der Martensit-Nadeln ist die eines ehemaligen Beta-Korns. Beim glühen oberhalb der Betatransus Temperatur ergibt sich nun folgende Schwierigkeit: Einerseits wird eine Temperatur oberhalb von Beta-Transus und ausreichend Zeit benötigt, um das gesamte Gefüge in die Beta-Phase umzuwandeln. Andererseits dürfen Temperatur und Haltezeit nicht zu hoch gewählt werden um das Wachstum der Beta-Körner zu minimieren. Die Temperatur hat einen größeren Einfluss auf die Diffusionsvorgänge und damit das Wachstum der Beta-Körner. [Mk2] Daher ist eine genaue Kenntnis der Beta-Transus-Temperatur des vorliegenden Materials für das Einstellen möglichst kleiner Beta-Körner notwendig.
 Im Verlauf dieser Arbeit konnte die genaue Beta-Transus-Temperatur des Materials nicht bestimmt werden, weshalb für die rein martensitischen Proben Beta-Transus mit 1000°C angenommen wurde. Ein Lösungsglühen bei 50°C oberhalb Beta-Transus sollte die vollständige Umwandlung der Alpha-Phase bewirken. Vermuten lässt sich, dass die tatsächliche Beta-Transus-Temperatur unterhalb von 1000°C liegt. Eine Wärmebehandlung bei geringerer Temperatur als 1050°C wäre folglich ausreichend gewesen das Phasengemisch in Beta-Phase umzuwandeln. Daraus hätte demnach ein feiner verteilter Martensit erzeugt werden können. 
 
-\section{Alterung des Martensits}
+\section{Alterung des Martensits aus dem Primär-Alpha-Martensit-Gefüges (Tammo Stein)}
 In der in Abschnitt \ref{Festigkeitssteigerung durch Martensitbildung} behandelten Wärmebehandlung ging es um den Zerfall des Martensits im Primär Alpha-Martensit-Gefüge. Dieser sollte in möglichst kleine Bereiche von Alpha- und Beta-Phase zerfallen. Nur so kann die Grenzflächendichte gegenüber dem Martensit erhöht werden. Der kritische Faktor war hierbei, inwiefern der Martensit zerfällt, während die Vergröberung als festigkeitsverringernder Prozess parallel abläuft. Ziel war es, diese konkurrierenden Prozesse so zu steuern, dass ein maximaler Festigkeitsgewinn entsteht. 
 
 Ausgehend von den Ergebnissen der ersten Wärmebehandlung wurde festgestellt, dass ein niedriger Primäralpha-Anteil für eine Festigkeitssteigerung sorgt. Es würde also Sinn ergeben, mit dem geringsten Alpha-Anteil enthaltenen Gefüge die Alterung durchzuführen, um eine noch Höhere Härte zu erzielen. Wie bereits erwähnt entscheidet jedoch die Konzentration an Beta stabilisierenden Elementen in der Martensit-Phase ob ein festigkeitssteigernden Zerfall statt findet. In dem Gefüge mit wenig Primäralpha ist die Konzentration an Beta stabilisierenden Elementen auf Grund des großen Volummenanteils der Beta-Phase geringer als in Gefügen mit viel Primär-Alpha-Anteil. Dies lässt darauf schließen, dass eine Auslagerung von Proben mit einer geringeren Glühtemperatur zu einer größeren Festigkeitssteigerung führt. Die Ergebnisse der Härteprüfungen zeigen genau den Fall. Proben mit einer Glühtemperatur von 970°C haben keine Festigkeitssteigerung erfahren, während die Proben mit einer Glühtemperatur von 950°C deutliche Festigkeitssteigerungen zeigen. So wird die am Anfang aufgestellte These bestätigt, dass für höhere Konzentrationen an Beta stabilisierenden Elementen eine Festigkeitssteigerung bei einer Alterung resultiert. 

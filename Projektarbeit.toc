@@ -1,64 +1,64 @@
 \select@language {ngerman}
-\contentsline {chapter}{Einleitung}{4}{chapter*.2}
-\contentsline {chapter}{\numberline {1}Titanwerkstoffe}{6}{chapter.1}
-\contentsline {section}{\numberline {1.1}Gef\IeC {\"u}gemerkmale}{6}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Alpha-Phase}{6}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Beta-Phase}{7}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Lamellar}{7}{subsection.1.1.3}
-\contentsline {subsection}{\numberline {1.1.4}Martensit}{8}{subsection.1.1.4}
-\contentsline {subsection}{\numberline {1.1.5}Globular}{9}{subsection.1.1.5}
-\contentsline {subsection}{\numberline {1.1.6}Bi-Modal}{9}{subsection.1.1.6}
-\contentsline {section}{\numberline {1.2}Legierungselemente}{9}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Neutrale Legierungselemente}{9}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Alpha stabilisierende Legierungselemente}{10}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Beta stabilisierende Legierungselemente}{12}{subsection.1.2.3}
-\contentsline {subsection}{\numberline {1.2.4}Diffusion von Legierungselementen}{12}{subsection.1.2.4}
-\contentsline {section}{\numberline {1.3}Intermetallische Verbindungen}{12}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Intermetallische Alpha-Phase}{13}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Intermetallische Beta-Phasen}{13}{subsection.1.3.2}
-\contentsline {section}{\numberline {1.4}Ti 6Al 4V}{13}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Legierungselemente und Verwendung}{14}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Mechanische Eigenschaften}{14}{subsection.1.4.2}
-\contentsline {chapter}{\numberline {2}Angewandte Methodik und Analyseverfahren}{16}{chapter.2}
-\contentsline {section}{\numberline {2.1}W\IeC {\"a}rmebehandlung}{16}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Temperaturkontrolle}{16}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Abk\IeC {\"u}hlmedien}{16}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Anpassung der Gef\IeC {\"u}ge durch W\IeC {\"a}rmebehandlung}{16}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Lamellar}{17}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Martensit}{17}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Bi-Modal}{17}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Globular}{18}{subsection.2.2.4}
-\contentsline {section}{\numberline {2.3}Auswertung der Proben}{18}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Probenpr\IeC {\"a}paration}{18}{subsection.2.3.1}
-\contentsline {subsubsection}{Trennen}{18}{subsubsection*.4}
-\contentsline {subsubsection}{Einbetten}{18}{subsubsection*.5}
-\contentsline {subsubsection}{Schleifen}{19}{subsubsection*.6}
-\contentsline {subsubsection}{Polieren}{19}{subsubsection*.7}
-\contentsline {subsubsection}{\IeC {\"A}tzen}{19}{subsubsection*.8}
-\contentsline {subsection}{\numberline {2.3.2}Lichtoptische Analyse}{19}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Ausz\IeC {\"a}hlverfahren}{20}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Rasterelektronenmikroskopie}{21}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Energiedisperive R\IeC {\"o}ntgenspektroskopie}{22}{subsection.2.3.5}
-\contentsline {subsection}{\numberline {2.3.6}H\IeC {\"a}rtepr\IeC {\"u}fverfahren nach Vickers (DIN EN ISO 6507-1)}{23}{subsection.2.3.6}
-\contentsline {subsection}{\numberline {2.3.7}Zugversuch (DIN EN ISO 6892-1 Teil B)}{24}{subsection.2.3.7}
-\contentsline {chapter}{\numberline {3}W\IeC {\"a}rmebehandlungsstrategien}{25}{chapter.3}
-\contentsline {section}{\numberline {3.1}Festigkeitssteigerung durch Martensitbildung}{25}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Abh\IeC {\"a}ngigkeit des Prim\IeC {\"a}r Alpha Anteils von der Gl\IeC {\"u}htemperatur}{25}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Abh\IeC {\"a}ngigkeit der H\IeC {\"a}rte vom Prim\IeC {\"a}r-Alpha-Anteil}{26}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Elementverteilung in den Phasen}{27}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Bewertung der Ergebnisse}{27}{subsection.3.1.4}
-\contentsline {section}{\numberline {3.2}Festigkeitssteigerung durch Bildung und Zerfall des Vollmatensits}{28}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Angestrebte W\IeC {\"a}rmebehandlung}{29}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Ergebnisse und Bewertung der W\IeC {\"a}rmebehandlungen}{29}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}Festigkeitssteigerung durch Auslagern von Prim\IeC {\"a}ralpha und Martensit}{31}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}1. W\IeC {\"a}rmebehandlerung: Auslagerung mit dem Ziel eines zerfallenen Martensit}{32}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Ergebnisse der Auslagerung}{32}{subsection.3.3.2}
-\contentsline {subsubsection}{970\IeC {\textdegree }C Auslagerung}{32}{subsubsection*.9}
-\contentsline {subsubsection}{950\IeC {\textdegree }C Auslagerung}{34}{subsubsection*.10}
-\contentsline {subsection}{\numberline {3.3.3}2. W\IeC {\"a}rmebehandlung: Verl\IeC {\"a}ngerte Haltezeit der Auslagerung}{34}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Ergebnisse mit l\IeC {\"a}ngerer Haltezeit}{36}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Ermittlung der Zugfestigkeit}{37}{section.3.4}
-\contentsline {chapter}{\numberline {4}Diskussion der erzielten Ergebnisse in Hinblick auf eine Gef\IeC {\"u}geoptimierung}{42}{chapter.4}
-\contentsline {section}{\numberline {4.1}H\IeC {\"a}rtesteigerung durch das Prim\IeC {\"a}r Alpha-Martensit-Gef\IeC {\"u}ge}{42}{section.4.1}
-\contentsline {section}{\numberline {4.2}Abnahme der Zugfestigkeit des Vollmartensites gegen\IeC {\"u}ber dem $\alpha -\alpha '$-Gef\IeC {\"u}ge}{43}{section.4.2}
-\contentsline {section}{\numberline {4.3}Alterung des Martensits}{44}{section.4.3}
+\contentsline {chapter}{Einleitung}{1}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Titanwerkstoffe}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Gef\IeC {\"u}gemerkmale (Tammo Stein)}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Alpha-Phase}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Beta-Phase}{5}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Lamellar}{6}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Martensit}{6}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Globular}{7}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}Bi-Modal}{7}{subsection.1.1.6}
+\contentsline {section}{\numberline {1.2}Legierungselemente (Jonas Veer)}{7}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Neutrale Legierungselemente}{7}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Alpha stabilisierende Legierungselemente}{9}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Beta stabilisierende Legierungselemente}{9}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Diffusion von Legierungselementen}{10}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}Intermetallische Verbindungen (Steffen Vodde)}{11}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Intermetallische Alpha-Phase}{11}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Intermetallische Beta-Phasen}{12}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}Ti 6Al 4V (Jannik Hansen)}{12}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Legierungselemente und Verwendung}{12}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Mechanische Eigenschaften}{13}{subsection.1.4.2}
+\contentsline {chapter}{\numberline {2}Angewandte Methodik und Analyseverfahren}{14}{chapter.2}
+\contentsline {section}{\numberline {2.1}W\IeC {\"a}rmebehandlung (Tammo Stein)}{14}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Temperaturkontrolle}{14}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Abk\IeC {\"u}hlmedien}{14}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Anpassung der Gef\IeC {\"u}ge durch W\IeC {\"a}rmebehandlung (Tammo Stein)}{15}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Lamellar}{15}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Martensit}{15}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Bi-Modal}{16}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Globular}{16}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Auswertung der Proben}{16}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Probenpr\IeC {\"a}paration (Jannik Hansen)}{16}{subsection.2.3.1}
+\contentsline {subsubsection}{Trennen}{16}{subsubsection*.4}
+\contentsline {subsubsection}{Einbetten}{16}{subsubsection*.5}
+\contentsline {subsubsection}{Schleifen}{17}{subsubsection*.6}
+\contentsline {subsubsection}{Polieren}{17}{subsubsection*.7}
+\contentsline {subsubsection}{\IeC {\"A}tzen}{17}{subsubsection*.8}
+\contentsline {subsection}{\numberline {2.3.2}Lichtoptische Analyse (Jonas Veer)}{18}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Ausz\IeC {\"a}hlverfahren (Steffen Vodde)}{18}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Rasterelektronenmikroskopie (Steffen Vodde)}{19}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Energiedisperive R\IeC {\"o}ntgenspektroskopie (Steffen Vodde)}{20}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}H\IeC {\"a}rtepr\IeC {\"u}fverfahren nach Vickers (DIN EN ISO 6507-1) (Jannik Hansen)}{21}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Zugversuch (DIN EN ISO 6892-1 Teil B) (Tammo Stein)}{22}{subsection.2.3.7}
+\contentsline {chapter}{\numberline {3}W\IeC {\"a}rmebehandlungsstrategien}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Festigkeitssteigerung durch Martensitbildung (Steffen Vodde)}{23}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Abh\IeC {\"a}ngigkeit des Prim\IeC {\"a}r-Alpha-Anteils von der Gl\IeC {\"u}htemperatur}{23}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Abh\IeC {\"a}ngigkeit der H\IeC {\"a}rte vom Prim\IeC {\"a}r-Alpha-Anteil}{24}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Elementverteilung in den Phasen}{25}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Bewertung der Ergebnisse}{25}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Festigkeitssteigerung durch Bildung und Zerfall des Vollmatensits (Jonas Veer)}{26}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Angestrebte W\IeC {\"a}rmebehandlung}{27}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Ergebnisse und Bewertung der W\IeC {\"a}rmebehandlungen}{27}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Festigkeitssteigerung durch Auslagern von Prim\IeC {\"a}ralpha und Martensit (Tammo Stein)}{29}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}1. W\IeC {\"a}rmebehandlerung: Auslagerung mit dem Ziel eines zerfallenen Martensit}{30}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Ergebnisse der Auslagerung}{30}{subsection.3.3.2}
+\contentsline {subsubsection}{970\IeC {\textdegree }C Auslagerung}{30}{subsubsection*.9}
+\contentsline {subsubsection}{950\IeC {\textdegree }C Auslagerung}{32}{subsubsection*.10}
+\contentsline {subsection}{\numberline {3.3.3}2. W\IeC {\"a}rmebehandlung: Verl\IeC {\"a}ngerte Haltezeit der Auslagerung}{32}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Ergebnisse mit l\IeC {\"a}ngerer Haltezeit}{34}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Ermittlung der Zugfestigkeit (Jannik Hansen)}{35}{section.3.4}
+\contentsline {chapter}{\numberline {4}Diskussion der erzielten Ergebnisse in Hinblick auf eine Gef\IeC {\"u}geoptimierung}{40}{chapter.4}
+\contentsline {section}{\numberline {4.1}H\IeC {\"a}rtesteigerung durch das Prim\IeC {\"a}r-Alpha-Martensit-Gef\IeC {\"u}ge (Jannik Hansen)}{40}{section.4.1}
+\contentsline {section}{\numberline {4.2}Abnahme der Zugfestigkeit des Vollmartensites gegen\IeC {\"u}ber dem Prim\IeC {\"a}r-Alpha-Martensit-Gef\IeC {\"u}ge (Jannik Hansen)}{41}{section.4.2}
+\contentsline {section}{\numberline {4.3}Alterung des Martensits aus dem Prim\IeC {\"a}r-Alpha-Martensit-Gef\IeC {\"u}ges (Tammo Stein)}{42}{section.4.3}
